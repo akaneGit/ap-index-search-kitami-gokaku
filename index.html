@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>応用情報 索引検索</title>
+  <title>文書の索引検索</title>
   <style>
     :root { color-scheme: light; font-family: system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif; }
     * { box-sizing: border-box; }
@@ -31,16 +31,16 @@
 </head>
 <body>
   <main>
-    <h1>応用情報 索引検索</h1>
-    <p class="hint">索引語を入力すると、教本の掲載ページを検索できます。</p>
+    <h1>文書の索引検索</h1>
+    <p class="hint">文書を選んで索引語を入力すると、掲載ページを検索できます。</p>
     <section class="controls" aria-label="検索条件">
       <div class="row">
-        <div><label for="book">教本</label><select id="book"><option value="kitami">キタミ式 令和08年</option><option value="gokaku">応用情報 合格教本 令和08年</option></select></div>
+        <div><label for="book">文書</label><select id="book"></select></div>
         <div><label for="order">並び順</label><select id="order"><option value="index">索引順</option><option value="page">掲載ページ順</option></select></div>
       </div>
       <label for="query">検索する言葉</label>
       <input id="query" type="search" autocomplete="off" placeholder="例：公開鍵、正規化、DNS" autofocus>
-      <div class="options"><label><input type="checkbox" id="review"> 要確認だけ表示</label><span>「要確認」は画像から読み取った際に文字・数字が不鮮明だった項目です。</span></div>
+      <div class="options"><label><input type="checkbox" id="review"> 要確認だけ表示</label><span>「要確認」は用語やページ番号の確認が必要な項目です。</span></div>
     </section>
     <p id="summary" role="status" aria-live="polite"></p>
     <div id="results"></div>

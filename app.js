@@ -6,10 +6,23 @@
   const review = document.querySelector('#review');
   const summary = document.querySelector('#summary');
   const results = document.querySelector('#results');
+  const documents = window.AP_INDEX_DOCUMENTS || Object.keys(data).map(id => ({ id, title: id }));
+  book.replaceChildren();
+  for (const item of documents) {
+    const option = document.createElement('option');
+    option.value = item.id;
+    option.textContent = item.title;
+    book.append(option);
+  }
+  for (const control of [book, query, order, review]) control.disabled = !documents.length;
   const normalize = s => String(s || '').normalize('NFKC').toLowerCase().replace(/[\s\u3000・･.．‐‑–—−ー_()（）/／]/g, '');
   const firstPage = s => Number(String(s).match(/\d+/)?.[0] || 9999);
 
   function draw() {
+    if (!documents.length) {
+      summary.textContent = '0件の文書';
+      const p = document.createElement('p'); p.className = 'empty'; p.textContent = '検索できる文書がありません。'; results.replaceChildren(p); return;
+    }
     const items = data[book.value] || [];
     const words = normalize(query.value);
     if (!words && !review.checked) {
@@ -32,7 +45,7 @@
       left.append(term);
       if (item.needsReview) {
         const note = document.createElement('div'); note.className = 'note';
-        note.textContent = `要確認 · 索引 p.${item.indexPage}`; left.append(note);
+        note.textContent = item.indexPage ? `要確認 · 索引 p.${item.indexPage}` : '要確認'; left.append(note);
       }
       const pages = document.createElement('div'); pages.className = 'pages'; pages.textContent = `p.${item.pages}`;
       article.append(left, pages); fragment.append(article);
