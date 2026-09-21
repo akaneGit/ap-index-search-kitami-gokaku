@@ -6,7 +6,7 @@
 
 ## 公開サイト
 
-[文書の索引検索を開く](https://akanegit.github.io/ap-index-search-kitami-gokaku/)
+[文書の索引検索を開く](https://akanegit.github.io/doc-index-search/)
 
 スマートフォン・PCのブラウザから利用できます。ログインは不要です。
 
@@ -69,7 +69,7 @@
 - `data/kitami/index-935.json` から `index-951.json` は、キタミ式の**索引ページ別**の用語です。`data/gokaku/index-786.json` などは合格教本のデータです。
 - 各 `entries` の `word`（索引語）と `pages`（本文ページ）を直してください。確認できた項目は `needsReview` を `false` にできます。行の特定には `indexPage`、`column`（0=左、1=右）、`row` を使えます。
 - GitHubへ送信すると、公開サイトの検索用データが自動生成されます。JSONに構造や型の誤りがある場合は公開を止め、Actionsのログにファイル名と項目位置を表示します。
-- `要確認一覧.csv` は全ての文書の `needsReview: true` の項目をまとめた一覧です。文書ID・文書名・元ファイルで修正箇所を特定できます。[公開サイトの最新CSV](https://akanegit.github.io/ap-index-search-kitami-gokaku/要確認一覧.csv) も取得できます。元画像は含みません。
+- `要確認一覧.csv` は全ての文書の `needsReview: true` の項目をまとめた一覧です。文書ID・文書名・元ファイルで修正箇所を特定できます。[公開サイトの最新CSV](https://akanegit.github.io/doc-index-search/要確認一覧.csv) も取得できます。元画像は含みません。
 - OCRで `word` または `pages` が空文字になった項目は、検索対象から除外します。元JSONには残り、`needsReview: true` なら要確認一覧にも残ります。
 
 ## 読み取りの精度
