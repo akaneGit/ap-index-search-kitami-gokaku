@@ -1,0 +1,1115 @@
+{
+  "indexPage": 938,
+  "entries": [
+    {
+      "word": "Opportunity",
+      "pages": "876",
+      "indexPage": 938,
+      "column": 0,
+      "row": 1,
+      "needsReview": false
+    },
+    {
+      "word": "Optical CharacterReader",
+      "pages": "268",
+      "indexPage": 938,
+      "column": 0,
+      "row": 2,
+      "needsReview": false
+    },
+    {
+      "word": "Optical MarkReader",
+      "pages": "268",
+      "indexPage": 938,
+      "column": 0,
+      "row": 3,
+      "needsReview": false
+    },
+    {
+      "word": "OR",
+      "pages": "56,141",
+      "indexPage": 938,
+      "column": 0,
+      "row": 4,
+      "needsReview": false
+    },
+    {
+      "word": "ORDERBY",
+      "pages": "465",
+      "indexPage": 938,
+      "column": 0,
+      "row": 5,
+      "needsReview": false
+    },
+    {
+      "word": "OS",
+      "pages": "280",
+      "indexPage": 938,
+      "column": 0,
+      "row": 6,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "OS",
+        "tesseract": "OS"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "OSI基本参照儿",
+      "pages": "518,524",
+      "indexPage": 938,
+      "column": 0,
+      "row": 7,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "OSI基本参照儿",
+        "tesseract": "OSIBASIRETIL"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "式",
+      "pages": "422",
+      "indexPage": 938,
+      "column": 0,
+      "row": 8,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "式",
+        "tesseract": "ox"
+      },
+      "reviewReason": "用語が欠落または短い / ページ認識の確度"
+    },
+    {
+      "word": "P/L",
+      "pages": "930",
+      "indexPage": 938,
+      "column": 0,
+      "row": 9,
+      "needsReview": false
+    },
+    {
+      "word": "Parallel Processing",
+      "pages": "202",
+      "indexPage": 938,
+      "column": 0,
+      "row": 10,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Parallel Processing",
+        "tesseract": "ParallelProcessing:"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "PayBackPeriod",
+      "pages": "918",
+      "indexPage": 938,
+      "column": 0,
+      "row": 11,
+      "needsReview": false
+    },
+    {
+      "word": "PBP",
+      "pages": "918",
+      "indexPage": 938,
+      "column": 0,
+      "row": 12,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "PBP",
+        "tesseract": "PBPenveccas:"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "PC",
+      "pages": "258",
+      "indexPage": 938,
+      "column": 0,
+      "row": 13,
+      "needsReview": false
+    },
+    {
+      "word": "PCIExpress",
+      "pages": "259",
+      "indexPage": 938,
+      "column": 0,
+      "row": 14,
+      "needsReview": false
+    },
+    {
+      "word": "PCle",
+      "pages": "259",
+      "indexPage": 938,
+      "column": 0,
+      "row": 15,
+      "needsReview": false
+    },
+    {
+      "word": "PCM",
+      "pages": "134",
+      "indexPage": 938,
+      "column": 0,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "PDCAサイクル",
+      "pages": "838",
+      "indexPage": 938,
+      "column": 0,
+      "row": 17,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "PDCA",
+        "tesseract": "PDCAサイクル"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "PDM",
+      "pages": "812",
+      "indexPage": 938,
+      "column": 0,
+      "row": 18,
+      "needsReview": false
+    },
+    {
+      "word": "PDPG肖に",
+      "pages": "847",
+      "indexPage": 938,
+      "column": 0,
+      "row": 19,
+      "needsReview": false
+    },
+    {
+      "word": "PeripheralComponentInterconnect",
+      "pages": "258",
+      "indexPage": 938,
+      "column": 0,
+      "row": 20,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "PeripheralComponentInterconnect",
+        "tesseract": "PeripheralComponentInterconnec"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "PERT図",
+      "pages": "807",
+      "indexPage": 938,
+      "column": 0,
+      "row": 21,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "PERT网",
+        "tesseract": "PERT図"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ping",
+      "pages": "566",
+      "indexPage": 938,
+      "column": 0,
+      "row": 22,
+      "needsReview": false
+    },
+    {
+      "word": "PKI",
+      "pages": "659",
+      "indexPage": 938,
+      "column": 0,
+      "row": 23,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "PKI",
+        "tesseract": "PKIRTTTCTTT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "PLD",
+      "pages": "158",
+      "indexPage": 938,
+      "column": 0,
+      "row": 24,
+      "needsReview": false
+    },
+    {
+      "word": "PL法",
+      "pages": "900",
+      "indexPage": 938,
+      "column": 0,
+      "row": 25,
+      "needsReview": false
+    },
+    {
+      "word": "PMBOK",
+      "pages": "802",
+      "indexPage": 938,
+      "column": 0,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "POP",
+      "pages": "573,591",
+      "indexPage": 938,
+      "column": 0,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "POP3",
+      "pages": "591",
+      "indexPage": 938,
+      "column": 0,
+      "row": 28,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "POP3",
+        "tesseract": "POP3"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "Post OfficeProtocol",
+      "pages": "573",
+      "indexPage": 938,
+      "column": 0,
+      "row": 29,
+      "needsReview": false
+    },
+    {
+      "word": "wdd",
+      "pages": "275",
+      "indexPage": 938,
+      "column": 0,
+      "row": 30,
+      "needsReview": false
+    },
+    {
+      "word": "PPM",
+      "pages": "877",
+      "indexPage": 938,
+      "column": 0,
+      "row": 31,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "PPM",
+        "tesseract": "PPMpactreccwenanesauccacanabncanasdsscesasenessanse"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "PrecedenceDiagramMethod",
+      "pages": "812",
+      "indexPage": 938,
+      "column": 0,
+      "row": 32,
+      "needsReview": false
+    },
+    {
+      "word": "ProductPortfolio Management",
+      "pages": "877",
+      "indexPage": 938,
+      "column": 0,
+      "row": 33,
+      "needsReview": false
+    },
+    {
+      "word": "Profit&Lossstatement",
+      "pages": "930",
+      "indexPage": 938,
+      "column": 0,
+      "row": 34,
+      "needsReview": false
+    },
+    {
+      "word": "ProgrammableLogicDevice",
+      "pages": "158",
+      "indexPage": 938,
+      "column": 0,
+      "row": 35,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ProgrammableLogicDevice",
+        "tesseract": "ProgrammableLogicDevice…ETD"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ProgrammableRoM",
+      "pages": "212",
+      "indexPage": 938,
+      "column": 0,
+      "row": 36,
+      "needsReview": false
+    },
+    {
+      "word": "PROM",
+      "pages": "212",
+      "indexPage": 938,
+      "column": 0,
+      "row": 37,
+      "needsReview": false
+    },
+    {
+      "word": "Protocol Data Unit",
+      "pages": "567",
+      "indexPage": 938,
+      "column": 0,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "PublicKeyInfrastructure",
+      "pages": "659",
+      "indexPage": 938,
+      "column": 0,
+      "row": 39,
+      "needsReview": false
+    },
+    {
+      "word": "Pulse Code Modulation",
+      "pages": "134",
+      "indexPage": 938,
+      "column": 0,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "P操作",
+      "pages": "310",
+      "indexPage": 938,
+      "column": 0,
+      "row": 41,
+      "needsReview": false
+    },
+    {
+      "word": "QRコ",
+      "pages": "269",
+      "indexPage": 938,
+      "column": 0,
+      "row": 42,
+      "needsReview": false
+    },
+    {
+      "word": "RAD",
+      "pages": "694",
+      "indexPage": 938,
+      "column": 0,
+      "row": 43,
+      "needsReview": false
+    },
+    {
+      "word": "RadioFrequencyIDentification",
+      "pages": "270",
+      "indexPage": 938,
+      "column": 0,
+      "row": 44,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RadioFrequencyIDentification",
+        "tesseract": "RadioFrequencyIDentificationRT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RAID",
+      "pages": "239",
+      "indexPage": 938,
+      "column": 0,
+      "row": 45,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RAID",
+        "tesseract": "RAIO"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RAIDO",
+      "pages": "239,240",
+      "indexPage": 938,
+      "column": 0,
+      "row": 46,
+      "needsReview": false
+    },
+    {
+      "word": "RAID1",
+      "pages": "239,240",
+      "indexPage": 938,
+      "column": 0,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RAID1",
+        "tesseract": "RAID1me"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RAID10",
+      "pages": "240",
+      "indexPage": 938,
+      "column": 0,
+      "row": 48,
+      "needsReview": false
+    },
+    {
+      "word": "RAID2",
+      "pages": "239,241",
+      "indexPage": 938,
+      "column": 0,
+      "row": 49,
+      "needsReview": false
+    },
+    {
+      "word": "RAID3",
+      "pages": "239,241",
+      "indexPage": 938,
+      "column": 0,
+      "row": 50,
+      "needsReview": false
+    },
+    {
+      "word": "RAID",
+      "pages": "239,241",
+      "indexPage": 938,
+      "column": 1,
+      "row": 1,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RAID",
+        "tesseract": "RAID4"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RAID5",
+      "pages": "239,241",
+      "indexPage": 938,
+      "column": 1,
+      "row": 2,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RAID5",
+        "tesseract": "RAID5asossaesnds"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RAID6",
+      "pages": "239,241",
+      "indexPage": 938,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RAID6",
+        "tesseract": "RAID6FT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RAM",
+      "pages": "210,211",
+      "indexPage": 938,
+      "column": 1,
+      "row": 4,
+      "needsReview": false
+    },
+    {
+      "word": "Random Access Memory",
+      "pages": "210",
+      "indexPage": 938,
+      "column": 1,
+      "row": 5,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Random Access Memory",
+        "tesseract": "RandomAccessMemoryTTYTTTTYTTTT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Rapid Application Development",
+      "pages": "694",
+      "indexPage": 938,
+      "column": 1,
+      "row": 6,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Rapid Application Development",
+        "tesseract": "RapidApplicationDevelopmentOL"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RARP",
+      "pages": "561",
+      "indexPage": 938,
+      "column": 1,
+      "row": 7,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RARP",
+        "tesseract": "RARPYTVTTTYYTTTTYYTTT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RASIS",
+      "pages": "780",
+      "indexPage": 938,
+      "column": 1,
+      "row": 8,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RASIS",
+        "tesseract": "RASISee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RDB",
+      "pages": "433",
+      "indexPage": 938,
+      "column": 1,
+      "row": 9,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RDB",
+        "tesseract": "RDBTTYTTTTTUTTUUTUTTTTUTUUTUUTTUTUTUTUTUTUUTUT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "READY",
+      "pages": "296",
+      "indexPage": 938,
+      "column": 1,
+      "row": 10,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "READY",
+        "tesseract": "READYoancenca"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RecoveryLevel Objective",
+      "pages": "823",
+      "indexPage": 938,
+      "column": 1,
+      "row": 11,
+      "needsReview": false
+    },
+    {
+      "word": "RecoveryPointObjective",
+      "pages": "823",
+      "indexPage": 938,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RecoveryPointObjective",
+        "tesseract": "RecoveryPointObjectiveET"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RecoveryTime Objective",
+      "pages": "823",
+      "indexPage": 938,
+      "column": 1,
+      "row": 13,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RecoveryTime Objective",
+        "tesseract": "RecoveryTimeObjectiveTTY"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Reduced Instruction Set Computer",
+      "pages": "200",
+      "indexPage": 938,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Reduced Instruction Set Computer",
+        "tesseract": "ReducedInstructionSetComputer"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "Relational Database",
+      "pages": "433",
+      "indexPage": 938,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Relational Database",
+        "tesseract": "RelationalDatabaseTUTTITLTLLTLUTU"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "reliabilityててscone:",
+      "pages": "609",
+      "indexPage": 938,
+      "column": 1,
+      "row": 16,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "reliability",
+        "tesseract": "reliabilityててscone:"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RequestFor Comments",
+      "pages": "575",
+      "indexPage": 938,
+      "column": 1,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "RequestforInformation",
+      "pages": "675",
+      "indexPage": 938,
+      "column": 1,
+      "row": 18,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RequestforInformation",
+        "tesseract": "RequestforInformationPT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RequestForProposal",
+      "pages": "675",
+      "indexPage": 938,
+      "column": 1,
+      "row": 19,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RequestForProposal",
+        "tesseract": "RequestForProposalTTY"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Return OnAssets",
+      "pages": "926,932",
+      "indexPage": 938,
+      "column": 1,
+      "row": 20,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Return OnAssets",
+        "tesseract": "ReturnOnAssetsee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Return On Investment",
+      "pages": "918",
+      "indexPage": 938,
+      "column": 1,
+      "row": 21,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Return On Investment",
+        "tesseract": "ReturnOnInvestmentee"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ReverseAddressResolutionProtocol",
+      "pages": "561",
+      "indexPage": 938,
+      "column": 1,
+      "row": 22,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ReverseAddressResolutionProtocol",
+        "tesseract": "ReverseAddressResolutionProtoc"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RFC",
+      "pages": "575",
+      "indexPage": 938,
+      "column": 1,
+      "row": 23,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RFC",
+        "tesseract": "RFCarenev"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RFI",
+      "pages": "675",
+      "indexPage": 938,
+      "column": 1,
+      "row": 24,
+      "needsReview": false
+    },
+    {
+      "word": "RFID",
+      "pages": "270",
+      "indexPage": 938,
+      "column": 1,
+      "row": 25,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RFID",
+        "tesseract": "RFIDU"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RFP",
+      "pages": "675",
+      "indexPage": 938,
+      "column": 1,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "RGB",
+      "pages": "272",
+      "indexPage": 938,
+      "column": 1,
+      "row": 27,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RGB",
+        "tesseract": "RGB"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "RISC",
+      "pages": "200",
+      "indexPage": 938,
+      "column": 1,
+      "row": 28,
+      "needsReview": false
+    },
+    {
+      "word": "RLO",
+      "pages": "823",
+      "indexPage": 938,
+      "column": 1,
+      "row": 29,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RLO",
+        "tesseract": "RLO"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ROA",
+      "pages": "926,932",
+      "indexPage": 938,
+      "column": 1,
+      "row": 30,
+      "needsReview": false
+    },
+    {
+      "word": "RoboticProcessAutomation",
+      "pages": "285",
+      "indexPage": 938,
+      "column": 1,
+      "row": 31,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RoboticProcessAutomation",
+        "tesseract": "RoboticProcessAutomation"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ROE",
+      "pages": "926,932",
+      "indexPage": 938,
+      "column": 1,
+      "row": 32,
+      "needsReview": false
+    },
+    {
+      "word": "RO",
+      "pages": "918",
+      "indexPage": 938,
+      "column": 1,
+      "row": 33,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RO",
+        "tesseract": "ROITOT"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ROM",
+      "pages": "210",
+      "indexPage": 938,
+      "column": 1,
+      "row": 34,
+      "needsReview": false
+    },
+    {
+      "word": "ROMの種類",
+      "pages": "212",
+      "indexPage": 938,
+      "column": 1,
+      "row": 35,
+      "needsReview": false
+    },
+    {
+      "word": "rootkit",
+      "pages": "626",
+      "indexPage": 938,
+      "column": 1,
+      "row": 36,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "rootkit",
+        "tesseract": "rootkitrenevw"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RPO",
+      "pages": "823",
+      "indexPage": 938,
+      "column": 1,
+      "row": 37,
+      "needsReview": false
+    },
+    {
+      "word": "RSA",
+      "pages": "660",
+      "indexPage": 938,
+      "column": 1,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "RSフリップフロップ回路",
+      "pages": "142",
+      "indexPage": 938,
+      "column": 1,
+      "row": 39,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "RS路",
+        "tesseract": "RSフリップフロップ回路"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "RTO",
+      "pages": "823",
+      "indexPage": 938,
+      "column": 1,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "RTOS",
+      "pages": "305",
+      "indexPage": 938,
+      "column": 1,
+      "row": 41,
+      "needsReview": false
+    },
+    {
+      "word": "RUN",
+      "pages": "296",
+      "indexPage": 938,
+      "column": 1,
+      "row": 42,
+      "needsReview": false
+    },
+    {
+      "word": "S/MIME",
+      "pages": "593",
+      "indexPage": 938,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "S/MIME",
+        "tesseract": "S/MIMEpenensnco"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "SATA",
+      "pages": "261,263",
+      "indexPage": 938,
+      "column": 1,
+      "row": 44,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "SATA",
+        "tesseract": "SATAv"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "SCSI",
+      "pages": "260",
+      "indexPage": 938,
+      "column": 1,
+      "row": 45,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "SCSI",
+        "tesseract": "SCSITTY"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "SDN",
+      "pages": "533",
+      "indexPage": 938,
+      "column": 1,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "SDN",
+        "tesseract": "SDNTTYUTUT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Search EngineOptimization",
+      "pages": "582",
+      "indexPage": 938,
+      "column": 1,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Search EngineOptimization",
+        "tesseract": "SearchEngine"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "SecureSocketsLayer",
+      "pages": "661",
+      "indexPage": 938,
+      "column": 1,
+      "row": 48,
+      "needsReview": false
+    },
+    {
+      "word": "TTYTTTTUUTUTTTUTTLUYTLTUUTUUTUTLU",
+      "pages": "663",
+      "indexPage": 938,
+      "column": 1,
+      "row": 49,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "TTYTTTTUUTUTTTUTTLUYTLTUUTUUTUTLU"
+      },
+      "reviewReason": "英字の用語が不鮮明 / ページ認識の確度"
+    },
+    {
+      "word": "SELECT文",
+      "pages": "458",
+      "indexPage": 938,
+      "column": 1,
+      "row": 50,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "SELECT文",
+        "tesseract": "SELECTee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "SEO",
+      "pages": "582",
+      "indexPage": 938,
+      "column": 1,
+      "row": 51,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "SEO",
+        "tesseract": "SEOeesccanscacsa"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "SEOポイズニング",
+      "pages": "582",
+      "indexPage": 938,
+      "column": 1,
+      "row": 52,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "SEO",
+        "tesseract": "SEOポイズニング"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ServiceLevelAgreement",
+      "pages": "818",
+      "indexPage": 938,
+      "column": 1,
+      "row": 53,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ServiceLevelAgreement",
+        "tesseract": "ServiceLevel"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Service Level Management",
+      "pages": "818,821",
+      "indexPage": 938,
+      "column": 1,
+      "row": 54,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Service Level Management",
+        "tesseract": "ServiceLevelManagement:ee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Service Oriented Architecture",
+      "pages": "766",
+      "indexPage": 938,
+      "column": 1,
+      "row": 55,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Service Oriented Architecture",
+        "tesseract": "ServiceOrientedArchitecture"
+      },
+      "reviewReason": "ページ認識の確度"
+    }
+  ]
+}

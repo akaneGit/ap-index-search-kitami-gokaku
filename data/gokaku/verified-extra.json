@@ -1,0 +1,845 @@
+{
+  "indexPage": "verified-extra",
+  "entries": [
+    {
+      "word": "2 out of 3システム",
+      "pages": "220",
+      "indexPage": 0,
+      "column": 0,
+      "row": 1,
+      "needsReview": false
+    },
+    {
+      "word": "2進数",
+      "pages": "23",
+      "indexPage": 0,
+      "column": 0,
+      "row": 2,
+      "needsReview": false
+    },
+    {
+      "word": "A/Dコンバータ",
+      "pages": "128",
+      "indexPage": 0,
+      "column": 0,
+      "row": 3,
+      "needsReview": false
+    },
+    {
+      "word": "A/D変換",
+      "pages": "128",
+      "indexPage": 0,
+      "column": 0,
+      "row": 4,
+      "needsReview": false
+    },
+    {
+      "word": "AI",
+      "pages": "66-67",
+      "indexPage": 0,
+      "column": 0,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "ALU",
+      "pages": "134,135",
+      "indexPage": 0,
+      "column": 0,
+      "row": 7,
+      "needsReview": false
+    },
+    {
+      "word": "BPM",
+      "pages": "606",
+      "indexPage": 0,
+      "column": 0,
+      "row": 8,
+      "needsReview": false
+    },
+    {
+      "word": "BPO",
+      "pages": "607",
+      "indexPage": 0,
+      "column": 0,
+      "row": 9,
+      "needsReview": false
+    },
+    {
+      "word": "BSC",
+      "pages": "619",
+      "indexPage": 0,
+      "column": 0,
+      "row": 10,
+      "needsReview": false
+    },
+    {
+      "word": "CG",
+      "pages": "276",
+      "indexPage": 0,
+      "column": 0,
+      "row": 11,
+      "needsReview": false
+    },
+    {
+      "word": "CG/コンピュータグラフィックス",
+      "pages": "276",
+      "indexPage": 0,
+      "column": 0,
+      "row": 12,
+      "needsReview": false
+    },
+    {
+      "word": "CPI",
+      "pages": "145,148,569",
+      "indexPage": 0,
+      "column": 0,
+      "row": 13,
+      "needsReview": false
+    },
+    {
+      "word": "CPU",
+      "pages": "132-134",
+      "indexPage": 0,
+      "column": 0,
+      "row": 14,
+      "needsReview": false
+    },
+    {
+      "word": "CRM",
+      "pages": "620",
+      "indexPage": 0,
+      "column": 0,
+      "row": 15,
+      "needsReview": false
+    },
+    {
+      "word": "D/Aコンバータ",
+      "pages": "129",
+      "indexPage": 0,
+      "column": 0,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "DBMS",
+      "pages": "293",
+      "indexPage": 0,
+      "column": 0,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "DevOps",
+      "pages": "498",
+      "indexPage": 0,
+      "column": 0,
+      "row": 18,
+      "needsReview": false
+    },
+    {
+      "word": "DNS",
+      "pages": "375,377,407",
+      "indexPage": 0,
+      "column": 0,
+      "row": 19,
+      "needsReview": false
+    },
+    {
+      "word": "Eclipse",
+      "pages": "270",
+      "indexPage": 0,
+      "column": 0,
+      "row": 20,
+      "needsReview": false
+    },
+    {
+      "word": "Ethernet",
+      "pages": "386",
+      "indexPage": 0,
+      "column": 0,
+      "row": 21,
+      "needsReview": false
+    },
+    {
+      "word": "FinTech",
+      "pages": "624",
+      "indexPage": 0,
+      "column": 0,
+      "row": 22,
+      "needsReview": false
+    },
+    {
+      "word": "Git",
+      "pages": "271",
+      "indexPage": 0,
+      "column": 0,
+      "row": 24,
+      "needsReview": false
+    },
+    {
+      "word": "HTTP",
+      "pages": "377,405",
+      "indexPage": 0,
+      "column": 0,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "IDE",
+      "pages": "270",
+      "indexPage": 0,
+      "column": 0,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "INSERT",
+      "pages": "310,323",
+      "indexPage": 0,
+      "column": 0,
+      "row": 28,
+      "needsReview": false
+    },
+    {
+      "word": "IoT",
+      "pages": "627",
+      "indexPage": 0,
+      "column": 0,
+      "row": 29,
+      "needsReview": false
+    },
+    {
+      "word": "JIS / ISO",
+      "pages": "650-666",
+      "indexPage": 0,
+      "column": 0,
+      "row": 32,
+      "needsReview": false
+    },
+    {
+      "word": "LiDAR/センサ",
+      "pages": "131",
+      "indexPage": 0,
+      "column": 0,
+      "row": 33,
+      "needsReview": false
+    },
+    {
+      "word": "MOT/技術経営",
+      "pages": "631",
+      "indexPage": 0,
+      "column": 0,
+      "row": 34,
+      "needsReview": false
+    },
+    {
+      "word": "MOT/技術経営/技術戦略",
+      "pages": "631",
+      "indexPage": 0,
+      "column": 0,
+      "row": 35,
+      "needsReview": false
+    },
+    {
+      "word": "MTTR",
+      "pages": "214,216",
+      "indexPage": 0,
+      "column": 0,
+      "row": 37,
+      "needsReview": false
+    },
+    {
+      "word": "OS基本参照モデル",
+      "pages": "374",
+      "indexPage": 0,
+      "column": 0,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "PCIe",
+      "pages": "162",
+      "indexPage": 0,
+      "column": 0,
+      "row": 39,
+      "needsReview": false
+    },
+    {
+      "word": "PERT",
+      "pages": "613",
+      "indexPage": 0,
+      "column": 0,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "PKI",
+      "pages": "454",
+      "indexPage": 0,
+      "column": 0,
+      "row": 41,
+      "needsReview": false
+    },
+    {
+      "word": "PMBOK",
+      "pages": "554,556,661",
+      "indexPage": 0,
+      "column": 0,
+      "row": 42,
+      "needsReview": false
+    },
+    {
+      "word": "Python",
+      "pages": "105,271,358",
+      "indexPage": 0,
+      "column": 0,
+      "row": 43,
+      "needsReview": false
+    },
+    {
+      "word": "RAID",
+      "pages": "188-190",
+      "indexPage": 0,
+      "column": 0,
+      "row": 44,
+      "needsReview": false
+    },
+    {
+      "word": "RAM",
+      "pages": "150,593",
+      "indexPage": 0,
+      "column": 0,
+      "row": 45,
+      "needsReview": false
+    },
+    {
+      "word": "RFP",
+      "pages": "657",
+      "indexPage": 0,
+      "column": 0,
+      "row": 46,
+      "needsReview": false
+    },
+    {
+      "word": "RPA",
+      "pages": "607",
+      "indexPage": 0,
+      "column": 0,
+      "row": 47,
+      "needsReview": false
+    },
+    {
+      "word": "SELECT",
+      "pages": "310-313,323",
+      "indexPage": 0,
+      "column": 0,
+      "row": 48,
+      "needsReview": false
+    },
+    {
+      "word": "SLA",
+      "pages": "570,572",
+      "indexPage": 0,
+      "column": 0,
+      "row": 49,
+      "needsReview": false
+    },
+    {
+      "word": "SNMP",
+      "pages": "375,377,410",
+      "indexPage": 0,
+      "column": 0,
+      "row": 50,
+      "needsReview": false
+    },
+    {
+      "word": "SoC",
+      "pages": "125",
+      "indexPage": 0,
+      "column": 0,
+      "row": 51,
+      "needsReview": false
+    },
+    {
+      "word": "SQL",
+      "pages": "310-334",
+      "indexPage": 0,
+      "column": 0,
+      "row": 52,
+      "needsReview": false
+    },
+    {
+      "word": "SQLインジェクション",
+      "pages": "469",
+      "indexPage": 0,
+      "column": 0,
+      "row": 53,
+      "needsReview": false
+    },
+    {
+      "word": "SWOT",
+      "pages": "613",
+      "indexPage": 0,
+      "column": 0,
+      "row": 54,
+      "needsReview": false
+    },
+    {
+      "word": "TCP",
+      "pages": "374-400",
+      "indexPage": 0,
+      "column": 0,
+      "row": 55,
+      "needsReview": false
+    },
+    {
+      "word": "TLS",
+      "pages": "456",
+      "indexPage": 0,
+      "column": 0,
+      "row": 56,
+      "needsReview": false
+    },
+    {
+      "word": "UAT",
+      "pages": "574",
+      "indexPage": 0,
+      "column": 0,
+      "row": 57,
+      "needsReview": false
+    },
+    {
+      "word": "UML",
+      "pages": "518",
+      "indexPage": 0,
+      "column": 0,
+      "row": 58,
+      "needsReview": false
+    },
+    {
+      "word": "UXデザイン",
+      "pages": "752",
+      "indexPage": 0,
+      "column": 0,
+      "row": 59,
+      "needsReview": false
+    },
+    {
+      "word": "WAF",
+      "pages": "460",
+      "indexPage": 0,
+      "column": 0,
+      "row": 60,
+      "needsReview": false
+    },
+    {
+      "word": "WBS",
+      "pages": "558,565",
+      "indexPage": 0,
+      "column": 0,
+      "row": 61,
+      "needsReview": false
+    },
+    {
+      "word": "アクセシビリティ",
+      "pages": "659,660",
+      "indexPage": 0,
+      "column": 0,
+      "row": 62,
+      "needsReview": false
+    },
+    {
+      "word": "アジャイル開発",
+      "pages": "500",
+      "indexPage": 0,
+      "column": 0,
+      "row": 63,
+      "needsReview": false
+    },
+    {
+      "word": "アルゴリズム",
+      "pages": "86,100,257",
+      "indexPage": 0,
+      "column": 0,
+      "row": 64,
+      "needsReview": false
+    },
+    {
+      "word": "インクリメンタルモデル",
+      "pages": "499",
+      "indexPage": 0,
+      "column": 0,
+      "row": 65,
+      "needsReview": false
+    },
+    {
+      "word": "キャッシュ",
+      "pages": "150台",
+      "indexPage": 0,
+      "column": 0,
+      "row": 67,
+      "needsReview": false
+    },
+    {
+      "word": "グラフ",
+      "pages": "42",
+      "indexPage": 0,
+      "column": 0,
+      "row": 68,
+      "needsReview": false
+    },
+    {
+      "word": "コスト",
+      "pages": "569",
+      "indexPage": 0,
+      "column": 0,
+      "row": 69,
+      "needsReview": false
+    },
+    {
+      "word": "サービスデスク",
+      "pages": "577",
+      "indexPage": 0,
+      "column": 0,
+      "row": 70,
+      "needsReview": false
+    },
+    {
+      "word": "サービスマネジメント",
+      "pages": "570",
+      "indexPage": 0,
+      "column": 0,
+      "row": 71,
+      "needsReview": false
+    },
+    {
+      "word": "サービスレベル管理",
+      "pages": "572",
+      "indexPage": 0,
+      "column": 0,
+      "row": 72,
+      "needsReview": false
+    },
+    {
+      "word": "システム化計画",
+      "pages": "652",
+      "indexPage": 0,
+      "column": 0,
+      "row": 73,
+      "needsReview": false
+    },
+    {
+      "word": "スケジュール管理",
+      "pages": "569",
+      "indexPage": 0,
+      "column": 0,
+      "row": 74,
+      "needsReview": false
+    },
+    {
+      "word": "センサ",
+      "pages": "131",
+      "indexPage": 0,
+      "column": 0,
+      "row": 75,
+      "needsReview": false
+    },
+    {
+      "word": "テスト",
+      "pages": "527,530-535",
+      "indexPage": 0,
+      "column": 0,
+      "row": 76,
+      "needsReview": false
+    },
+    {
+      "word": "デジタルデータ",
+      "pages": "260-276",
+      "indexPage": 0,
+      "column": 0,
+      "row": 77,
+      "needsReview": false
+    },
+    {
+      "word": "トランザクション",
+      "pages": "335",
+      "indexPage": 0,
+      "column": 0,
+      "row": 78,
+      "needsReview": false
+    },
+    {
+      "word": "ハードウェア",
+      "pages": "281",
+      "indexPage": 0,
+      "column": 0,
+      "row": 79,
+      "needsReview": false
+    },
+    {
+      "word": "マーケティング",
+      "pages": "610",
+      "indexPage": 0,
+      "column": 0,
+      "row": 80,
+      "needsReview": false
+    },
+    {
+      "word": "ユーザインタフェース",
+      "pages": "706",
+      "indexPage": 0,
+      "column": 0,
+      "row": 81,
+      "needsReview": false
+    },
+    {
+      "word": "ユーザビリティ",
+      "pages": "711",
+      "indexPage": 0,
+      "column": 0,
+      "row": 82,
+      "needsReview": false
+    },
+    {
+      "word": "ユースケース図",
+      "pages": "737,738",
+      "indexPage": 0,
+      "column": 0,
+      "row": 83,
+      "needsReview": false
+    },
+    {
+      "word": "リスク",
+      "pages": "473-474",
+      "indexPage": 0,
+      "column": 0,
+      "row": 84,
+      "needsReview": false
+    },
+    {
+      "word": "リバースエンジニアリング",
+      "pages": "503,504",
+      "indexPage": 0,
+      "column": 0,
+      "row": 85,
+      "needsReview": false
+    },
+    {
+      "word": "不正競争防止法",
+      "pages": "665",
+      "indexPage": 0,
+      "column": 0,
+      "row": 86,
+      "needsReview": false
+    },
+    {
+      "word": "保守",
+      "pages": "214",
+      "indexPage": 0,
+      "column": 0,
+      "row": 87,
+      "needsReview": false
+    },
+    {
+      "word": "個人情報保護法",
+      "pages": "616",
+      "indexPage": 0,
+      "column": 0,
+      "row": 88,
+      "needsReview": false
+    },
+    {
+      "word": "公開鍵基盤",
+      "pages": "454",
+      "indexPage": 0,
+      "column": 0,
+      "row": 89,
+      "needsReview": false
+    },
+    {
+      "word": "公開鍵暗号方式",
+      "pages": "442,452",
+      "indexPage": 0,
+      "column": 0,
+      "row": 90,
+      "needsReview": false
+    },
+    {
+      "word": "公開鍵証明書",
+      "pages": "454",
+      "indexPage": 0,
+      "column": 0,
+      "row": 91,
+      "needsReview": false
+    },
+    {
+      "word": "可用性管理",
+      "pages": "576",
+      "indexPage": 0,
+      "column": 0,
+      "row": 92,
+      "needsReview": false
+    },
+    {
+      "word": "変更管理",
+      "pages": "573",
+      "indexPage": 0,
+      "column": 0,
+      "row": 93,
+      "needsReview": false
+    },
+    {
+      "word": "情報源符号化",
+      "pages": "24",
+      "indexPage": 0,
+      "column": 0,
+      "row": 94,
+      "needsReview": false
+    },
+    {
+      "word": "探索",
+      "pages": "95",
+      "indexPage": 0,
+      "column": 0,
+      "row": 95,
+      "needsReview": false
+    },
+    {
+      "word": "提案依頼書（RFP）",
+      "pages": "650台",
+      "indexPage": 0,
+      "column": 0,
+      "row": 96,
+      "needsReview": false
+    },
+    {
+      "word": "損益分岐点",
+      "pages": "646",
+      "indexPage": 0,
+      "column": 0,
+      "row": 97,
+      "needsReview": false
+    },
+    {
+      "word": "木構造",
+      "pages": "88",
+      "indexPage": 0,
+      "column": 0,
+      "row": 98,
+      "needsReview": false
+    },
+    {
+      "word": "業務プロセス",
+      "pages": "606",
+      "indexPage": 0,
+      "column": 0,
+      "row": 99,
+      "needsReview": false
+    },
+    {
+      "word": "正規化",
+      "pages": "302,305",
+      "indexPage": 0,
+      "column": 0,
+      "row": 100,
+      "needsReview": false
+    },
+    {
+      "word": "監査",
+      "pages": "579-580",
+      "indexPage": 0,
+      "column": 0,
+      "row": 101,
+      "needsReview": false
+    },
+    {
+      "word": "監査報告",
+      "pages": "580,582",
+      "indexPage": 0,
+      "column": 0,
+      "row": 102,
+      "needsReview": false
+    },
+    {
+      "word": "監査証拠",
+      "pages": "579,580,582",
+      "indexPage": 0,
+      "column": 0,
+      "row": 103,
+      "needsReview": false
+    },
+    {
+      "word": "確率",
+      "pages": "47",
+      "indexPage": 0,
+      "column": 0,
+      "row": 104,
+      "needsReview": false
+    },
+    {
+      "word": "稼働率",
+      "pages": "214,215,216,219,220,221,224",
+      "indexPage": 0,
+      "column": 0,
+      "row": 106,
+      "needsReview": false
+    },
+    {
+      "word": "組織形態",
+      "pages": "585",
+      "indexPage": 0,
+      "column": 0,
+      "row": 107,
+      "needsReview": false
+    },
+    {
+      "word": "経営工学",
+      "pages": "630-643",
+      "indexPage": 0,
+      "column": 0,
+      "row": 108,
+      "needsReview": false
+    },
+    {
+      "word": "経営戦略",
+      "pages": "600台",
+      "indexPage": 0,
+      "column": 0,
+      "row": 109,
+      "needsReview": false
+    },
+    {
+      "word": "結合テスト",
+      "pages": "533",
+      "indexPage": 0,
+      "column": 0,
+      "row": 110,
+      "needsReview": false
+    },
+    {
+      "word": "著作権",
+      "pages": "664",
+      "indexPage": 0,
+      "column": 0,
+      "row": 111,
+      "needsReview": false
+    },
+    {
+      "word": "要件定義",
+      "pages": "655",
+      "indexPage": 0,
+      "column": 0,
+      "row": 112,
+      "needsReview": false
+    },
+    {
+      "word": "財務諸表",
+      "pages": "649",
+      "indexPage": 0,
+      "column": 0,
+      "row": 113,
+      "needsReview": false
+    }
+  ]
+}

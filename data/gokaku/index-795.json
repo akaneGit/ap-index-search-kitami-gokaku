@@ -1,0 +1,221 @@
+{
+  "indexPage": 795,
+  "entries": [
+    {
+      "word": "業務改善",
+      "pages": "606",
+      "indexPage": 795,
+      "column": 1,
+      "row": 1,
+      "needsReview": true,
+      "ocrConfidence": 34.5
+    },
+    {
+      "word": "IRIBANBL eee",
+      "pages": "602",
+      "indexPage": 795,
+      "column": 1,
+      "row": 2,
+      "needsReview": true,
+      "ocrConfidence": 16.2
+    },
+    {
+      "word": "REBIO AOA",
+      "pages": "608",
+      "indexPage": 795,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "ocrConfidence": 1.4
+    },
+    {
+      "word": "業務モデル",
+      "pages": "600.601.85",
+      "indexPage": 795,
+      "column": 1,
+      "row": 4,
+      "needsReview": true,
+      "ocrConfidence": 66.1
+    },
+    {
+      "word": "電信メモリ",
+      "pages": "151",
+      "indexPage": 795,
+      "column": 1,
+      "row": 5,
+      "needsReview": true,
+      "ocrConfidence": 25.4
+    },
+    {
+      "word": "共有メモリ",
+      "pages": "248",
+      "indexPage": 795,
+      "column": 1,
+      "row": 6,
+      "needsReview": true,
+      "ocrConfidence": 52.0
+    },
+    {
+      "word": "共有ロック :",
+      "pages": "398",
+      "indexPage": 795,
+      "column": 1,
+      "row": 7,
+      "needsReview": true,
+      "ocrConfidence": 66.9
+    },
+    {
+      "word": "‘Hit",
+      "pages": "6586",
+      "indexPage": 795,
+      "column": 1,
+      "row": 8,
+      "needsReview": true,
+      "ocrConfidence": 54.2
+    },
+    {
+      "word": "Baty",
+      "pages": "131",
+      "indexPage": 795,
+      "column": 1,
+      "row": 9,
+      "needsReview": true,
+      "ocrConfidence": 59.3
+    },
+    {
+      "word": "切 D 記し",
+      "pages": "578",
+      "indexPage": 795,
+      "column": 1,
+      "row": 10,
+      "needsReview": true,
+      "ocrConfidence": 59.7
+    },
+    {
+      "word": "果人保守",
+      "pages": "658",
+      "indexPage": 795,
+      "column": 1,
+      "row": 11,
+      "needsReview": true,
+      "ocrConfidence": 8.2
+    },
+    {
+      "word": "クイックソート 、",
+      "pages": "95.96",
+      "indexPage": 795,
+      "column": 1,
+      "row": 12,
+      "needsReview": false,
+      "ocrConfidence": 81.6
+    },
+    {
+      "word": "全集合",
+      "pages": "1620",
+      "indexPage": 795,
+      "column": 1,
+      "row": 13,
+      "needsReview": true,
+      "ocrConfidence": 28.0
+    },
+    {
+      "word": "仙人了期間",
+      "pages": "215",
+      "indexPage": 795,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "ocrConfidence": 18.2
+    },
+    {
+      "word": "クエリストリング",
+      "pages": "404",
+      "indexPage": 795,
+      "column": 1,
+      "row": 15,
+      "needsReview": false,
+      "ocrConfidence": 88.7
+    },
+    {
+      "word": "BIR Beer",
+      "pages": "28",
+      "indexPage": 795,
+      "column": 1,
+      "row": 16,
+      "needsReview": true,
+      "ocrConfidence": 10.6
+    },
+    {
+      "word": "matt",
+      "pages": "46",
+      "indexPage": 795,
+      "column": 1,
+      "row": 17,
+      "needsReview": true,
+      "ocrConfidence": 63.0
+    },
+    {
+      "word": "Bev",
+      "pages": "120",
+      "indexPage": 795,
+      "column": 1,
+      "row": 18,
+      "needsReview": true,
+      "ocrConfidence": 48.1
+    },
+    {
+      "word": "D354 PY HEBER",
+      "pages": "457",
+      "indexPage": 795,
+      "column": 1,
+      "row": 19,
+      "needsReview": true,
+      "ocrConfidence": 27.9
+    },
+    {
+      "word": "25477 NEE",
+      "pages": "457",
+      "indexPage": 795,
+      "column": 1,
+      "row": 20,
+      "needsReview": true,
+      "ocrConfidence": 56.5
+    },
+    {
+      "word": "クラウドサービス",
+      "pages": "608",
+      "indexPage": 795,
+      "column": 1,
+      "row": 21,
+      "needsReview": false,
+      "ocrConfidence": 79.9
+    },
+    {
+      "word": "クラウドソーシング",
+      "pages": "624",
+      "indexPage": 795,
+      "column": 1,
+      "row": 22,
+      "needsReview": false,
+      "ocrConfidence": 78.1
+    },
+    {
+      "word": "クラウドファンディング",
+      "pages": "624",
+      "indexPage": 795,
+      "column": 1,
+      "row": 23,
+      "needsReview": false,
+      "ocrConfidence": 86.1
+    },
+    {
+      "word": "クラス",
+      "pages": "515",
+      "indexPage": 795,
+      "column": 1,
+      "row": 24,
+      "needsReview": false,
+      "ocrConfidence": 79.6
+    }
+  ]
+}

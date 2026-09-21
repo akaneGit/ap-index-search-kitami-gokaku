@@ -1,0 +1,401 @@
+{
+  "indexPage": 797,
+  "entries": [
+    {
+      "word": "WR? KLARA",
+      "pages": "137",
+      "indexPage": 797,
+      "column": 0,
+      "row": 1,
+      "needsReview": true,
+      "ocrConfidence": 43.0
+    },
+    {
+      "word": "掲代レジスタ",
+      "pages": "194",
+      "indexPage": 797,
+      "column": 0,
+      "row": 2,
+      "needsReview": true,
+      "ocrConfidence": 51.6
+    },
+    {
+      "word": "シフトレジスタ",
+      "pages": "134",
+      "indexPage": 797,
+      "column": 0,
+      "row": 3,
+      "needsReview": false,
+      "ocrConfidence": 88.4
+    },
+    {
+      "word": "次ペッダ",
+      "pages": "397.398",
+      "indexPage": 797,
+      "column": 0,
+      "row": 4,
+      "needsReview": true,
+      "ocrConfidence": 49.5
+    },
+    {
+      "word": "シミュレーション",
+      "pages": "199",
+      "indexPage": 797,
+      "column": 1,
+      "row": 5,
+      "needsReview": false,
+      "ocrConfidence": 84.6
+    },
+    {
+      "word": "シミュレータ",
+      "pages": "365",
+      "indexPage": 797,
+      "column": 1,
+      "row": 6,
+      "needsReview": false,
+      "ocrConfidence": 85.1
+    },
+    {
+      "word": "シャーディング",
+      "pages": "348",
+      "indexPage": 797,
+      "column": 1,
+      "row": 7,
+      "needsReview": false,
+      "ocrConfidence": 81.2
+    },
+    {
+      "word": "ジャーナル",
+      "pages": "341",
+      "indexPage": 797,
+      "column": 1,
+      "row": 8,
+      "needsReview": false,
+      "ocrConfidence": 86.9
+    },
+    {
+      "word": "ジャイロセンサ",
+      "pages": "131",
+      "indexPage": 797,
+      "column": 1,
+      "row": 9,
+      "needsReview": false,
+      "ocrConfidence": 93.9
+    },
+    {
+      "word": "me",
+      "pages": "307",
+      "indexPage": 797,
+      "column": 1,
+      "row": 10,
+      "needsReview": true,
+      "ocrConfidence": 54.3
+    },
+    {
+      "word": "BIT 1T4",
+      "pages": "295",
+      "indexPage": 797,
+      "column": 1,
+      "row": 11,
+      "needsReview": true,
+      "ocrConfidence": 29.6
+    },
+    {
+      "word": "本人",
+      "pages": "95",
+      "indexPage": 797,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "ocrConfidence": 30.8
+    },
+    {
+      "word": "ジャクソン法",
+      "pages": "580.528",
+      "indexPage": 797,
+      "column": 1,
+      "row": 13,
+      "needsReview": true,
+      "ocrConfidence": 70.1
+    },
+    {
+      "word": "ジャストインタイム",
+      "pages": "625",
+      "indexPage": 797,
+      "column": 1,
+      "row": 14,
+      "needsReview": false,
+      "ocrConfidence": 84.5
+    },
+    {
+      "word": "シャド",
+      "pages": "478",
+      "indexPage": 797,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "ocrConfidence": 69.0
+    },
+    {
+      "word": "we",
+      "pages": "16",
+      "indexPage": 797,
+      "column": 1,
+      "row": 16,
+      "needsReview": true,
+      "ocrConfidence": 69.4
+    },
+    {
+      "word": "集合",
+      "pages": "20,308,321",
+      "indexPage": 797,
+      "column": 1,
+      "row": 17,
+      "needsReview": true,
+      "ocrConfidence": 45.2
+    },
+    {
+      "word": "FEMME eee",
+      "pages": "48",
+      "indexPage": 797,
+      "column": 1,
+      "row": 18,
+      "needsReview": true,
+      "ocrConfidence": 34.0
+    },
+    {
+      "word": "人中 A0 理システム",
+      "pages": "172.173",
+      "indexPage": 797,
+      "column": 1,
+      "row": 19,
+      "needsReview": true,
+      "ocrConfidence": 68.3
+    },
+    {
+      "word": "SREPHBEB",
+      "pages": "810.611",
+      "indexPage": 797,
+      "column": 1,
+      "row": 20,
+      "needsReview": true,
+      "ocrConfidence": 11.9
+    },
+    {
+      "word": "FT",
+      "pages": "516518",
+      "indexPage": 797,
+      "column": 1,
+      "row": 21,
+      "needsReview": false,
+      "ocrConfidence": 80.6
+    },
+    {
+      "word": "MID A",
+      "pages": "516",
+      "indexPage": 797,
+      "column": 1,
+      "row": 22,
+      "needsReview": true,
+      "ocrConfidence": 25.8
+    },
+    {
+      "word": "AT “RBI",
+      "pages": "569",
+      "indexPage": 797,
+      "column": 1,
+      "row": 23,
+      "needsReview": true,
+      "ocrConfidence": 27.7
+    },
+    {
+      "word": "187-87",
+      "pages": "563",
+      "indexPage": 797,
+      "column": 1,
+      "row": 24,
+      "needsReview": true,
+      "ocrConfidence": 47.2
+    },
+    {
+      "word": "E0ehO",
+      "pages": "180.152",
+      "indexPage": 797,
+      "column": 1,
+      "row": 25,
+      "needsReview": true,
+      "ocrConfidence": 38.8
+    },
+    {
+      "word": "enmE:",
+      "pages": "183",
+      "indexPage": 797,
+      "column": 1,
+      "row": 26,
+      "needsReview": true,
+      "ocrConfidence": 46.9
+    },
+    {
+      "word": "分析",
+      "pages": "67.70",
+      "indexPage": 797,
+      "column": 1,
+      "row": 27,
+      "needsReview": true,
+      "ocrConfidence": 20.5
+    },
+    {
+      "word": "RRB UGNE",
+      "pages": "617",
+      "indexPage": 797,
+      "column": 1,
+      "row": 28,
+      "needsReview": true,
+      "ocrConfidence": 6.4
+    },
+    {
+      "word": "REEE",
+      "pages": "572",
+      "indexPage": 797,
+      "column": 1,
+      "row": 29,
+      "needsReview": true,
+      "ocrConfidence": 31.2
+    },
+    {
+      "word": "REE",
+      "pages": "666",
+      "indexPage": 797,
+      "column": 1,
+      "row": 30,
+      "needsReview": true,
+      "ocrConfidence": 33.7
+    },
+    {
+      "word": "MOTI",
+      "pages": "26",
+      "indexPage": 797,
+      "column": 1,
+      "row": 31,
+      "needsReview": true,
+      "ocrConfidence": 43.6
+    },
+    {
+      "word": "BEMHRAGA",
+      "pages": "637",
+      "indexPage": 797,
+      "column": 1,
+      "row": 32,
+      "needsReview": true,
+      "ocrConfidence": 25.3
+    },
+    {
+      "word": "eM I7",
+      "pages": "778",
+      "indexPage": 797,
+      "column": 1,
+      "row": 33,
+      "needsReview": true,
+      "ocrConfidence": 31.4
+    },
+    {
+      "word": "MUA",
+      "pages": "76",
+      "indexPage": 797,
+      "column": 1,
+      "row": 34,
+      "needsReview": true,
+      "ocrConfidence": 53.7
+    },
+    {
+      "word": "IRB:",
+      "pages": "574",
+      "indexPage": 797,
+      "column": 1,
+      "row": 35,
+      "needsReview": true,
+      "ocrConfidence": 40.5
+    },
+    {
+      "word": "VFR",
+      "pages": "184",
+      "indexPage": 797,
+      "column": 1,
+      "row": 36,
+      "needsReview": true,
+      "ocrConfidence": 30.6
+    },
+    {
+      "word": "IIR 0000000000000",
+      "pages": "82.97",
+      "indexPage": 797,
+      "column": 1,
+      "row": 37,
+      "needsReview": true,
+      "ocrConfidence": 20.5
+    },
+    {
+      "word": "es",
+      "pages": "29",
+      "indexPage": 797,
+      "column": 1,
+      "row": 38,
+      "needsReview": true,
+      "ocrConfidence": 62.4
+    },
+    {
+      "word": "ins",
+      "pages": "120,124",
+      "indexPage": 797,
+      "column": 1,
+      "row": 39,
+      "needsReview": true,
+      "ocrConfidence": 58.4
+    },
+    {
+      "word": "REPRE ooo",
+      "pages": "635",
+      "indexPage": 797,
+      "column": 1,
+      "row": 40,
+      "needsReview": true,
+      "ocrConfidence": 28.0
+    },
+    {
+      "word": "RUZ oo",
+      "pages": "473",
+      "indexPage": 797,
+      "column": 1,
+      "row": 41,
+      "needsReview": true,
+      "ocrConfidence": 14.2
+    },
+    {
+      "word": "年コード",
+      "pages": "526",
+      "indexPage": 797,
+      "column": 1,
+      "row": 42,
+      "needsReview": true,
+      "ocrConfidence": 57.3
+    },
+    {
+      "word": "RAEN,",
+      "pages": "574",
+      "indexPage": 797,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "ocrConfidence": 44.3
+    },
+    {
+      "word": "AES",
+      "pages": "442,444",
+      "indexPage": 797,
+      "column": 1,
+      "row": 44,
+      "needsReview": false,
+      "ocrConfidence": null
+    }
+  ]
+}

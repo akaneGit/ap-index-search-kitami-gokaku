@@ -1,0 +1,689 @@
+{
+  "indexPage": 789,
+  "entries": [
+    {
+      "word": "Java",
+      "pages": "103,105,106",
+      "indexPage": 789,
+      "column": 1,
+      "row": 1,
+      "needsReview": false,
+      "ocrConfidence": null
+    },
+    {
+      "word": "Java VM… ini",
+      "pages": "106",
+      "indexPage": 789,
+      "column": 1,
+      "row": 2,
+      "needsReview": true,
+      "ocrConfidence": 34.2
+    },
+    {
+      "word": "Jav8Beans",
+      "pages": "106",
+      "indexPage": 789,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "ocrConfidence": 35.0
+    },
+    {
+      "word": "JavaScript",
+      "pages": "105",
+      "indexPage": 789,
+      "column": 1,
+      "row": 4,
+      "needsReview": true,
+      "ocrConfidence": 56.4
+    },
+    {
+      "word": "Java アプレット",
+      "pages": "106",
+      "indexPage": 789,
+      "column": 1,
+      "row": 5,
+      "needsReview": true,
+      "ocrConfidence": 71.1
+    },
+    {
+      "word": "Java 仮想マシン",
+      "pages": "106",
+      "indexPage": 789,
+      "column": 1,
+      "row": 6,
+      "needsReview": true,
+      "ocrConfidence": 58.6
+    },
+    {
+      "word": "Java サーブプレット",
+      "pages": "106",
+      "indexPage": 789,
+      "column": 1,
+      "row": 7,
+      "needsReview": false,
+      "ocrConfidence": 84.7
+    },
+    {
+      "word": "Java バイトコード",
+      "pages": "106",
+      "indexPage": 789,
+      "column": 1,
+      "row": 8,
+      "needsReview": false,
+      "ocrConfidence": 81.0
+    },
+    {
+      "word": "JCRAT……… いの",
+      "pages": "476",
+      "indexPage": 789,
+      "column": 1,
+      "row": 9,
+      "needsReview": true,
+      "ocrConfidence": 38.7
+    },
+    {
+      "word": "JIS Q",
+      "pages": "80000-1............570",
+      "indexPage": 789,
+      "column": 1,
+      "row": 10,
+      "needsReview": false,
+      "ocrConfidence": 75.0
+    },
+    {
+      "word": "JIS Q",
+      "pages": "20000-1:2080...570",
+      "indexPage": 789,
+      "column": 1,
+      "row": 11,
+      "needsReview": true,
+      "ocrConfidence": 72.6
+    },
+    {
+      "word": "JIS Q",
+      "pages": "20000-2----------570",
+      "indexPage": 789,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "ocrConfidence": 73.4
+    },
+    {
+      "word": "JIS Q 21500:2018",
+      "pages": "555",
+      "indexPage": 789,
+      "column": 1,
+      "row": 13,
+      "needsReview": false,
+      "ocrConfidence": 84.3
+    },
+    {
+      "word": "JIS Q 27001",
+      "pages": "475",
+      "indexPage": 789,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "ocrConfidence": 59.0
+    },
+    {
+      "word": "JIS Q 270086",
+      "pages": "475",
+      "indexPage": 789,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "ocrConfidence": 66.7
+    },
+    {
+      "word": "JIS Q 31000:8019",
+      "pages": "473",
+      "indexPage": 789,
+      "column": 1,
+      "row": 16,
+      "needsReview": false,
+      "ocrConfidence": 79.9
+    },
+    {
+      "word": "JIS X 0160:2021",
+      "pages": "651",
+      "indexPage": 789,
+      "column": 1,
+      "row": 17,
+      "needsReview": false,
+      "ocrConfidence": 87.0
+    },
+    {
+      "word": "JIS X",
+      "pages": "0161:2008.........659",
+      "indexPage": 789,
+      "column": 1,
+      "row": 18,
+      "needsReview": false,
+      "ocrConfidence": 75.6
+    },
+    {
+      "word": "JIS X 85010:2013",
+      "pages": "658",
+      "indexPage": 789,
+      "column": 1,
+      "row": 19,
+      "needsReview": true,
+      "ocrConfidence": 70.3
+    },
+    {
+      "word": "JIS X 33000 シリーズ",
+      "pages": "505",
+      "indexPage": 789,
+      "column": 1,
+      "row": 20,
+      "needsReview": false,
+      "ocrConfidence": 83.3
+    },
+    {
+      "word": "JIS X 33002:2017",
+      "pages": "505",
+      "indexPage": 789,
+      "column": 1,
+      "row": 21,
+      "needsReview": false,
+      "ocrConfidence": 83.4
+    },
+    {
+      "word": "JIS X 5070",
+      "pages": "475",
+      "indexPage": 789,
+      "column": 1,
+      "row": 22,
+      "needsReview": false,
+      "ocrConfidence": 76.2
+    },
+    {
+      "word": "JIS X 8341-1:2010",
+      "pages": "660",
+      "indexPage": 789,
+      "column": 1,
+      "row": 23,
+      "needsReview": true,
+      "ocrConfidence": 60.9
+    },
+    {
+      "word": "JIS X",
+      "pages": "9303:8006.........661",
+      "indexPage": 789,
+      "column": 1,
+      "row": 24,
+      "needsReview": true,
+      "ocrConfidence": 68.3
+    },
+    {
+      "word": "JIS X 9303-1",
+      "pages": "661",
+      "indexPage": 789,
+      "column": 1,
+      "row": 25,
+      "needsReview": false,
+      "ocrConfidence": 83.7
+    },
+    {
+      "word": "JIS X",
+      "pages": "8401:2016.........608",
+      "indexPage": 789,
+      "column": 1,
+      "row": 26,
+      "needsReview": false,
+      "ocrConfidence": 76.0
+    },
+    {
+      "word": "JIS Z",
+      "pages": "8521:1999.........660",
+      "indexPage": 789,
+      "column": 1,
+      "row": 27,
+      "needsReview": false,
+      "ocrConfidence": 86.8
+    },
+    {
+      "word": "JIS Z 8521:2080",
+      "pages": "660",
+      "indexPage": 789,
+      "column": 1,
+      "row": 28,
+      "needsReview": true,
+      "ocrConfidence": 66.5
+    },
+    {
+      "word": "JPCERT/CC",
+      "pages": "476.668",
+      "indexPage": 789,
+      "column": 1,
+      "row": 29,
+      "needsReview": true,
+      "ocrConfidence": 46.8
+    },
+    {
+      "word": "JSON",
+      "pages": "105.357",
+      "indexPage": 789,
+      "column": 1,
+      "row": 30,
+      "needsReview": true,
+      "ocrConfidence": 32.4
+    },
+    {
+      "word": "JVN",
+      "pages": "476.489",
+      "indexPage": 789,
+      "column": 1,
+      "row": 31,
+      "needsReview": true,
+      "ocrConfidence": 40.4
+    },
+    {
+      "word": "KCipher2",
+      "pages": "448",
+      "indexPage": 789,
+      "column": 1,
+      "row": 32,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "Kerberos 方式",
+      "pages": "450",
+      "indexPage": 789,
+      "column": 1,
+      "row": 33,
+      "needsReview": true,
+      "ocrConfidence": 66.5
+    },
+    {
+      "word": "KM",
+      "pages": "62",
+      "indexPage": 789,
+      "column": 1,
+      "row": 34,
+      "needsReview": true,
+      "ocrConfidence": 35.8
+    },
+    {
+      "word": "kmeans 法 (k 平均法 )",
+      "pages": "67",
+      "indexPage": 789,
+      "column": 1,
+      "row": 35,
+      "needsReview": true,
+      "ocrConfidence": 74.6
+    },
+    {
+      "word": "Kubemetes",
+      "pages": "195",
+      "indexPage": 789,
+      "column": 1,
+      "row": 36,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "L1(L2) キャッシュ vee",
+      "pages": "152",
+      "indexPage": 789,
+      "column": 0,
+      "row": 37,
+      "needsReview": true,
+      "ocrConfidence": 74.9
+    },
+    {
+      "word": "L2TP",
+      "pages": "468",
+      "indexPage": 789,
+      "column": 0,
+      "row": 38,
+      "needsReview": true,
+      "ocrConfidence": 49.0
+    },
+    {
+      "word": "L4 スイッチ",
+      "pages": "382",
+      "indexPage": 789,
+      "column": 0,
+      "row": 39,
+      "needsReview": true,
+      "ocrConfidence": 56.5
+    },
+    {
+      "word": "LDAP sess teen",
+      "pages": "418",
+      "indexPage": 789,
+      "column": 0,
+      "row": 40,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "LEFT OUTER JOIN",
+      "pages": "317",
+      "indexPage": 789,
+      "column": 0,
+      "row": 41,
+      "needsReview": false,
+      "ocrConfidence": 84.2
+    },
+    {
+      "word": "LEU",
+      "pages": "155.261",
+      "indexPage": 789,
+      "column": 0,
+      "row": 42,
+      "needsReview": true,
+      "ocrConfidence": 27.1
+    },
+    {
+      "word": "LIFO sss trrerereeeee+s",
+      "pages": "80,155",
+      "indexPage": 789,
+      "column": 0,
+      "row": 43,
+      "needsReview": true,
+      "ocrConfidence": 44.5
+    },
+    {
+      "word": "Linpack",
+      "pages": "198",
+      "indexPage": 789,
+      "column": 0,
+      "row": 44,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "LPWA",
+      "pages": "481",
+      "indexPage": 789,
+      "column": 0,
+      "row": 45,
+      "needsReview": true,
+      "ocrConfidence": 29.9
+    },
+    {
+      "word": "LRU",
+      "pages": "155.261.268",
+      "indexPage": 789,
+      "column": 0,
+      "row": 46,
+      "needsReview": true,
+      "ocrConfidence": 13.7
+    },
+    {
+      "word": "LSB… ti",
+      "pages": "188",
+      "indexPage": 789,
+      "column": 0,
+      "row": 47,
+      "needsReview": true,
+      "ocrConfidence": 23.7
+    },
+    {
+      "word": "ls コマンド",
+      "pages": "274",
+      "indexPage": 789,
+      "column": 0,
+      "row": 48,
+      "needsReview": true,
+      "ocrConfidence": 73.1
+    },
+    {
+      "word": "LTE CatM1",
+      "pages": "421",
+      "indexPage": 789,
+      "column": 0,
+      "row": 49,
+      "needsReview": true,
+      "ocrConfidence": 57.4
+    },
+    {
+      "word": "MM/1",
+      "pages": "203.209",
+      "indexPage": 789,
+      "column": 0,
+      "row": 50,
+      "needsReview": true,
+      "ocrConfidence": 23.8
+    },
+    {
+      "word": "MMS",
+      "pages": "809.211.218",
+      "indexPage": 789,
+      "column": 0,
+      "row": 51,
+      "needsReview": true,
+      "ocrConfidence": 25.9
+    },
+    {
+      "word": "MOM ti",
+      "pages": "420",
+      "indexPage": 789,
+      "column": 0,
+      "row": 52,
+      "needsReview": true,
+      "ocrConfidence": 20.8
+    },
+    {
+      "word": "MAC",
+      "pages": "376.386.457",
+      "indexPage": 789,
+      "column": 0,
+      "row": 53,
+      "needsReview": true,
+      "ocrConfidence": 6.8
+    },
+    {
+      "word": "MAC アドレス",
+      "pages": "376",
+      "indexPage": 789,
+      "column": 0,
+      "row": 54,
+      "needsReview": false,
+      "ocrConfidence": 79.3
+    },
+    {
+      "word": "mnnrrrrrrn",
+      "pages": "878.379",
+      "indexPage": 789,
+      "column": 0,
+      "row": 55,
+      "needsReview": true,
+      "ocrConfidence": 13.0
+    },
+    {
+      "word": "Man-in-the-middle 攻撃",
+      "pages": "470",
+      "indexPage": 789,
+      "column": 0,
+      "row": 56,
+      "needsReview": true,
+      "ocrConfidence": 69.2
+    },
+    {
+      "word": "MapReduce",
+      "pages": "188",
+      "indexPage": 789,
+      "column": 0,
+      "row": 57,
+      "needsReview": true,
+      "ocrConfidence": 40.8
+    },
+    {
+      "word": "MDA ti",
+      "pages": "503",
+      "indexPage": 789,
+      "column": 0,
+      "row": 58,
+      "needsReview": true,
+      "ocrConfidence": 39.1
+    },
+    {
+      "word": "Mirai………ーーード",
+      "pages": "464.627",
+      "indexPage": 789,
+      "column": 1,
+      "row": 59,
+      "needsReview": true,
+      "ocrConfidence": 14.2
+    },
+    {
+      "word": "MITB 攻撃",
+      "pages": "471",
+      "indexPage": 789,
+      "column": 1,
+      "row": 60,
+      "needsReview": true,
+      "ocrConfidence": 47.0
+    },
+    {
+      "word": "MITRE ATTSCK",
+      "pages": "629",
+      "indexPage": 789,
+      "column": 1,
+      "row": 61,
+      "needsReview": true,
+      "ocrConfidence": 74.0
+    },
+    {
+      "word": "monlist",
+      "pages": "470",
+      "indexPage": 789,
+      "column": 1,
+      "row": 62,
+      "needsReview": true,
+      "ocrConfidence": 7.7
+    },
+    {
+      "word": "more コマンド",
+      "pages": "274",
+      "indexPage": 789,
+      "column": 1,
+      "row": 63,
+      "needsReview": false,
+      "ocrConfidence": 75.2
+    },
+    {
+      "word": "MQTT",
+      "pages": "2420",
+      "indexPage": 789,
+      "column": 1,
+      "row": 64,
+      "needsReview": true,
+      "ocrConfidence": 49.6
+    },
+    {
+      "word": "MTBF",
+      "pages": "214,216,217",
+      "indexPage": 789,
+      "column": 1,
+      "row": 65,
+      "needsReview": false,
+      "ocrConfidence": null
+    },
+    {
+      "word": "MX レコード",
+      "pages": "408",
+      "indexPage": 789,
+      "column": 1,
+      "row": 66,
+      "needsReview": false,
+      "ocrConfidence": 82.2
+    },
+    {
+      "word": "M 幾能",
+      "pages": "628",
+      "indexPage": 789,
+      "column": 1,
+      "row": 67,
+      "needsReview": true,
+      "ocrConfidence": 54.3
+    },
+    {
+      "word": "NAND",
+      "pages": "180.123.151",
+      "indexPage": 789,
+      "column": 1,
+      "row": 68,
+      "needsReview": false,
+      "ocrConfidence": 81.4
+    },
+    {
+      "word": "NAPT",
+      "pages": "398.433",
+      "indexPage": 789,
+      "column": 1,
+      "row": 69,
+      "needsReview": true,
+      "ocrConfidence": 45.7
+    },
+    {
+      "word": "NAS",
+      "pages": "180.191",
+      "indexPage": 789,
+      "column": 1,
+      "row": 70,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "NATURAL JOIN",
+      "pages": "316.321",
+      "indexPage": 789,
+      "column": 1,
+      "row": 71,
+      "needsReview": false,
+      "ocrConfidence": 82.8
+    },
+    {
+      "word": "NOP………ーーード",
+      "pages": "388",
+      "indexPage": 789,
+      "column": 1,
+      "row": 72,
+      "needsReview": true,
+      "ocrConfidence": 15.4
+    },
+    {
+      "word": "NFS",
+      "pages": "178.191",
+      "indexPage": 789,
+      "column": 1,
+      "row": 73,
+      "needsReview": true,
+      "ocrConfidence": 41.2
+    },
+    {
+      "word": "NO ACTION",
+      "pages": "385.328",
+      "indexPage": 789,
+      "column": 1,
+      "row": 74,
+      "needsReview": false,
+      "ocrConfidence": 76.0
+    },
+    {
+      "word": "NOR 型フラッシュメモリ",
+      "pages": "151",
+      "indexPage": 789,
+      "column": 1,
+      "row": 75,
+      "needsReview": false,
+      "ocrConfidence": 79.7
+    },
+    {
+      "word": "NoSQL",
+      "pages": "35.357",
+      "indexPage": 789,
+      "column": 1,
+      "row": 76,
+      "needsReview": true,
+      "ocrConfidence": 17.8
+    }
+  ]
+}

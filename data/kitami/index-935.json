@@ -1,0 +1,1171 @@
+{
+  "indexPage": 935,
+  "entries": [
+    {
+      "word": "!",
+      "pages": "68",
+      "indexPage": 935,
+      "column": 0,
+      "row": 1,
+      "needsReview": false
+    },
+    {
+      "word": "∅",
+      "pages": "51,76",
+      "indexPage": 935,
+      "column": 0,
+      "row": 2,
+      "needsReview": false
+    },
+    {
+      "word": "√",
+      "pages": "65",
+      "indexPage": 935,
+      "column": 0,
+      "row": 3,
+      "needsReview": false
+    },
+    {
+      "word": "μ",
+      "pages": "84",
+      "indexPage": 935,
+      "column": 0,
+      "row": 4,
+      "needsReview": false
+    },
+    {
+      "word": "μ（マイクロ）",
+      "pages": "124",
+      "indexPage": 935,
+      "column": 0,
+      "row": 5,
+      "needsReview": false
+    },
+    {
+      "word": "Σ",
+      "pages": "67",
+      "indexPage": 935,
+      "column": 0,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "σ",
+      "pages": "84",
+      "indexPage": 935,
+      "column": 0,
+      "row": 7,
+      "needsReview": false
+    },
+    {
+      "word": "Ω",
+      "pages": "52",
+      "indexPage": 935,
+      "column": 0,
+      "row": 8,
+      "needsReview": false
+    },
+    {
+      "word": "10進数",
+      "pages": "27",
+      "indexPage": 935,
+      "column": 0,
+      "row": 9,
+      "needsReview": false
+    },
+    {
+      "word": "16進数",
+      "pages": "28",
+      "indexPage": 935,
+      "column": 0,
+      "row": 10,
+      "needsReview": false
+    },
+    {
+      "word": "1クロックに要する時間",
+      "pages": "189",
+      "indexPage": 935,
+      "column": 0,
+      "row": 11,
+      "needsReview": false
+    },
+    {
+      "word": "1の補数",
+      "pages": "30",
+      "indexPage": 935,
+      "column": 0,
+      "row": 12,
+      "needsReview": false
+    },
+    {
+      "word": "2進数",
+      "pages": "24",
+      "indexPage": 935,
+      "column": 0,
+      "row": 13,
+      "needsReview": false
+    },
+    {
+      "word": "2進数のかけ算",
+      "pages": "38",
+      "indexPage": 935,
+      "column": 0,
+      "row": 14,
+      "needsReview": false
+    },
+    {
+      "word": "2進数のわり算",
+      "pages": "38",
+      "indexPage": 935,
+      "column": 0,
+      "row": 15,
+      "needsReview": false
+    },
+    {
+      "word": "2相コミット",
+      "pages": "498",
+      "indexPage": 935,
+      "column": 0,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "2の補数",
+      "pages": "30",
+      "indexPage": 935,
+      "column": 0,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "2分木",
+      "pages": "393",
+      "indexPage": 935,
+      "column": 0,
+      "row": 18,
+      "needsReview": false
+    },
+    {
+      "word": "2分木の走査順序",
+      "pages": "399",
+      "indexPage": 935,
+      "column": 0,
+      "row": 19,
+      "needsReview": false
+    },
+    {
+      "word": "2分探索木",
+      "pages": "396",
+      "indexPage": 935,
+      "column": 0,
+      "row": 20,
+      "needsReview": false
+    },
+    {
+      "word": "2分探索法",
+      "pages": "403,406",
+      "indexPage": 935,
+      "column": 0,
+      "row": 21,
+      "needsReview": false
+    },
+    {
+      "word": "32ビット",
+      "pages": "34",
+      "indexPage": 935,
+      "column": 0,
+      "row": 22,
+      "needsReview": false
+    },
+    {
+      "word": "36協定",
+      "pages": "884",
+      "indexPage": 935,
+      "column": 0,
+      "row": 23,
+      "needsReview": false
+    },
+    {
+      "word": "3Dプリンタ",
+      "pages": "276",
+      "indexPage": 935,
+      "column": 0,
+      "row": 24,
+      "needsReview": false
+    },
+    {
+      "word": "3層クライアントサーバシステム",
+      "pages": "760",
+      "indexPage": 935,
+      "column": 0,
+      "row": 25,
+      "needsReview": false
+    },
+    {
+      "word": "3層スキーマ構造",
+      "pages": "441",
+      "indexPage": 935,
+      "column": 0,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "5大装置",
+      "pages": "167",
+      "indexPage": 935,
+      "column": 0,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "8進数",
+      "pages": "28",
+      "indexPage": 935,
+      "column": 0,
+      "row": 28,
+      "needsReview": false
+    },
+    {
+      "word": "A/D変換",
+      "pages": "160",
+      "indexPage": 935,
+      "column": 0,
+      "row": 29,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "A/D变换",
+        "tesseract": "A/D変換"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ABC分析conconepascsnscascancapsco",
+      "pages": "849",
+      "indexPage": 935,
+      "column": 0,
+      "row": 30,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ABC分析",
+        "tesseract": "ABC分析conconepascsnscascancapsco"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Accelerated GraphicsPort",
+      "pages": "258",
+      "indexPage": 935,
+      "column": 0,
+      "row": 31,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Accelerated GraphicsPort",
+        "tesseract": "AcceleratedGraphicsPortTU"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "accountability人",
+      "pages": "609",
+      "indexPage": 935,
+      "column": 0,
+      "row": 32,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "accountability",
+        "tesseract": "accountability人"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ACID特性",
+      "pages": "488",
+      "indexPage": 935,
+      "column": 0,
+      "row": 33,
+      "needsReview": false
+    },
+    {
+      "word": "AddressResolutionProtocol",
+      "pages": "561",
+      "indexPage": 935,
+      "column": 0,
+      "row": 34,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AddressResolutionProtocol",
+        "tesseract": "AddressResolutionProtocol"
+      },
+      "reviewReason": "英字の用語が不鮮明 / ページ認識の確度"
+    },
+    {
+      "word": "AES",
+      "pages": "512,660",
+      "indexPage": 935,
+      "column": 0,
+      "row": 35,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AES",
+        "tesseract": "AESTTY"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "AGP",
+      "pages": "258",
+      "indexPage": 935,
+      "column": 0,
+      "row": 36,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AGP",
+        "tesseract": "AGPee"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "AH",
+      "pages": "663",
+      "indexPage": 935,
+      "column": 0,
+      "row": 37,
+      "needsReview": false
+    },
+    {
+      "word": "Al",
+      "pages": "600",
+      "indexPage": 935,
+      "column": 0,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "ALU",
+      "pages": "167",
+      "indexPage": 935,
+      "column": 0,
+      "row": 39,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ALU",
+        "tesseract": "ALU"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "AMP",
+      "pages": "202",
+      "indexPage": 935,
+      "column": 0,
+      "row": 40,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AMP",
+        "tesseract": "AMPeeceo"
+      },
+      "reviewReason": "英字の用語が不鮮明 / ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "AND",
+      "pages": "56,141",
+      "indexPage": 935,
+      "column": 0,
+      "row": 41,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AND",
+        "tesseract": "ANDancccacccsccanscscocescccemeccccca"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Application Specific Integrated C",
+      "pages": "158",
+      "indexPage": 935,
+      "column": 0,
+      "row": 42,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "Application Specific Integrated C"
+      },
+      "reviewReason": "補完した行を要確認"
+    },
+    {
+      "word": "ARPて",
+      "pages": "561",
+      "indexPage": 935,
+      "column": 0,
+      "row": 43,
+      "needsReview": false
+    },
+    {
+      "word": "Artificial Intelligence",
+      "pages": "600",
+      "indexPage": 935,
+      "column": 0,
+      "row": 44,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Artificial Intelligence",
+        "tesseract": "ArtificialIntelligenceTI"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ASC",
+      "pages": "465",
+      "indexPage": 935,
+      "column": 0,
+      "row": 45,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ASC",
+        "tesseract": "ASCTP"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "ASCI",
+      "pages": "127",
+      "indexPage": 935,
+      "column": 0,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ASCI",
+        "tesseract": "ASCII"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ASCIIのコード表",
+      "pages": "126",
+      "indexPage": 935,
+      "column": 0,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AS表",
+        "tesseract": "ASCIIのコード表"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ASIC",
+      "pages": "158",
+      "indexPage": 935,
+      "column": 0,
+      "row": 48,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ASIC",
+        "tesseract": "SI"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "As-ISモデル",
+      "pages": "865",
+      "indexPage": 935,
+      "column": 0,
+      "row": 49,
+      "needsReview": false
+    },
+    {
+      "word": "Asymmetrical MultipleProcessor",
+      "pages": "202",
+      "indexPage": 935,
+      "column": 0,
+      "row": 50,
+      "needsReview": false
+    },
+    {
+      "word": "ATA",
+      "pages": "260",
+      "indexPage": 935,
+      "column": 0,
+      "row": 51,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ATA",
+        "tesseract": "ATA"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "ATM交换方式",
+      "pages": "506",
+      "indexPage": 935,
+      "column": 0,
+      "row": 52,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ATM交换方式",
+        "tesseract": "ATM交"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "AuthenticationHeader",
+      "pages": "663",
+      "indexPage": 935,
+      "column": 1,
+      "row": 1,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AuthenticationHeader",
+        "tesseract": "AuthenticationHeaderee"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "authenticity",
+      "pages": "609",
+      "indexPage": 935,
+      "column": 1,
+      "row": 2,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "authenticity",
+        "tesseract": "authenticity"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "AVG",
+      "pages": "466",
+      "indexPage": 935,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "AVG",
+        "tesseract": "AVG"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "AVL木",
+      "pages": "398",
+      "indexPage": 935,
+      "column": 1,
+      "row": 4,
+      "needsReview": false
+    },
+    {
+      "word": "B(バイト)TTYTTYTTTTTYTTYTYTTTTTYT",
+      "pages": "124",
+      "indexPage": 935,
+      "column": 1,
+      "row": 5,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "B()",
+        "tesseract": "B(バイト)TTYTTYTTTTTYTTYTYTTTTTYT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "b(ビット)ee",
+      "pages": "124",
+      "indexPage": 935,
+      "column": 1,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "Backus-NaurForm",
+      "pages": "116",
+      "indexPage": 935,
+      "column": 1,
+      "row": 7,
+      "needsReview": false
+    },
+    {
+      "word": "BASIC",
+      "pages": "353",
+      "indexPage": 935,
+      "column": 1,
+      "row": 8,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BASIC",
+        "tesseract": "BASICee"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "BCC",
+      "pages": "588",
+      "indexPage": 935,
+      "column": 1,
+      "row": 9,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BCC",
+        "tesseract": "BCCsee"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "BCP",
+      "pages": "822",
+      "indexPage": 935,
+      "column": 1,
+      "row": 10,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BCP",
+        "tesseract": "BCPor"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "BehaviorMethod",
+      "pages": "635",
+      "indexPage": 935,
+      "column": 1,
+      "row": 11,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BehaviorMethod",
+        "tesseract": "BehaviorMethod"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "BETWEEN",
+      "pages": "462",
+      "indexPage": 935,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BETWEEN",
+        "tesseract": "BETW"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Bl",
+      "pages": "864",
+      "indexPage": 935,
+      "column": 1,
+      "row": 13,
+      "needsReview": false
+    },
+    {
+      "word": "bit",
+      "pages": "122",
+      "indexPage": 935,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "bit",
+        "tesseract": "bitevevveespeesewwnwes"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "BitsPerSecond",
+      "pages": "508",
+      "indexPage": 935,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BitsPerSecond",
+        "tesseract": "BitsPerSecond"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "BIシステム",
+      "pages": "864",
+      "indexPage": 935,
+      "column": 1,
+      "row": 16,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "B么",
+        "tesseract": "BIシステム"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "BIツール",
+      "pages": "864",
+      "indexPage": 935,
+      "column": 1,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "Bluetooth",
+      "pages": "264",
+      "indexPage": 935,
+      "column": 1,
+      "row": 18,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Bluetooth",
+        "tesseract": "Bluetooth"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "BNF記法",
+      "pages": "116",
+      "indexPage": 935,
+      "column": 1,
+      "row": 19,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BNF配法",
+        "tesseract": "BNF記法"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "BPO",
+      "pages": "866",
+      "indexPage": 935,
+      "column": 1,
+      "row": 20,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BPO",
+        "tesseract": "BPOwonece:"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "sdq",
+      "pages": "508",
+      "indexPage": 935,
+      "column": 1,
+      "row": 21,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "sdq",
+        "tesseract": "bpsee"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "BusinessCon",
+      "pages": "822",
+      "indexPage": 935,
+      "column": 1,
+      "row": 22,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BusinessCon",
+        "tesseract": "BusinessCon"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "BusinessIntelligence",
+      "pages": "864",
+      "indexPage": 935,
+      "column": 1,
+      "row": 23,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "BusinessIntelligence",
+        "tesseract": "BusinessIntelligenceav"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Business Process Outsourcing",
+      "pages": "866",
+      "indexPage": 935,
+      "column": 1,
+      "row": 24,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Business Process Outsourcing",
+        "tesseract": "BusinessProcessOutsourcing"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "Byte",
+      "pages": "122",
+      "indexPage": 935,
+      "column": 1,
+      "row": 25,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Byte",
+        "tesseract": "ByteSOeROAROOROSEDERERRERERESSEORRURERERORREREDERD"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "C&Cサーバ",
+      "pages": "633",
+      "indexPage": 935,
+      "column": 1,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "CA",
+      "pages": "658",
+      "indexPage": 935,
+      "column": 1,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "CapabilityMaturityModel Integration",
+      "pages": "069",
+      "indexPage": 935,
+      "column": 1,
+      "row": 28,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CapabilityMaturityModel Integration",
+        "tesseract": "CapabilityMaturityModelIntegrati"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CAPTCHA",
+      "pages": "628",
+      "indexPage": 935,
+      "column": 1,
+      "row": 29,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CAPTCHA",
+        "tesseract": "CAPTCHA"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "CollisionDetection方式",
+      "pages": "509",
+      "indexPage": 935,
+      "column": 1,
+      "row": 30,
+      "needsReview": false
+    },
+    {
+      "word": "CASEツール",
+      "pages": "689",
+      "indexPage": 935,
+      "column": 1,
+      "row": 31,
+      "needsReview": false
+    },
+    {
+      "word": "CC",
+      "pages": "588",
+      "indexPage": 935,
+      "column": 1,
+      "row": 32,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CC",
+        "tesseract": "CCaeons:"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CCD",
+      "pages": "268",
+      "indexPage": 935,
+      "column": 1,
+      "row": 33,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CCD",
+        "tesseract": "cco"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "Central Processing Unit",
+      "pages": "164,166,167",
+      "indexPage": 935,
+      "column": 1,
+      "row": 34,
+      "needsReview": false
+    },
+    {
+      "word": "CEO",
+      "pages": "861",
+      "indexPage": 935,
+      "column": 1,
+      "row": 35,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CEO",
+        "tesseract": "CEOee"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "CertificationAuthority",
+      "pages": "658",
+      "indexPage": 935,
+      "column": 1,
+      "row": 36,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CertificationAuthority",
+        "tesseract": "CertificationAuthority"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "CGI",
+      "pages": "581",
+      "indexPage": 935,
+      "column": 1,
+      "row": 37,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CGI",
+        "tesseract": "CGIee"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "CGM",
+      "pages": "583",
+      "indexPage": 935,
+      "column": 1,
+      "row": 38,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CGM",
+        "tesseract": "CGMTTY"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "characterper second",
+      "pages": "275",
+      "indexPage": 935,
+      "column": 1,
+      "row": 39,
+      "needsReview": false
+    },
+    {
+      "word": "CharacterUserInterface",
+      "pages": "707",
+      "indexPage": 935,
+      "column": 1,
+      "row": 40,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CharacterUserInterface",
+        "tesseract": "CharacterUserInterface"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "ChargeCoupled Device",
+      "pages": "268",
+      "indexPage": 935,
+      "column": 1,
+      "row": 41,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ChargeCoupled Device",
+        "tesseract": "ChargeCoupledDevic"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Cheif Information Security Office:",
+      "pages": "861",
+      "indexPage": 935,
+      "column": 1,
+      "row": 42,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "Cheif Information Security Office:"
+      },
+      "reviewReason": "補完した行を要確認"
+    },
+    {
+      "word": "ChiefExecutiveOfficer",
+      "pages": "861",
+      "indexPage": 935,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ChiefExecutiveOfficer",
+        "tesseract": "ChiefExecutiveOfficerwmvevvep"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ChiefInformationOfficer",
+      "pages": "861",
+      "indexPage": 935,
+      "column": 1,
+      "row": 44,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ChiefInformationOfficer",
+        "tesseract": "ChiefInformationOfficer"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "CIDR",
+      "pages": "556",
+      "indexPage": 935,
+      "column": 1,
+      "row": 45,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CIDR",
+        "tesseract": "CIORMITT"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CIO",
+      "pages": "861",
+      "indexPage": 935,
+      "column": 1,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CIO",
+        "tesseract": "cloee"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "CISC",
+      "pages": "200",
+      "indexPage": 935,
+      "column": 1,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CISC",
+        "tesseract": "CISCposes"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CISO",
+      "pages": "861",
+      "indexPage": 935,
+      "column": 1,
+      "row": 48,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CISO",
+        "tesseract": "CISO"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "Classless Inter-Domain Routing",
+      "pages": "556",
+      "indexPage": 935,
+      "column": 1,
+      "row": 49,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Classless Inter-Domain Routing",
+        "tesseract": "ClasslessInter-DomainRoutingCTT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Clockcycles PerInstruction",
+      "pages": "190",
+      "indexPage": 935,
+      "column": 1,
+      "row": 50,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Clockcycles PerInstruction",
+        "tesseract": "ClockcyclesPerInstructionee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CMMI",
+      "pages": "690",
+      "indexPage": 935,
+      "column": 1,
+      "row": 51,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CMMI",
+        "tesseract": "CMMI"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "COBOL",
+      "pages": "353",
+      "indexPage": 935,
+      "column": 1,
+      "row": 52,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "COBOL",
+        "tesseract": "COBOLOLD"
+      },
+      "reviewReason": "英字の用語が不鮮明 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CommonGatewayInterface",
+      "pages": "581",
+      "indexPage": 935,
+      "column": 1,
+      "row": 53,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CommonGatewayInterface",
+        "tesseract": "CommonGatewayInterface"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "ComplexInstructionSetComputer",
+      "pages": "200",
+      "indexPage": 935,
+      "column": 1,
+      "row": 54,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ComplexInstructionSetComputer",
+        "tesseract": "ComplexInstructionSetComputer"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "ConsumerGenerated Media",
+      "pages": "583",
+      "indexPage": 935,
+      "column": 1,
+      "row": 55,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ConsumerGenerated Media",
+        "tesseract": "ConsumerGeneratedMediadev"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    }
+  ]
+}

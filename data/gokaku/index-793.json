@@ -1,0 +1,761 @@
+{
+  "indexPage": 793,
+  "entries": [
+    {
+      "word": "インシデント",
+      "pages": "575",
+      "indexPage": 793,
+      "column": 1,
+      "row": 1,
+      "needsReview": false,
+      "ocrConfidence": 85.7
+    },
+    {
+      "word": "インシデント管理",
+      "pages": "575",
+      "indexPage": 793,
+      "column": 1,
+      "row": 2,
+      "needsReview": false,
+      "ocrConfidence": 76.8
+    },
+    {
+      "word": "インスタンス",
+      "pages": "298.515",
+      "indexPage": 793,
+      "column": 1,
+      "row": 3,
+      "needsReview": false,
+      "ocrConfidence": 83.7
+    },
+    {
+      "word": "インスペクション",
+      "pages": "541",
+      "indexPage": 793,
+      "column": 1,
+      "row": 4,
+      "needsReview": false,
+      "ocrConfidence": 77.6
+    },
+    {
+      "word": "インスペクタ",
+      "pages": "269",
+      "indexPage": 793,
+      "column": 1,
+      "row": 5,
+      "needsReview": false,
+      "ocrConfidence": 75.2
+    },
+    {
+      "word": "インセプションデッキ",
+      "pages": "554",
+      "indexPage": 793,
+      "column": 1,
+      "row": 6,
+      "needsReview": false,
+      "ocrConfidence": 84.4
+    },
+    {
+      "word": "AYIA RY MMe",
+      "pages": "375",
+      "indexPage": 793,
+      "column": 1,
+      "row": 7,
+      "needsReview": true,
+      "ocrConfidence": 20.3
+    },
+    {
+      "word": "インターバルタイマ",
+      "pages": "244.245",
+      "indexPage": 793,
+      "column": 1,
+      "row": 8,
+      "needsReview": false,
+      "ocrConfidence": 91.5
+    },
+    {
+      "word": "インタビュー法",
+      "pages": "581",
+      "indexPage": 793,
+      "column": 1,
+      "row": 9,
+      "needsReview": false,
+      "ocrConfidence": 83.6
+    },
+    {
+      "word": "インタプリタ",
+      "pages": "64",
+      "indexPage": 793,
+      "column": 1,
+      "row": 10,
+      "needsReview": false,
+      "ocrConfidence": 75.1
+    },
+    {
+      "word": "インタラブト転送",
+      "pages": "181",
+      "indexPage": 793,
+      "column": 1,
+      "row": 11,
+      "needsReview": false,
+      "ocrConfidence": 76.8
+    },
+    {
+      "word": "インタロックーーーーード",
+      "pages": "184",
+      "indexPage": 793,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "ocrConfidence": 54.5
+    },
+    {
+      "word": "インテグリティチェック法",
+      "pages": "466",
+      "indexPage": 793,
+      "column": 1,
+      "row": 13,
+      "needsReview": false,
+      "ocrConfidence": 90.8
+    },
+    {
+      "word": "インデックス",
+      "pages": "291.345",
+      "indexPage": 793,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "ocrConfidence": 73.5
+    },
+    {
+      "word": "インヘリタンス",
+      "pages": "515",
+      "indexPage": 793,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "ocrConfidence": 74.0
+    },
+    {
+      "word": "インライン展開",
+      "pages": "266",
+      "indexPage": 793,
+      "column": 1,
+      "row": 16,
+      "needsReview": false,
+      "ocrConfidence": 77.8
+    },
+    {
+      "word": "ウィンドウサイズ",
+      "pages": "400",
+      "indexPage": 793,
+      "column": 1,
+      "row": 17,
+      "needsReview": false,
+      "ocrConfidence": 80.2
+    },
+    {
+      "word": "ウェアレベリング",
+      "pages": "151",
+      "indexPage": 793,
+      "column": 1,
+      "row": 18,
+      "needsReview": false,
+      "ocrConfidence": 82.3
+    },
+    {
+      "word": "ウェルノウンポート",
+      "pages": "377",
+      "indexPage": 793,
+      "column": 1,
+      "row": 19,
+      "needsReview": false,
+      "ocrConfidence": 81.5
+    },
+    {
+      "word": "ウォークスル",
+      "pages": "540",
+      "indexPage": 793,
+      "column": 1,
+      "row": 20,
+      "needsReview": false,
+      "ocrConfidence": 80.2
+    },
+    {
+      "word": "ウォークスルー法",
+      "pages": "581",
+      "indexPage": 793,
+      "column": 1,
+      "row": 21,
+      "needsReview": true,
+      "ocrConfidence": 68.4
+    },
+    {
+      "word": "ウォームサイト",
+      "pages": "182",
+      "indexPage": 793,
+      "column": 1,
+      "row": 22,
+      "needsReview": false,
+      "ocrConfidence": 79.4
+    },
+    {
+      "word": "ウォームスタート",
+      "pages": "348",
+      "indexPage": 793,
+      "column": 1,
+      "row": 23,
+      "needsReview": false,
+      "ocrConfidence": 84.2
+    },
+    {
+      "word": "ウォームスタンバイ方式",
+      "pages": "181",
+      "indexPage": 793,
+      "column": 1,
+      "row": 24,
+      "needsReview": false,
+      "ocrConfidence": 90.9
+    },
+    {
+      "word": "PBA sree",
+      "pages": "316,319",
+      "indexPage": 793,
+      "column": 1,
+      "row": 25,
+      "needsReview": true,
+      "ocrConfidence": 9.4
+    },
+    {
+      "word": "売上原価",
+      "pages": "649",
+      "indexPage": 793,
+      "column": 1,
+      "row": 26,
+      "needsReview": true,
+      "ocrConfidence": 38.8
+    },
+    {
+      "word": "売上弧利益",
+      "pages": "649",
+      "indexPage": 793,
+      "column": 1,
+      "row": 27,
+      "needsReview": true,
+      "ocrConfidence": 52.5
+    },
+    {
+      "word": "運用監視随号リスト",
+      "pages": "476",
+      "indexPage": 793,
+      "column": 1,
+      "row": 28,
+      "needsReview": true,
+      "ocrConfidence": 64.9
+    },
+    {
+      "word": "エージング方式 ……………:",
+      "pages": "245",
+      "indexPage": 793,
+      "column": 1,
+      "row": 29,
+      "needsReview": true,
+      "ocrConfidence": 82.7
+    },
+    {
+      "word": "エキスパートシステム",
+      "pages": "105",
+      "indexPage": 793,
+      "column": 1,
+      "row": 30,
+      "needsReview": false,
+      "ocrConfidence": 86.1
+    },
+    {
+      "word": "エクスプロイト",
+      "pages": "6298",
+      "indexPage": 793,
+      "column": 0,
+      "row": 31,
+      "needsReview": false,
+      "ocrConfidence": 78.6
+    },
+    {
+      "word": "エクスプロイトキット ……‥",
+      "pages": "465",
+      "indexPage": 793,
+      "column": 0,
+      "row": 32,
+      "needsReview": false,
+      "ocrConfidence": 82.1
+    },
+    {
+      "word": "エクスプロイトコード",
+      "pages": "465",
+      "indexPage": 793,
+      "column": 0,
+      "row": 33,
+      "needsReview": false,
+      "ocrConfidence": 85.9
+    },
+    {
+      "word": "エスケープ向理",
+      "pages": "468",
+      "indexPage": 793,
+      "column": 0,
+      "row": 34,
+      "needsReview": true,
+      "ocrConfidence": 44.6
+    },
+    {
+      "word": "エッジコンピューティング",
+      "pages": "630",
+      "indexPage": 793,
+      "column": 0,
+      "row": 35,
+      "needsReview": false,
+      "ocrConfidence": 82.9
+    },
+    {
+      "word": "エニーキャスト",
+      "pages": "396.397",
+      "indexPage": 793,
+      "column": 0,
+      "row": 36,
+      "needsReview": false,
+      "ocrConfidence": 78.3
+    },
+    {
+      "word": "エミュレータ",
+      "pages": "265",
+      "indexPage": 793,
+      "column": 0,
+      "row": 37,
+      "needsReview": true,
+      "ocrConfidence": 66.3
+    },
+    {
+      "word": "エミュレート",
+      "pages": "269",
+      "indexPage": 793,
+      "column": 0,
+      "row": 38,
+      "needsReview": false,
+      "ocrConfidence": 77.4
+    },
+    {
+      "word": "エラー訂正待号",
+      "pages": "189",
+      "indexPage": 793,
+      "column": 0,
+      "row": 39,
+      "needsReview": true,
+      "ocrConfidence": 61.5
+    },
+    {
+      "word": "エルガマル哨号",
+      "pages": "443",
+      "indexPage": 793,
+      "column": 0,
+      "row": 40,
+      "needsReview": true,
+      "ocrConfidence": 53.7
+    },
+    {
+      "word": "演算装置",
+      "pages": "134",
+      "indexPage": 793,
+      "column": 0,
+      "row": 41,
+      "needsReview": true,
+      "ocrConfidence": 66.0
+    },
+    {
+      "word": "エントロピー",
+      "pages": "62",
+      "indexPage": 793,
+      "column": 0,
+      "row": 42,
+      "needsReview": false,
+      "ocrConfidence": null
+    },
+    {
+      "word": "エンベローブ暗号化",
+      "pages": "443",
+      "indexPage": 793,
+      "column": 0,
+      "row": 43,
+      "needsReview": true,
+      "ocrConfidence": 73.4
+    },
+    {
+      "word": "オーケストレーション",
+      "pages": "195",
+      "indexPage": 793,
+      "column": 0,
+      "row": 44,
+      "needsReview": false,
+      "ocrConfidence": 89.4
+    },
+    {
+      "word": "オーセンティケータ",
+      "pages": "445",
+      "indexPage": 793,
+      "column": 0,
+      "row": 45,
+      "needsReview": false,
+      "ocrConfidence": 83.3
+    },
+    {
+      "word": "オートスケール",
+      "pages": "208",
+      "indexPage": 793,
+      "column": 0,
+      "row": 46,
+      "needsReview": false,
+      "ocrConfidence": 88.1
+    },
+    {
+      "word": "オーバーライド",
+      "pages": "517",
+      "indexPage": 793,
+      "column": 0,
+      "row": 47,
+      "needsReview": false,
+      "ocrConfidence": 75.9
+    },
+    {
+      "word": "オーバヘッド",
+      "pages": "196",
+      "indexPage": 793,
+      "column": 0,
+      "row": 48,
+      "needsReview": false,
+      "ocrConfidence": 79.3
+    },
+    {
+      "word": "オーバレイ方式",
+      "pages": "257",
+      "indexPage": 793,
+      "column": 0,
+      "row": 49,
+      "needsReview": false,
+      "ocrConfidence": 80.0
+    },
+    {
+      "word": "オープン API",
+      "pages": "624",
+      "indexPage": 793,
+      "column": 0,
+      "row": 50,
+      "needsReview": true,
+      "ocrConfidence": 59.6
+    },
+    {
+      "word": "オープンアドレス法",
+      "pages": "91.98",
+      "indexPage": 793,
+      "column": 0,
+      "row": 51,
+      "needsReview": false,
+      "ocrConfidence": 85.7
+    },
+    {
+      "word": "オープンイノベーション",
+      "pages": "624",
+      "indexPage": 793,
+      "column": 0,
+      "row": 52,
+      "needsReview": false,
+      "ocrConfidence": 87.4
+    },
+    {
+      "word": "オープンリゾソルバ",
+      "pages": "470",
+      "indexPage": 793,
+      "column": 0,
+      "row": 53,
+      "needsReview": true,
+      "ocrConfidence": 71.3
+    },
+    {
+      "word": "オーブンリダイレクト",
+      "pages": "468",
+      "indexPage": 793,
+      "column": 0,
+      "row": 54,
+      "needsReview": false,
+      "ocrConfidence": 84.1
+    },
+    {
+      "word": "オブジェクト",
+      "pages": "514",
+      "indexPage": 793,
+      "column": 0,
+      "row": 55,
+      "needsReview": false,
+      "ocrConfidence": 76.2
+    },
+    {
+      "word": "オブジェクト指向",
+      "pages": "514",
+      "indexPage": 793,
+      "column": 0,
+      "row": 56,
+      "needsReview": false,
+      "ocrConfidence": 86.4
+    },
+    {
+      "word": "オブジェクト指向言語",
+      "pages": "105",
+      "indexPage": 793,
+      "column": 0,
+      "row": 57,
+      "needsReview": false,
+      "ocrConfidence": 81.0
+    },
+    {
+      "word": "オプトイン",
+      "pages": "665",
+      "indexPage": 793,
+      "column": 1,
+      "row": 58,
+      "needsReview": true,
+      "ocrConfidence": 64.8
+    },
+    {
+      "word": "オフフレミス",
+      "pages": "609",
+      "indexPage": 793,
+      "column": 1,
+      "row": 59,
+      "needsReview": false,
+      "ocrConfidence": 79.5
+    },
+    {
+      "word": "オフライン総当たり攻撃",
+      "pages": "496",
+      "indexPage": 793,
+      "column": 1,
+      "row": 60,
+      "needsReview": false,
+      "ocrConfidence": 77.4
+    },
+    {
+      "word": "オムニチャネル",
+      "pages": "617",
+      "indexPage": 793,
+      "column": 1,
+      "row": 61,
+      "needsReview": false,
+      "ocrConfidence": 79.0
+    },
+    {
+      "word": "陳みつきグラフ",
+      "pages": "45",
+      "indexPage": 793,
+      "column": 1,
+      "row": 62,
+      "needsReview": true,
+      "ocrConfidence": 53.8
+    },
+    {
+      "word": "親言語方式",
+      "pages": "310",
+      "indexPage": 793,
+      "column": 1,
+      "row": 63,
+      "needsReview": true,
+      "ocrConfidence": 38.3
+    },
+    {
+      "word": "オンプレミス",
+      "pages": "609",
+      "indexPage": 793,
+      "column": 1,
+      "row": 64,
+      "needsReview": true,
+      "ocrConfidence": 67.7
+    },
+    {
+      "word": "オンライン分析処理",
+      "pages": "355",
+      "indexPage": 793,
+      "column": 1,
+      "row": 65,
+      "needsReview": false,
+      "ocrConfidence": 89.4
+    },
+    {
+      "word": "カーソル興理",
+      "pages": "333",
+      "indexPage": 793,
+      "column": 1,
+      "row": 66,
+      "needsReview": true,
+      "ocrConfidence": 50.4
+    },
+    {
+      "word": "カーネル",
+      "pages": "238.239",
+      "indexPage": 793,
+      "column": 1,
+      "row": 67,
+      "needsReview": true,
+      "ocrConfidence": 63.2
+    },
+    {
+      "word": "カーネルブログラム法",
+      "pages": "199",
+      "indexPage": 793,
+      "column": 1,
+      "row": 68,
+      "needsReview": false,
+      "ocrConfidence": 86.3
+    },
+    {
+      "word": "mn",
+      "pages": "103,256,348",
+      "indexPage": 793,
+      "column": 1,
+      "row": 69,
+      "needsReview": true,
+      "ocrConfidence": 20.2
+    },
+    {
+      "word": "回帰係数",
+      "pages": "56",
+      "indexPage": 793,
+      "column": 1,
+      "row": 70,
+      "needsReview": true,
+      "ocrConfidence": 49.1
+    },
+    {
+      "word": "回放テスト",
+      "pages": "502.535",
+      "indexPage": 793,
+      "column": 1,
+      "row": 71,
+      "needsReview": true,
+      "ocrConfidence": 52.0
+    },
+    {
+      "word": "回才夫院型",
+      "pages": "525",
+      "indexPage": 793,
+      "column": 1,
+      "row": 72,
+      "needsReview": true,
+      "ocrConfidence": 26.9
+    },
+    {
+      "word": "回収期間法",
+      "pages": "605",
+      "indexPage": 793,
+      "column": 1,
+      "row": 73,
+      "needsReview": true,
+      "ocrConfidence": 37.5
+    },
+    {
+      "word": "階層型データベース",
+      "pages": "290",
+      "indexPage": 793,
+      "column": 1,
+      "row": 74,
+      "needsReview": true,
+      "ocrConfidence": 71.3
+    },
+    {
+      "word": "隊層モデル",
+      "pages": "290",
+      "indexPage": 793,
+      "column": 1,
+      "row": 75,
+      "needsReview": true,
+      "ocrConfidence": 48.9
+    },
+    {
+      "word": "概念スキーマーー……・ら",
+      "pages": "91.292",
+      "indexPage": 793,
+      "column": 1,
+      "row": 76,
+      "needsReview": true,
+      "ocrConfidence": 58.0
+    },
+    {
+      "word": "WAF—IEF IV",
+      "pages": "288",
+      "indexPage": 793,
+      "column": 1,
+      "row": 77,
+      "needsReview": true,
+      "ocrConfidence": 32.4
+    },
+    {
+      "word": "開発規模と開発工数の関係",
+      "pages": "566",
+      "indexPage": 793,
+      "column": 1,
+      "row": 78,
+      "needsReview": true,
+      "ocrConfidence": 70.6
+    },
+    {
+      "word": "外部クロック",
+      "pages": "148",
+      "indexPage": 793,
+      "column": 1,
+      "row": 79,
+      "needsReview": true,
+      "ocrConfidence": 67.5
+    },
+    {
+      "word": "外部フラグメンテーション",
+      "pages": "256",
+      "indexPage": 793,
+      "column": 1,
+      "row": 80,
+      "needsReview": false,
+      "ocrConfidence": 89.6
+    },
+    {
+      "word": "外部割込か",
+      "pages": "140",
+      "indexPage": 793,
+      "column": 1,
+      "row": 81,
+      "needsReview": true,
+      "ocrConfidence": 52.2
+    },
+    {
+      "word": "改良挿入法",
+      "pages": "94",
+      "indexPage": 793,
+      "column": 1,
+      "row": 82,
+      "needsReview": true,
+      "ocrConfidence": 71.4
+    },
+    {
+      "word": "ガウス・ジョルダン法",
+      "pages": "66.637",
+      "indexPage": 793,
+      "column": 1,
+      "row": 83,
+      "needsReview": false,
+      "ocrConfidence": 83.7
+    },
+    {
+      "word": "ガウスの消去法",
+      "pages": "66.637",
+      "indexPage": 793,
+      "column": 1,
+      "row": 84,
+      "needsReview": false,
+      "ocrConfidence": 85.2
+    }
+  ]
+}

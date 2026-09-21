@@ -1,0 +1,1124 @@
+{
+  "indexPage": 951,
+  "entries": [
+    {
+      "word": "ユースケース図|",
+      "pages": "737,738",
+      "indexPage": 951,
+      "column": 0,
+      "row": 1,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "一",
+        "tesseract": "ユースケース図|"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "便先度順方式",
+      "pages": "299",
+      "indexPage": 951,
+      "column": 0,
+      "row": 2,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "優先度顺方式",
+        "tesseract": "便先度順方式"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "有用性",
+      "pages": "89",
+      "indexPage": 951,
+      "column": 0,
+      "row": 3,
+      "needsReview": false
+    },
+    {
+      "word": "ユニーニキャスト",
+      "pages": "553",
+      "indexPage": 951,
+      "column": 0,
+      "row": 4,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "二",
+        "tesseract": "ユニーニキャスト"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "perDeesFd",
+      "pages": "127,128",
+      "indexPage": 951,
+      "column": 0,
+      "row": 5,
+      "needsReview": false
+    },
+    {
+      "word": "ユニコードコンソーシアム",
+      "pages": "128",
+      "indexPage": 951,
+      "column": 0,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "ユニバーサルデザイン",
+      "pages": "711",
+      "indexPage": 951,
+      "column": 0,
+      "row": 7,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "ユニバーサルデザイン"
+      },
+      "reviewReason": "補完した行を要確認"
+    },
+    {
+      "word": "要求定義ブロセス",
+      "pages": "672,673",
+      "indexPage": 951,
+      "column": 0,
+      "row": 8,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "要求定",
+        "tesseract": "要求定義ブロセス"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "要件定義",
+      "pages": "684",
+      "indexPage": 951,
+      "column": 0,
+      "row": 9,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "要件定羲",
+        "tesseract": "要件定義"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "要件定義書",
+      "pages": "68",
+      "indexPage": 951,
+      "column": 0,
+      "row": 10,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "要件定装書",
+        "tesseract": "要件定義書"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "要素savecccccocecesevccccancascancet",
+      "pages": "5",
+      "indexPage": 951,
+      "column": 0,
+      "row": 11,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "要秦",
+        "tesseract": "要素savecccccocecesevccccancascancet"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "読み取り装置",
+      "pages": "268",
+      "indexPage": 951,
+      "column": 0,
+      "row": 12,
+      "needsReview": false
+    },
+    {
+      "word": "弱み",
+      "pages": "87",
+      "indexPage": 951,
+      "column": 0,
+      "row": 13,
+      "needsReview": false
+    },
+    {
+      "word": "方式",
+      "pages": "218",
+      "indexPage": 951,
+      "column": 0,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "方式",
+        "tesseract": "SThAIL-AX"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ライトバック方式いい",
+      "pages": "218",
+      "indexPage": 951,
+      "column": 0,
+      "row": 15,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "方式",
+        "tesseract": "ライトバック方式いい"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ラウンドロビン",
+      "pages": "688",
+      "indexPage": 951,
+      "column": 0,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "方式",
+      "pages": "300",
+      "indexPage": 951,
+      "column": 0,
+      "row": 17,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "方式",
+        "tesseract": "590YFOEYAX"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ラグ",
+      "pages": "812",
+      "indexPage": 951,
+      "column": 0,
+      "row": 18,
+      "needsReview": false
+    },
+    {
+      "word": "eea",
+      "pages": "708",
+      "indexPage": 951,
+      "column": 0,
+      "row": 19,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "eea"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "ラシス",
+      "pages": "780",
+      "indexPage": 951,
+      "column": 0,
+      "row": 20,
+      "needsReview": false
+    },
+    {
+      "word": "符号化",
+      "pages": "104",
+      "indexPage": 951,
+      "column": 0,
+      "row": 21,
+      "needsReview": false
+    },
+    {
+      "word": "リアルタイム",
+      "pages": "305",
+      "indexPage": 951,
+      "column": 0,
+      "row": 22,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "U儿",
+        "tesseract": "リアルタイム"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "U儿夕处理",
+      "pages": "305",
+      "indexPage": 951,
+      "column": 0,
+      "row": 23,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "U儿夕处理",
+        "tesseract": "UPSThE"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "リーダ戦略",
+      "pages": "879",
+      "indexPage": 951,
+      "column": 0,
+      "row": 24,
+      "needsReview": false
+    },
+    {
+      "word": "リード",
+      "pages": "812",
+      "indexPage": 951,
+      "column": 0,
+      "row": 25,
+      "needsReview": false
+    },
+    {
+      "word": "リーフ",
+      "pages": "393",
+      "indexPage": 951,
+      "column": 0,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "利益",
+      "pages": "910",
+      "indexPage": 951,
+      "column": 0,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "リエンジニアリング",
+      "pages": "689",
+      "indexPage": 951,
+      "column": 0,
+      "row": 28,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "UIU",
+        "tesseract": "リエンジニアリング"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "りンドウツ",
+      "pages": "327",
+      "indexPage": 951,
+      "column": 0,
+      "row": 29,
+      "needsReview": false
+    },
+    {
+      "word": "リカーシブ",
+      "pages": "328",
+      "indexPage": 951,
+      "column": 0,
+      "row": 30,
+      "needsReview": false
+    },
+    {
+      "word": "リグレッショス",
+      "pages": "751",
+      "indexPage": 951,
+      "column": 0,
+      "row": 31,
+      "needsReview": false
+    },
+    {
+      "word": "離散数学",
+      "pages": "22",
+      "indexPage": 951,
+      "column": 0,
+      "row": 32,
+      "needsReview": false
+    },
+    {
+      "word": "リスクアセスメント",
+      "pages": "612",
+      "indexPage": 951,
+      "column": 0,
+      "row": 33,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "リスクアセスメント"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "リスク管理",
+      "pages": "802",
+      "indexPage": 951,
+      "column": 0,
+      "row": 34,
+      "needsReview": false
+    },
+    {
+      "word": "リスクコントロール",
+      "pages": "613",
+      "indexPage": 951,
+      "column": 0,
+      "row": 35,
+      "needsReview": false
+    },
+    {
+      "word": "リスク対応onconccasece,",
+      "pages": "612,613",
+      "indexPage": 951,
+      "column": 0,
+      "row": 36,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "U夕对応",
+        "tesseract": "リスク対応onconccasece,"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "リス2ク対策",
+      "pages": "612,613",
+      "indexPage": 951,
+      "column": 0,
+      "row": 37,
+      "needsReview": false
+    },
+    {
+      "word": "リスク評価",
+      "pages": "612",
+      "indexPage": 951,
+      "column": 0,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "UD Re Be by bo a a po",
+      "pages": "613",
+      "indexPage": 951,
+      "column": 0,
+      "row": 39,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "UD Re Be by bo a a po"
+      },
+      "reviewReason": "補完した行を要確認"
+    },
+    {
+      "word": "リスクマネジメント",
+      "pages": "611",
+      "indexPage": 951,
+      "column": 0,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "リスクマネジメントに含まれる4つのプ",
+      "pages": "61",
+      "indexPage": 951,
+      "column": 0,
+      "row": 41,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "リスクマネジメントに含まれる4つのプ"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "リスクレベル",
+      "pages": "612",
+      "indexPage": 951,
+      "column": 0,
+      "row": 42,
+      "needsReview": false
+    },
+    {
+      "word": "リスト",
+      "pages": "384",
+      "indexPage": 951,
+      "column": 0,
+      "row": 43,
+      "needsReview": false
+    },
+    {
+      "word": "リセット",
+      "pages": "142",
+      "indexPage": 951,
+      "column": 0,
+      "row": 44,
+      "needsReview": false
+    },
+    {
+      "word": "リダイレクション",
+      "pages": "348",
+      "indexPage": 951,
+      "column": 0,
+      "row": 45,
+      "needsReview": false
+    },
+    {
+      "word": "リトルエンディアン",
+      "pages": "18",
+      "indexPage": 951,
+      "column": 0,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "リトルエンディアン"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "リバースエンジニアリング",
+      "pages": "969689",
+      "indexPage": 951,
+      "column": 0,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "リバースエンジニアリング"
+      },
+      "reviewReason": "掲載ページの数字"
+    },
+    {
+      "word": "リバースプルートフォース攻撃",
+      "pages": "624",
+      "indexPage": 951,
+      "column": 0,
+      "row": 48,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "攻",
+        "tesseract": "リバースプルートフォース攻撃"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "リビピ",
+      "pages": "526",
+      "indexPage": 951,
+      "column": 0,
+      "row": 49,
+      "needsReview": false
+    },
+    {
+      "word": "リピータハブ",
+      "pages": "52",
+      "indexPage": 951,
+      "column": 0,
+      "row": 50,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "八",
+        "tesseract": "リピータハブ"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "リファクタリング",
+      "pages": "695",
+      "indexPage": 951,
+      "column": 0,
+      "row": 51,
+      "needsReview": false
+    },
+    {
+      "word": "リポジトリ",
+      "pages": "68",
+      "indexPage": 951,
+      "column": 0,
+      "row": 52,
+      "needsReview": false
+    },
+    {
+      "word": "リミットチェック",
+      "pages": "719",
+      "indexPage": 951,
+      "column": 0,
+      "row": 53,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "U",
+        "tesseract": "リミットチェック"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "リムーバブルメディア",
+      "pages": "243",
+      "indexPage": 951,
+      "column": 0,
+      "row": 54,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "UL",
+        "tesseract": "リムーバブルメディア"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "リユーザブル",
+      "pages": "32",
+      "indexPage": 951,
+      "column": 0,
+      "row": 55,
+      "needsReview": false
+    },
+    {
+      "word": "量子化",
+      "pages": "135",
+      "indexPage": 951,
+      "column": 0,
+      "row": 56,
+      "needsReview": false
+    },
+    {
+      "word": "量子化ビピット数",
+      "pages": "135",
+      "indexPage": 951,
+      "column": 1,
+      "row": 1,
+      "needsReview": false
+    },
+    {
+      "word": "リレーショナルデータベース",
+      "pages": "433",
+      "indexPage": 951,
+      "column": 1,
+      "row": 2,
+      "needsReview": false
+    },
+    {
+      "word": "リレーションシップマーケティング",
+      "pages": "880",
+      "indexPage": 951,
+      "column": 1,
+      "row": 3,
+      "needsReview": false
+    },
+    {
+      "word": "リロケータブル",
+      "pages": "326",
+      "indexPage": 951,
+      "column": 1,
+      "row": 4,
+      "needsReview": false
+    },
+    {
+      "word": "リンカ",
+      "pages": "359,362",
+      "indexPage": 951,
+      "column": 1,
+      "row": 5,
+      "needsReview": false
+    },
+    {
+      "word": "リンク",
+      "pages": "362",
+      "indexPage": 951,
+      "column": 1,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "リング型",
+      "pages": "507",
+      "indexPage": 951,
+      "column": 1,
+      "row": 7,
+      "needsReview": false
+    },
+    {
+      "word": "隣接行列",
+      "pages": "90",
+      "indexPage": 951,
+      "column": 1,
+      "row": 8,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "接行列",
+        "tesseract": "隣接行列"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ルータ",
+      "pages": "530",
+      "indexPage": 951,
+      "column": 1,
+      "row": 9,
+      "needsReview": false
+    },
+    {
+      "word": "ルーティング",
+      "pages": "530",
+      "indexPage": 951,
+      "column": 1,
+      "row": 10,
+      "needsReview": false
+    },
+    {
+      "word": "ルーティングテープル",
+      "pages": "530",
+      "indexPage": 951,
+      "column": 1,
+      "row": 11,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "ルーティングテープル"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ルート",
+      "pages": "65,393",
+      "indexPage": 951,
+      "column": 1,
+      "row": 12,
+      "needsReview": false
+    },
+    {
+      "word": "ルートキット",
+      "pages": "626",
+      "indexPage": 951,
+      "column": 1,
+      "row": 13,
+      "needsReview": false
+    },
+    {
+      "word": "レインボー攻撃",
+      "pages": "624",
+      "indexPage": 951,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "攻擎",
+        "tesseract": "レインボー攻撃"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "レーザブリンタ",
+      "pages": "274",
+      "indexPage": 951,
+      "column": 1,
+      "row": 15,
+      "needsReview": false
+    },
+    {
+      "word": "レーダチヤ",
+      "pages": "845",
+      "indexPage": 951,
+      "column": 1,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "レジスタ",
+      "pages": "171",
+      "indexPage": 951,
+      "column": 1,
+      "row": 17,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "レジスタ"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "レジスタの種類",
+      "pages": "172",
+      "indexPage": 951,
+      "column": 1,
+      "row": 18,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "夕種類",
+        "tesseract": "レジスタの種類"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "レスポンスタイム",
+      "pages": "768,770",
+      "indexPage": 951,
+      "column": 1,
+      "row": 19,
+      "needsReview": false
+    },
+    {
+      "word": "レビコード",
+      "pages": "688",
+      "indexPage": 951,
+      "column": 1,
+      "row": 20,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "tn-\"",
+        "tesseract": "レビコード"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "運関図法",
+      "pages": "847,853",
+      "indexPage": 951,
+      "column": 1,
+      "row": 21,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "连法",
+        "tesseract": "運関図法"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "連携編集",
+      "pages": "362",
+      "indexPage": 951,
+      "column": 1,
+      "row": 22,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "速携辐集",
+        "tesseract": "連携編集"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "連格的强度",
+      "pages": "724",
+      "indexPage": 951,
+      "column": 1,
+      "row": 23,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "連格的强度",
+        "tesseract": "ERO"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "労働基準法",
+      "pages": "884",
+      "indexPage": 951,
+      "column": 1,
+      "row": 24,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "劳基萍法",
+        "tesseract": "労働基準法"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "労働者派遣法",
+      "pages": "885",
+      "indexPage": 951,
+      "column": 1,
+      "row": 25,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "劳者派遗法",
+        "tesseract": "労働者派遣法"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "労働力の提供形態",
+      "pages": "86",
+      "indexPage": 951,
+      "column": 1,
+      "row": 26,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "劳物力の提供形態",
+        "tesseract": "労働力の提供形態"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ローダ",
+      "pages": "359,362",
+      "indexPage": 951,
+      "column": 1,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "ロード",
+      "pages": "168,362",
+      "indexPage": 951,
+      "column": 1,
+      "row": 28,
+      "needsReview": false
+    },
+    {
+      "word": "ロール/ee",
+      "pages": "493,494,495",
+      "indexPage": 951,
+      "column": 1,
+      "row": 29,
+      "needsReview": false
+    },
+    {
+      "word": "ロールフォワード",
+      "pages": "493,496",
+      "indexPage": 951,
+      "column": 1,
+      "row": 30,
+      "needsReview": false
+    },
+    {
+      "word": "ログアウト",
+      "pages": "619",
+      "indexPage": 951,
+      "column": 1,
+      "row": 31,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "ログアウト"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ログイン",
+      "pages": "619",
+      "indexPage": 951,
+      "column": 1,
+      "row": 32,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "ログイン"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ログオン",
+      "pages": "619",
+      "indexPage": 951,
+      "column": 1,
+      "row": 33,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "ログオン"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ログ改ざんツール",
+      "pages": "626",
+      "indexPage": 951,
+      "column": 1,
+      "row": 34,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "改",
+        "tesseract": "ログ改ざんツール"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ロングテール",
+      "pages": "873",
+      "indexPage": 951,
+      "column": 1,
+      "row": 35,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "ロングテール"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "理演算",
+      "pages": "50,56",
+      "indexPage": 951,
+      "column": 1,
+      "row": 36,
+      "needsReview": false
+    },
+    {
+      "word": "論理深算子",
+      "pages": "461",
+      "indexPage": 951,
+      "column": 1,
+      "row": 37,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "理滨算子",
+        "tesseract": "論理深算子"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "論理回路",
+      "pages": "140,156",
+      "indexPage": 951,
+      "column": 1,
+      "row": 38,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "理回路",
+        "tesseract": "論理回路"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "azシフト",
+      "pages": "39",
+      "indexPage": 951,
+      "column": 1,
+      "row": 39,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "理",
+        "tesseract": "azシフト"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "論理積",
+      "pages": "56,141",
+      "indexPage": 951,
+      "column": 1,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "論理設計トト",
+      "pages": "440",
+      "indexPage": 951,
+      "column": 1,
+      "row": 41,
+      "needsReview": false
+    },
+    {
+      "word": "論理チェック",
+      "pages": "719",
+      "indexPage": 951,
+      "column": 1,
+      "row": 42,
+      "needsReview": false
+    },
+    {
+      "word": "論理的強度",
+      "pages": "724",
+      "indexPage": 951,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "理的强度",
+        "tesseract": "論理的強度"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "論理変数",
+      "pages": "58",
+      "indexPage": 951,
+      "column": 1,
+      "row": 44,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "理变数",
+        "tesseract": "論理変数"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "論理和",
+      "pages": "56,141",
+      "indexPage": 951,
+      "column": 1,
+      "row": 45,
+      "needsReview": false
+    },
+    {
+      "word": "和",
+      "pages": "438",
+      "indexPage": 951,
+      "column": 1,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "和",
+        "tesseract": "ee"
+      },
+      "reviewReason": "用語が欠落または短い"
+    },
+    {
+      "word": "ワーム",
+      "pages": "632",
+      "indexPage": 951,
+      "column": 1,
+      "row": 47,
+      "needsReview": false
+    },
+    {
+      "word": "ワイヤードロジック",
+      "pages": "200",
+      "indexPage": 951,
+      "column": 1,
+      "row": 48,
+      "needsReview": false
+    },
+    {
+      "word": "和集",
+      "pages": "53",
+      "indexPage": 951,
+      "column": 1,
+      "row": 49,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "和集合",
+        "tesseract": "和集"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "和の法則に。。=。<",
+      "pages": "72,73",
+      "indexPage": 951,
+      "column": 1,
+      "row": 50,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "和の法则",
+        "tesseract": "和の法則に。。=。<"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "割込み処理",
+      "pages": "304",
+      "indexPage": 951,
+      "column": 1,
+      "row": 51,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "割?理",
+        "tesseract": "割込み処理"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ワンタイムバスワード",
+      "pages": "621",
+      "indexPage": 951,
+      "column": 1,
+      "row": 52,
+      "needsReview": false
+    }
+  ]
+}

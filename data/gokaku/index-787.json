@@ -1,0 +1,32 @@
+{
+  "indexPage": 787,
+  "entries": [
+    {
+      "word": "EDM モデル",
+      "pages": "603",
+      "indexPage": 787,
+      "column": 1,
+      "row": 1,
+      "needsReview": false,
+      "ocrConfidence": 76.2
+    },
+    {
+      "word": "EDSA 認証",
+      "pages": "628",
+      "indexPage": 787,
+      "column": 1,
+      "row": 2,
+      "needsReview": true,
+      "ocrConfidence": 70.6
+    },
+    {
+      "word": "EIGamal 暗号",
+      "pages": "443",
+      "indexPage": 787,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "ocrConfidence": 59.7
+    }
+  ]
+}

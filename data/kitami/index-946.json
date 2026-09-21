@@ -1,0 +1,1165 @@
+{
+  "indexPage": 946,
+  "entries": [
+    {
+      "word": "タプレット",
+      "pages": "267",
+      "indexPage": 946,
+      "column": 0,
+      "row": 1,
+      "needsReview": false
+    },
+    {
+      "word": "単一区画方式",
+      "pages": "318",
+      "indexPage": 946,
+      "column": 0,
+      "row": 2,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "单一区画方式",
+        "tesseract": "単一区画方式"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "探索回数での",
+      "pages": "410",
+      "indexPage": 946,
+      "column": 0,
+      "row": 3,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "探索回数",
+        "tesseract": "探索回数での"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "単純マルコフ骨程-me",
+      "pages": "80",
+      "indexPage": 946,
+      "column": 0,
+      "row": 4,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "单程",
+        "tesseract": "単純マルコフ骨程-me"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "単体テスト",
+      "pages": "687,744",
+      "indexPage": 946,
+      "column": 0,
+      "row": 5,
+      "needsReview": false
+    },
+    {
+      "word": "断片化",
+      "pages": "235,320",
+      "indexPage": 946,
+      "column": 0,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "単方向リスト",
+      "pages": "385",
+      "indexPage": 946,
+      "column": 0,
+      "row": 7,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "单方向U",
+        "tesseract": "単方向リスト"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "チェイン法",
+      "pages": "607",
+      "indexPage": 946,
+      "column": 0,
+      "row": 8,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "法",
+        "tesseract": "チェイン法"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "チェックサム",
+      "pages": "538",
+      "indexPage": 946,
+      "column": 0,
+      "row": 9,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "于",
+        "tesseract": "チェックサム"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "チェックシート",
+      "pages": "847,852",
+      "indexPage": 946,
+      "column": 0,
+      "row": 10,
+      "needsReview": false
+    },
+    {
+      "word": "チェックディジット…",
+      "pages": "716,717",
+      "indexPage": 946,
+      "column": 0,
+      "row": 11,
+      "needsReview": false
+    },
+    {
+      "word": "チェックポイント…ee",
+      "pages": "497",
+      "indexPage": 946,
+      "column": 0,
+      "row": 12,
+      "needsReview": false
+    },
+    {
+      "word": "チェックボックス",
+      "pages": "708",
+      "indexPage": 946,
+      "column": 0,
+      "row": 13,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "于",
+        "tesseract": "チェックボックス"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "次制御方式",
+      "pages": "168",
+      "indexPage": 946,
+      "column": 0,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "逐次制御方式",
+        "tesseract": "次制御方式"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "逐次的局所性",
+      "pages": "217",
+      "indexPage": 946,
+      "column": 0,
+      "row": 15,
+      "needsReview": false
+    },
+    {
+      "word": "チャネル",
+      "pages": "255",
+      "indexPage": 946,
+      "column": 0,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "チャネル制御方法",
+      "pages": "255",
+      "indexPage": 946,
+      "column": 0,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "中央処理装置acacsoee:ee",
+      "pages": "167",
+      "indexPage": 946,
+      "column": 0,
+      "row": 18,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "中央处理装置",
+        "tesseract": "中央処理装置acacsoee:ee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "抽出",
+      "pages": "461",
+      "indexPage": 946,
+      "column": 0,
+      "row": 19,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "抽出",
+        "tesseract": "wetsenecreccancser"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "調達管理",
+      "pages": "802",
+      "indexPage": 946,
+      "column": 0,
+      "row": 20,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "调達管理",
+        "tesseract": "調達管理"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "重複チェック",
+      "pages": "719",
+      "indexPage": 946,
+      "column": 0,
+      "row": 21,
+      "needsReview": false
+    },
+    {
+      "word": "Gm Anca e een e",
+      "pages": "439",
+      "indexPage": 946,
+      "column": 0,
+      "row": 22,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "Gm Anca e een e "
+      },
+      "reviewReason": "補完した行を要確認"
+    },
+    {
+      "word": "直接アドレス指定方式",
+      "pages": "179",
+      "indexPage": 946,
+      "column": 0,
+      "row": 23,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "直接指定方式",
+        "tesseract": "直接アドレス指定方式"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "直接制御方式…",
+      "pages": "254",
+      "indexPage": 946,
+      "column": 0,
+      "row": 24,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "查接制御方式",
+        "tesseract": "直接制御方式…"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "直列",
+      "pages": "253",
+      "indexPage": 946,
+      "column": 0,
+      "row": 25,
+      "needsReview": false
+    },
+    {
+      "word": "直列につながっているシステム",
+      "pages": "784",
+      "indexPage": 946,
+      "column": 0,
+      "row": 26,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "列",
+        "tesseract": "直列につながっているシステム"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "著作",
+      "pages": "890,891",
+      "indexPage": 946,
+      "column": 0,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "著作権の帰属先",
+      "pages": "68",
+      "indexPage": 946,
+      "column": 0,
+      "row": 28,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "著作棍の师属先",
+        "tesseract": "著作権の帰属先"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "著作者人格棒…scene",
+      "pages": "891",
+      "indexPage": 946,
+      "column": 0,
+      "row": 29,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "著作者人格",
+        "tesseract": "著作者人格棒…scene"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "通常ファイル",
+      "pages": "346",
+      "indexPage": 946,
+      "column": 0,
+      "row": 30,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "通常",
+        "tesseract": "通常ファイル"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "強みーー",
+      "pages": "876",
+      "indexPage": 946,
+      "column": 0,
+      "row": 31,
+      "needsReview": false
+    },
+    {
+      "word": "ツリー構千",
+      "pages": "392",
+      "indexPage": 946,
+      "column": 0,
+      "row": 32,
+      "needsReview": false
+    },
+    {
+      "word": "釣鐘状",
+      "pages": "84",
+      "indexPage": 946,
+      "column": 0,
+      "row": 33,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "的鐘状",
+        "tesseract": "釣鐘状"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "提案依頼書",
+      "pages": "675",
+      "indexPage": 946,
+      "column": 0,
+      "row": 34,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "提案依類書",
+        "tesseract": "提案依頼書"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ディーブプラーニング",
+      "pages": "601",
+      "indexPage": 946,
+      "column": 0,
+      "row": 35,
+      "needsReview": false
+    },
+    {
+      "word": "定额法",
+      "pages": "917",
+      "indexPage": 946,
+      "column": 0,
+      "row": 36,
+      "needsReview": false
+    },
+    {
+      "word": "定義ファイル・",
+      "pages": "634",
+      "indexPage": 946,
+      "column": 0,
+      "row": 37,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "定",
+        "tesseract": "定義ファイル・"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "提携",
+      "pages": "875",
+      "indexPage": 946,
+      "column": 0,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "デイジーチェーン",
+      "pages": "260",
+      "indexPage": 946,
+      "column": 0,
+      "row": 39,
+      "needsReview": false
+    },
+    {
+      "word": "ディスク",
+      "pages": "228",
+      "indexPage": 946,
+      "column": 0,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "ディスクキャッシュ",
+      "pages": "214,216",
+      "indexPage": 946,
+      "column": 0,
+      "row": 41,
+      "needsReview": false
+    },
+    {
+      "word": "ディスバッチャ・",
+      "pages": "298",
+      "indexPage": 946,
+      "column": 0,
+      "row": 42,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "于",
+        "tesseract": "ディスバッチャ・"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ディスプレイ",
+      "pages": "271",
+      "indexPage": 946,
+      "column": 0,
+      "row": 43,
+      "needsReview": false
+    },
+    {
+      "word": "ディスプレイの種類…FT",
+      "pages": "271",
+      "indexPage": 946,
+      "column": 0,
+      "row": 44,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "種類",
+        "tesseract": "ディスプレイの種類…FT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "定率法",
+      "pages": "917",
+      "indexPage": 946,
+      "column": 0,
+      "row": 45,
+      "needsReview": false
+    },
+    {
+      "word": "ディレクトリトラバーサル攻撃",
+      "pages": "625",
+      "indexPage": 946,
+      "column": 0,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "攻",
+        "tesseract": "ディレクトリトラバーサル攻撃"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "aesSeacvees",
+      "pages": "727",
+      "indexPage": 946,
+      "column": 0,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "aesSeacvees"
+      },
+      "reviewReason": "英字の用語が不鮮明 / ページ認識の確度"
+    },
+    {
+      "word": "データ結合",
+      "pages": "725",
+      "indexPage": 946,
+      "column": 0,
+      "row": 48,
+      "needsReview": false
+    },
+    {
+      "word": "データ構千",
+      "pages": "381",
+      "indexPage": 946,
+      "column": 0,
+      "row": 49,
+      "needsReview": false
+    },
+    {
+      "word": "データ整理技法",
+      "pages": "838",
+      "indexPage": 946,
+      "column": 0,
+      "row": 50,
+      "needsReview": false
+    },
+    {
+      "word": "データ操作言語",
+      "pages": "457",
+      "indexPage": 946,
+      "column": 1,
+      "row": 1,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "于一夕操作言语",
+        "tesseract": "データ操作言語"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "データ定義言語",
+      "pages": "457",
+      "indexPage": 946,
+      "column": 1,
+      "row": 2,
+      "needsReview": false
+    },
+    {
+      "word": "データの放り制御",
+      "pages": "535",
+      "indexPage": 946,
+      "column": 1,
+      "row": 3,
+      "needsReview": false
+    },
+    {
+      "word": "データのグループ化",
+      "pages": "467",
+      "indexPage": 946,
+      "column": 1,
+      "row": 4,
+      "needsReview": false
+    },
+    {
+      "word": "データハザード",
+      "pages": "196",
+      "indexPage": 946,
+      "column": 1,
+      "row": 5,
+      "needsReview": false
+    },
+    {
+      "word": "データフローダイアグラム",
+      "pages": "700",
+      "indexPage": 946,
+      "column": 1,
+      "row": 6,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "夕",
+        "tesseract": "データフローダイアグラム"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "データベース",
+      "pages": "430",
+      "indexPage": 946,
+      "column": 1,
+      "row": 7,
+      "needsReview": false
+    },
+    {
+      "word": "データベースの障害管理",
+      "pages": "493",
+      "indexPage": 946,
+      "column": 1,
+      "row": 8,
+      "needsReview": false
+    },
+    {
+      "word": "データベースの設計",
+      "pages": "440",
+      "indexPage": 946,
+      "column": 1,
+      "row": 9,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "一夕の",
+        "tesseract": "データベースの設計"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "データマイニング",
+      "pages": "599",
+      "indexPage": 946,
+      "column": 1,
+      "row": 10,
+      "needsReview": false
+    },
+    {
+      "word": "データ量の理論値",
+      "pages": "101",
+      "indexPage": 946,
+      "column": 1,
+      "row": 11,
+      "needsReview": false
+    },
+    {
+      "word": "データを整列させるアルゴリズム",
+      "pages": "414",
+      "indexPage": 946,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "整列",
+        "tesseract": "データを整列させるアルゴリズム"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "データを探索するアルゴリズム",
+      "pages": "403",
+      "indexPage": 946,
+      "column": 1,
+      "row": 13,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "一夕探",
+        "tesseract": "データを探索するアルゴリズム"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "テキスト形式",
+      "pages": "594",
+      "indexPage": 946,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "形式",
+        "tesseract": "テキスト形式"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "デデキ",
+      "pages": "386",
+      "indexPage": 946,
+      "column": 1,
+      "row": 15,
+      "needsReview": false
+    },
+    {
+      "word": "デザインバターン",
+      "pages": "736",
+      "indexPage": 946,
+      "column": 1,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "デザインレビュ",
+      "pages": "688",
+      "indexPage": 946,
+      "column": 1,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "デシジョンテーブル",
+      "pages": "842",
+      "indexPage": 946,
+      "column": 1,
+      "row": 18,
+      "needsReview": false
+    },
+    {
+      "word": "デジタルカメラ",
+      "pages": "268",
+      "indexPage": 946,
+      "column": 1,
+      "row": 19,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "デジタルカメラ"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "デジタル賭名",
+      "pages": "650,656",
+      "indexPage": 946,
+      "column": 1,
+      "row": 20,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "署名",
+        "tesseract": "デジタル賭名"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "デジタルデータ",
+      "pages": "120",
+      "indexPage": 946,
+      "column": 1,
+      "row": 21,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "一夕",
+        "tesseract": "デジタルデータ"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "手順的強度",
+      "pages": "724",
+      "indexPage": 946,
+      "column": 1,
+      "row": 22,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "手顺的强度",
+        "tesseract": "手順的強度"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "テスト",
+      "pages": "687,743",
+      "indexPage": 946,
+      "column": 1,
+      "row": 23,
+      "needsReview": false
+    },
+    {
+      "word": "テストカバレージ分析ツール",
+      "pages": "749",
+      "indexPage": 946,
+      "column": 1,
+      "row": 24,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "分析",
+        "tesseract": "テストカバレージ分析ツール"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "テスト駆動開発",
+      "pages": "695",
+      "indexPage": 946,
+      "column": 1,
+      "row": 25,
+      "needsReview": false
+    },
+    {
+      "word": "テスト支援ツール",
+      "pages": "749",
+      "indexPage": 946,
+      "column": 1,
+      "row": 26,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "支援",
+        "tesseract": "テスト支援ツール"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "テストテータの決めごと",
+      "pages": "747",
+      "indexPage": 946,
+      "column": 1,
+      "row": 27,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "一夕決",
+        "tesseract": "テストテータの決めごと"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "テストの流れ.“",
+      "pages": "744",
+      "indexPage": 946,
+      "column": 1,
+      "row": 28,
+      "needsReview": false
+    },
+    {
+      "word": "手続き",
+      "pages": "727",
+      "indexPage": 946,
+      "column": 1,
+      "row": 29,
+      "needsReview": false
+    },
+    {
+      "word": "ッドロック",
+      "pages": "312,487",
+      "indexPage": 946,
+      "column": 1,
+      "row": 30,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "y",
+        "tesseract": "ッドロック"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "デバイスドライバ",
+      "pages": "283",
+      "indexPage": 946,
+      "column": 1,
+      "row": 31,
+      "needsReview": false
+    },
+    {
+      "word": "デビットカード",
+      "pages": "871",
+      "indexPage": 946,
+      "column": 1,
+      "row": 32,
+      "needsReview": false
+    },
+    {
+      "word": "デファクトスタンダード",
+      "pages": "547",
+      "indexPage": 946,
+      "column": 1,
+      "row": 33,
+      "needsReview": false
+    },
+    {
+      "word": "デフラグ",
+      "pages": "236",
+      "indexPage": 946,
+      "column": 1,
+      "row": 34,
+      "needsReview": false
+    },
+    {
+      "word": "デフラグメンテーション",
+      "pages": "236",
+      "indexPage": 946,
+      "column": 1,
+      "row": 35,
+      "needsReview": false
+    },
+    {
+      "word": "デマンドページング",
+      "pages": "340",
+      "indexPage": 946,
+      "column": 1,
+      "row": 36,
+      "needsReview": false
+    },
+    {
+      "word": "デュアルシステム",
+      "pages": "775",
+      "indexPage": 946,
+      "column": 1,
+      "row": 37,
+      "needsReview": false
+    },
+    {
+      "word": "デュブレックスシステム",
+      "pages": "776",
+      "indexPage": 946,
+      "column": 1,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "テラ",
+      "pages": "124",
+      "indexPage": 946,
+      "column": 1,
+      "row": 39,
+      "needsReview": false
+    },
+    {
+      "word": "点",
+      "pages": "87",
+      "indexPage": 946,
+      "column": 1,
+      "row": 40,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "点",
+        "tesseract": "ee"
+      },
+      "reviewReason": "用語が欠落または短い / ページ認識の確度"
+    },
+    {
+      "word": "電荷結素子",
+      "pages": "268",
+      "indexPage": 946,
+      "column": 1,
+      "row": 41,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "電荷結合秦子",
+        "tesseract": "電荷結素子"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "電子計算機損壊等業務妨害",
+      "pages": "906",
+      "indexPage": 946,
+      "column": 1,
+      "row": 42,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "電子叶算機损袋等業務妨害",
+        "tesseract": "電子計算機損壊等業務妨害"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "電子署名法",
+      "pages": "656",
+      "indexPage": 946,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "電子著名法",
+        "tesseract": "電子署名法"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "電子メール",
+      "pages": "586",
+      "indexPage": 946,
+      "column": 1,
+      "row": 44,
+      "needsReview": false
+    },
+    {
+      "word": "電子メールソフト",
+      "pages": "586",
+      "indexPage": 946,
+      "column": 1,
+      "row": 45,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "電子",
+        "tesseract": "電子メールソフト"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "電子商取引",
+      "pages": "868",
+      "indexPage": 946,
+      "column": 1,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "電子商取引1",
+        "tesseract": "電子商取引"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "伝送効率",
+      "pages": "520",
+      "indexPage": 946,
+      "column": 1,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "运送劲率",
+        "tesseract": "伝送効率"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "同一性保持",
+      "pages": "891",
+      "indexPage": 946,
+      "column": 1,
+      "row": 48,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "同一性保持",
+        "tesseract": "ERIS"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "透過性",
+      "pages": "499",
+      "indexPage": 946,
+      "column": 1,
+      "row": 49,
+      "needsReview": false
+    },
+    {
+      "word": "投機実行",
+      "pages": "197",
+      "indexPage": 946,
+      "column": 1,
+      "row": 50,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "投機实行",
+        "tesseract": "投機実行"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "同期制御",
+      "pages": "308,313",
+      "indexPage": 946,
+      "column": 1,
+      "row": 51,
+      "needsReview": false
+    },
+    {
+      "word": "統計",
+      "pages": "83",
+      "indexPage": 946,
+      "column": 1,
+      "row": 52,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "統計",
+        "tesseract": "統計"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "統合管理にに",
+      "pages": "802",
+      "indexPage": 946,
+      "column": 1,
+      "row": 53,
+      "needsReview": false
+    },
+    {
+      "word": "同値分害",
+      "pages": "747",
+      "indexPage": 946,
+      "column": 1,
+      "row": 54,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "同值分割",
+        "tesseract": "同値分害"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "到着顺方式",
+      "pages": "298",
+      "indexPage": 946,
+      "column": 1,
+      "row": 55,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "到着顺方式",
+        "tesseract": "EVGARCCCHTDRECTee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "盗",
+      "pages": "651",
+      "indexPage": 946,
+      "column": 1,
+      "row": 56,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "盗",
+        "tesseract": "Fisted"
+      },
+      "reviewReason": "用語が欠落または短い / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "動的アドレス変換機構",
+      "pages": "332",
+      "indexPage": 946,
+      "column": 1,
+      "row": 57,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "動的变换機",
+        "tesseract": "動的アドレス変換機構"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "動的ヒューリスティック法",
+      "pages": "635",
+      "indexPage": 946,
+      "column": 1,
+      "row": 58,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "動的法",
+        "tesseract": "動的ヒューリスティック法"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "動的変数",
+      "pages": "369",
+      "indexPage": 946,
+      "column": 1,
+      "row": 59,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "動的变数",
+        "tesseract": "動的変数"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "動的優先順位方式",
+      "pages": "299",
+      "indexPage": 946,
+      "column": 1,
+      "row": 60,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "動的優先顺位方式",
+        "tesseract": "動的優先順位方式"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    }
+  ]
+}

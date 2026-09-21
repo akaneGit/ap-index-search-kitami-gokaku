@@ -1,0 +1,410 @@
+{
+  "indexPage": 786,
+  "entries": [
+    {
+      "word": "ーーバーーーーーーコ",
+      "pages": "2.38.60",
+      "indexPage": 786,
+      "column": 0,
+      "row": 1,
+      "needsReview": true,
+      "ocrConfidence": 38.7
+    },
+    {
+      "word": "0 アドレス方式",
+      "pages": "136",
+      "indexPage": 786,
+      "column": 0,
+      "row": 2,
+      "needsReview": false,
+      "ocrConfidence": 84.3
+    },
+    {
+      "word": "1 次キャッシュ",
+      "pages": "152",
+      "indexPage": 786,
+      "column": 0,
+      "row": 3,
+      "needsReview": false,
+      "ocrConfidence": 83.0
+    },
+    {
+      "word": "1 重回転",
+      "pages": "87",
+      "indexPage": 786,
+      "column": 0,
+      "row": 4,
+      "needsReview": false,
+      "ocrConfidence": 75.2
+    },
+    {
+      "word": "out of 3 システム",
+      "pages": "280",
+      "indexPage": 786,
+      "column": 0,
+      "row": 5,
+      "needsReview": true,
+      "ocrConfidence": 74.3
+    },
+    {
+      "word": "次キャッシュ",
+      "pages": "152",
+      "indexPage": 786,
+      "column": 0,
+      "row": 6,
+      "needsReview": true,
+      "ocrConfidence": 69.3
+    },
+    {
+      "word": "g 進セマフォ",
+      "pages": "251",
+      "indexPage": 786,
+      "column": 0,
+      "row": 7,
+      "needsReview": true,
+      "ocrConfidence": 51.9
+    },
+    {
+      "word": "相コミットメント制御",
+      "pages": "358",
+      "indexPage": 786,
+      "column": 0,
+      "row": 8,
+      "needsReview": true,
+      "ocrConfidence": 71.1
+    },
+    {
+      "word": "8 値セマフォ",
+      "pages": "251",
+      "indexPage": 786,
+      "column": 0,
+      "row": 9,
+      "needsReview": true,
+      "ocrConfidence": 55.4
+    },
+    {
+      "word": "部グラフ",
+      "pages": "42",
+      "indexPage": 786,
+      "column": 0,
+      "row": 10,
+      "needsReview": true,
+      "ocrConfidence": 64.8
+    },
+    {
+      "word": "ODER",
+      "pages": "85.86.100.257",
+      "indexPage": 786,
+      "column": 0,
+      "row": 11,
+      "needsReview": true,
+      "ocrConfidence": 36.5
+    },
+    {
+      "word": "8 要素認証",
+      "pages": "450",
+      "indexPage": 786,
+      "column": 0,
+      "row": 12,
+      "needsReview": true,
+      "ocrConfidence": 31.7
+    },
+    {
+      "word": "3 ウェイハンドシェイク",
+      "pages": "401",
+      "indexPage": 786,
+      "column": 0,
+      "row": 13,
+      "needsReview": false,
+      "ocrConfidence": 83.6
+    },
+    {
+      "word": "3 相コミットメント制宙",
+      "pages": "353",
+      "indexPage": 786,
+      "column": 0,
+      "row": 14,
+      "needsReview": true,
+      "ocrConfidence": 69.5
+    },
+    {
+      "word": "3 飛スキーマ梅造",
+      "pages": "291.298",
+      "indexPage": 786,
+      "column": 0,
+      "row": 15,
+      "needsReview": true,
+      "ocrConfidence": 63.4
+    },
+    {
+      "word": "3 つ組かでいい",
+      "pages": "37",
+      "indexPage": 786,
+      "column": 0,
+      "row": 16,
+      "needsReview": true,
+      "ocrConfidence": 58.0
+    },
+    {
+      "word": "SAMBA",
+      "pages": "618",
+      "indexPage": 786,
+      "column": 0,
+      "row": 17,
+      "needsReview": true,
+      "ocrConfidence": 18.8
+    },
+    {
+      "word": "BLoWPAN………ード",
+      "pages": "481",
+      "indexPage": 786,
+      "column": 0,
+      "row": 18,
+      "needsReview": true,
+      "ocrConfidence": 20.2
+    },
+    {
+      "word": "AB テスト",
+      "pages": "618",
+      "indexPage": 786,
+      "column": 0,
+      "row": 19,
+      "needsReview": true,
+      "ocrConfidence": 55.5
+    },
+    {
+      "word": "MD コンバータ",
+      "pages": "188",
+      "indexPage": 786,
+      "column": 0,
+      "row": 20,
+      "needsReview": false,
+      "ocrConfidence": 78.6
+    },
+    {
+      "word": "AAA フレームワーク",
+      "pages": "451",
+      "indexPage": 786,
+      "column": 0,
+      "row": 21,
+      "needsReview": false,
+      "ocrConfidence": 77.5
+    },
+    {
+      "word": "ABC 分析",
+      "pages": "640",
+      "indexPage": 786,
+      "column": 0,
+      "row": 22,
+      "needsReview": true,
+      "ocrConfidence": 52.1
+    },
+    {
+      "word": "ACID 特性",
+      "pages": "335",
+      "indexPage": 786,
+      "column": 1,
+      "row": 23,
+      "needsReview": true,
+      "ocrConfidence": 62.5
+    },
+    {
+      "word": "ACK 番号",
+      "pages": "400",
+      "indexPage": 786,
+      "column": 1,
+      "row": 24,
+      "needsReview": true,
+      "ocrConfidence": 69.5
+    },
+    {
+      "word": "ADAS oe nn",
+      "pages": "131",
+      "indexPage": 786,
+      "column": 1,
+      "row": 25,
+      "needsReview": true,
+      "ocrConfidence": 24.0
+    },
+    {
+      "word": "AES-CCMP",
+      "pages": "444",
+      "indexPage": 786,
+      "column": 1,
+      "row": 26,
+      "needsReview": true,
+      "ocrConfidence": 35.9
+    },
+    {
+      "word": "AI8XK…ー…… ees ee ee",
+      "pages": "106",
+      "indexPage": 786,
+      "column": 1,
+      "row": 27,
+      "needsReview": true,
+      "ocrConfidence": 19.9
+    },
+    {
+      "word": "ALTER TABLE",
+      "pages": "310.773",
+      "indexPage": 786,
+      "column": 1,
+      "row": 28,
+      "needsReview": false,
+      "ocrConfidence": 83.6
+    },
+    {
+      "word": "alternate key",
+      "pages": "298",
+      "indexPage": 786,
+      "column": 1,
+      "row": 29,
+      "needsReview": true,
+      "ocrConfidence": 61.2
+    },
+    {
+      "word": "AND",
+      "pages": "120.123",
+      "indexPage": 786,
+      "column": 1,
+      "row": 30,
+      "needsReview": true,
+      "ocrConfidence": 52.1
+    },
+    {
+      "word": "ANY 接続拒否機能",
+      "pages": "417",
+      "indexPage": 786,
+      "column": 1,
+      "row": 31,
+      "needsReview": false,
+      "ocrConfidence": 76.8
+    },
+    {
+      "word": "APIPA",
+      "pages": "398",
+      "indexPage": 786,
+      "column": 1,
+      "row": 32,
+      "needsReview": true,
+      "ocrConfidence": 40.6
+    },
+    {
+      "word": "API エコノミ",
+      "pages": "624",
+      "indexPage": 786,
+      "column": 1,
+      "row": 33,
+      "needsReview": false,
+      "ocrConfidence": 76.2
+    },
+    {
+      "word": "arp コマンド",
+      "pages": "399",
+      "indexPage": 786,
+      "column": 1,
+      "row": 34,
+      "needsReview": true,
+      "ocrConfidence": 72.8
+    },
+    {
+      "word": "AS",
+      "pages": "814.318.381",
+      "indexPage": 786,
+      "column": 1,
+      "row": 35,
+      "needsReview": true,
+      "ocrConfidence": 31.0
+    },
+    {
+      "word": "As-lIs モデル",
+      "pages": "608",
+      "indexPage": 786,
+      "column": 1,
+      "row": 36,
+      "needsReview": true,
+      "ocrConfidence": 63.6
+    },
+    {
+      "word": "ATAPI… tt",
+      "pages": "162",
+      "indexPage": 786,
+      "column": 1,
+      "row": 37,
+      "needsReview": true,
+      "ocrConfidence": 48.9
+    },
+    {
+      "word": "Atomicity",
+      "pages": "35",
+      "indexPage": 786,
+      "column": 1,
+      "row": 38,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "ATTSCK",
+      "pages": "629",
+      "indexPage": 786,
+      "column": 1,
+      "row": 39,
+      "needsReview": true,
+      "ocrConfidence": 24.2
+    },
+    {
+      "word": "BUTO s+ sre reeseeeeesereres",
+      "pages": "108",
+      "indexPage": 786,
+      "column": 1,
+      "row": 40,
+      "needsReview": true,
+      "ocrConfidence": 24.1
+    },
+    {
+      "word": "AVG 関数",
+      "pages": "315",
+      "indexPage": 786,
+      "column": 1,
+      "row": 41,
+      "needsReview": true,
+      "ocrConfidence": 63.9
+    },
+    {
+      "word": "AA レコード",
+      "pages": "408",
+      "indexPage": 786,
+      "column": 1,
+      "row": 42,
+      "needsReview": true,
+      "ocrConfidence": 72.0
+    },
+    {
+      "word": "BT 木 -…… ーーー BB",
+      "pages": "346",
+      "indexPage": 786,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "ocrConfidence": 35.7
+    },
+    {
+      "word": "B+ 木インデックス",
+      "pages": "88.346",
+      "indexPage": 786,
+      "column": 1,
+      "row": 44,
+      "needsReview": false,
+      "ocrConfidence": 88.8
+    },
+    {
+      "word": "Base64 方式",
+      "pages": "403",
+      "indexPage": 786,
+      "column": 0,
+      "row": 45,
+      "needsReview": false,
+      "ocrConfidence": 75.2
+    }
+  ]
+}

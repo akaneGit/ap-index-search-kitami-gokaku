@@ -1,0 +1,536 @@
+{
+  "indexPage": 802,
+  "entries": [
+    {
+      "word": "バージョン管理ツール",
+      "pages": "270",
+      "indexPage": 802,
+      "column": 1,
+      "row": 1,
+      "needsReview": false,
+      "ocrConfidence": 82.4
+    },
+    {
+      "word": "AND",
+      "pages": "26",
+      "indexPage": 802,
+      "column": 1,
+      "row": 2,
+      "needsReview": true,
+      "ocrConfidence": 64.2
+    },
+    {
+      "word": "バーセプトロン",
+      "pages": "68",
+      "indexPage": 802,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "ocrConfidence": 72.4
+    },
+    {
+      "word": "バーソナルモード",
+      "pages": "445",
+      "indexPage": 802,
+      "column": 1,
+      "row": 4,
+      "needsReview": false,
+      "ocrConfidence": 90.4
+    },
+    {
+      "word": "バーチャルサービスデスク",
+      "pages": "577",
+      "indexPage": 802,
+      "column": 1,
+      "row": 5,
+      "needsReview": false,
+      "ocrConfidence": 82.1
+    },
+    {
+      "word": "バーティショニング 」",
+      "pages": "348",
+      "indexPage": 802,
+      "column": 1,
+      "row": 6,
+      "needsReview": false,
+      "ocrConfidence": 83.4
+    },
+    {
+      "word": "バーティション方式",
+      "pages": "255",
+      "indexPage": 802,
+      "column": 1,
+      "row": 7,
+      "needsReview": false,
+      "ocrConfidence": 75.1
+    },
+    {
+      "word": "NBO TPE",
+      "pages": "125",
+      "indexPage": 802,
+      "column": 1,
+      "row": 8,
+      "needsReview": true,
+      "ocrConfidence": 26.8
+    },
+    {
+      "word": "ハードウェアモニタ 、",
+      "pages": "200",
+      "indexPage": 802,
+      "column": 1,
+      "row": 9,
+      "needsReview": false,
+      "ocrConfidence": 84.9
+    },
+    {
+      "word": "バーミッション",
+      "pages": "240",
+      "indexPage": 802,
+      "column": 1,
+      "row": 10,
+      "needsReview": false,
+      "ocrConfidence": 76.1
+    },
+    {
+      "word": "バーンダウンチャート",
+      "pages": "564",
+      "indexPage": 802,
+      "column": 1,
+      "row": 11,
+      "needsReview": false,
+      "ocrConfidence": 79.5
+    },
+    {
+      "word": "バイオメトリクス語ほ",
+      "pages": "480",
+      "indexPage": 802,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "ocrConfidence": 53.5
+    },
+    {
+      "word": "eee",
+      "pages": "340,344",
+      "indexPage": 802,
+      "column": 1,
+      "row": 13,
+      "needsReview": true,
+      "ocrConfidence": 53.2
+    },
+    {
+      "word": "sete",
+      "pages": "249,250",
+      "indexPage": 802,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "ocrConfidence": 44.6
+    },
+    {
+      "word": "sMOCOHREORF",
+      "pages": "120,123",
+      "indexPage": 802,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "Rem",
+      "pages": "125",
+      "indexPage": 802,
+      "column": 1,
+      "row": 16,
+      "needsReview": true,
+      "ocrConfidence": 61.5
+    },
+    {
+      "word": "DA IRI 2000",
+      "pages": "1897,138",
+      "indexPage": 802,
+      "column": 1,
+      "row": 17,
+      "needsReview": true,
+      "ocrConfidence": 22.2
+    },
+    {
+      "word": "ルイ 0 イザ",
+      "pages": "194",
+      "indexPage": 802,
+      "column": 0,
+      "row": 18,
+      "needsReview": true,
+      "ocrConfidence": 45.1
+    },
+    {
+      "word": "DATO HRA",
+      "pages": "194",
+      "indexPage": 802,
+      "column": 0,
+      "row": 19,
+      "needsReview": true,
+      "ocrConfidence": 41.6
+    },
+    {
+      "word": "コンピューティング",
+      "pages": "187",
+      "indexPage": 802,
+      "column": 0,
+      "row": 20,
+      "needsReview": false,
+      "ocrConfidence": 87.0
+    },
+    {
+      "word": "aR",
+      "pages": "47",
+      "indexPage": 802,
+      "column": 0,
+      "row": 21,
+      "needsReview": true,
+      "ocrConfidence": 50.8
+    },
+    {
+      "word": "バイブ",
+      "pages": "249,274",
+      "indexPage": 802,
+      "column": 0,
+      "row": 22,
+      "needsReview": false,
+      "ocrConfidence": 80.7
+    },
+    {
+      "word": "IZ",
+      "pages": "249",
+      "indexPage": 802,
+      "column": 0,
+      "row": 23,
+      "needsReview": true,
+      "ocrConfidence": 47.9
+    },
+    {
+      "word": "ハイブサイクル",
+      "pages": "631",
+      "indexPage": 802,
+      "column": 0,
+      "row": 24,
+      "needsReview": true,
+      "ocrConfidence": 73.9
+    },
+    {
+      "word": "バイブライン",
+      "pages": "249",
+      "indexPage": 802,
+      "column": 0,
+      "row": 25,
+      "needsReview": true,
+      "ocrConfidence": 70.6
+    },
+    {
+      "word": "WADIA YORE",
+      "pages": "0-143",
+      "indexPage": 802,
+      "column": 0,
+      "row": 26,
+      "needsReview": true,
+      "ocrConfidence": 4.1
+    },
+    {
+      "word": "バイブラインハザード",
+      "pages": "148",
+      "indexPage": 802,
+      "column": 0,
+      "row": 27,
+      "needsReview": false,
+      "ocrConfidence": 78.2
+    },
+    {
+      "word": "バイブラインピッチ ]",
+      "pages": "143",
+      "indexPage": 802,
+      "column": 0,
+      "row": 28,
+      "needsReview": false,
+      "ocrConfidence": 78.1
+    },
+    {
+      "word": "ハイブリッドクラウド",
+      "pages": "609",
+      "indexPage": 802,
+      "column": 0,
+      "row": 29,
+      "needsReview": false,
+      "ocrConfidence": 82.7
+    },
+    {
+      "word": "バイラルマーケティング",
+      "pages": "618",
+      "indexPage": 802,
+      "column": 0,
+      "row": 30,
+      "needsReview": false,
+      "ocrConfidence": 79.7
+    },
+    {
+      "word": "バイロット移入式",
+      "pages": "574",
+      "indexPage": 802,
+      "column": 0,
+      "row": 31,
+      "needsReview": true,
+      "ocrConfidence": 59.1
+    },
+    {
+      "word": "JAZ",
+      "pages": "469",
+      "indexPage": 802,
+      "column": 0,
+      "row": 32,
+      "needsReview": true,
+      "ocrConfidence": 46.4
+    },
+    {
+      "word": "ハウジングサービス",
+      "pages": "609",
+      "indexPage": 802,
+      "column": 0,
+      "row": 33,
+      "needsReview": false,
+      "ocrConfidence": 75.5
+    },
+    {
+      "word": "提出し法",
+      "pages": "65,68",
+      "indexPage": 802,
+      "column": 0,
+      "row": 34,
+      "needsReview": true,
+      "ocrConfidence": 47.8
+    },
+    {
+      "word": "JRE",
+      "pages": "537",
+      "indexPage": 802,
+      "column": 0,
+      "row": 35,
+      "needsReview": true,
+      "ocrConfidence": 58.3
+    },
+    {
+      "word": "NOBLE",
+      "pages": "538",
+      "indexPage": 802,
+      "column": 0,
+      "row": 36,
+      "needsReview": true,
+      "ocrConfidence": 51.0
+    },
+    {
+      "word": "バケット",
+      "pages": "378",
+      "indexPage": 802,
+      "column": 0,
+      "row": 37,
+      "needsReview": true,
+      "ocrConfidence": 66.1
+    },
+    {
+      "word": "Jory BSB",
+      "pages": "376",
+      "indexPage": 802,
+      "column": 0,
+      "row": 38,
+      "needsReview": true,
+      "ocrConfidence": 45.7
+    },
+    {
+      "word": "バケットフィルタリング型",
+      "pages": "458",
+      "indexPage": 802,
+      "column": 0,
+      "row": 39,
+      "needsReview": false,
+      "ocrConfidence": 81.1
+    },
+    {
+      "word": "it",
+      "pages": "666",
+      "indexPage": 802,
+      "column": 0,
+      "row": 40,
+      "needsReview": true,
+      "ocrConfidence": 55.7
+    },
+    {
+      "word": "ハザード",
+      "pages": "142",
+      "indexPage": 802,
+      "column": 0,
+      "row": 41,
+      "needsReview": false,
+      "ocrConfidence": 81.0
+    },
+    {
+      "word": "バスアラウンド",
+      "pages": "542",
+      "indexPage": 802,
+      "column": 0,
+      "row": 42,
+      "needsReview": false,
+      "ocrConfidence": 79.8
+    },
+    {
+      "word": "バスクロック",
+      "pages": "148",
+      "indexPage": 802,
+      "column": 0,
+      "row": 43,
+      "needsReview": false,
+      "ocrConfidence": 93.2
+    },
+    {
+      "word": "バススヌープ",
+      "pages": "156",
+      "indexPage": 802,
+      "column": 0,
+      "row": 44,
+      "needsReview": true,
+      "ocrConfidence": 71.8
+    },
+    {
+      "word": "VAs Zee",
+      "pages": "215",
+      "indexPage": 802,
+      "column": 0,
+      "row": 45,
+      "needsReview": true,
+      "ocrConfidence": 29.6
+    },
+    {
+      "word": "バスパワ",
+      "pages": "162",
+      "indexPage": 802,
+      "column": 0,
+      "row": 46,
+      "needsReview": true,
+      "ocrConfidence": 72.8
+    },
+    {
+      "word": "バス名",
+      "pages": "272",
+      "indexPage": 802,
+      "column": 0,
+      "row": 47,
+      "needsReview": false,
+      "ocrConfidence": 87.3
+    },
+    {
+      "word": "バスワードクラック ]",
+      "pages": "467",
+      "indexPage": 802,
+      "column": 0,
+      "row": 48,
+      "needsReview": false,
+      "ocrConfidence": 82.6
+    },
+    {
+      "word": "バスワードスブレー攻撃",
+      "pages": "467",
+      "indexPage": 802,
+      "column": 0,
+      "row": 49,
+      "needsReview": false,
+      "ocrConfidence": 75.8
+    },
+    {
+      "word": "バスワード委方式",
+      "pages": "448",
+      "indexPage": 802,
+      "column": 0,
+      "row": 50,
+      "needsReview": true,
+      "ocrConfidence": 59.6
+    },
+    {
+      "word": "バスワードリスト攻撃",
+      "pages": "467",
+      "indexPage": 802,
+      "column": 0,
+      "row": 51,
+      "needsReview": false,
+      "ocrConfidence": 82.6
+    },
+    {
+      "word": "派生",
+      "pages": "549",
+      "indexPage": 802,
+      "column": 0,
+      "row": 52,
+      "needsReview": true,
+      "ocrConfidence": 58.3
+    },
+    {
+      "word": "派まクラス :",
+      "pages": "515",
+      "indexPage": 802,
+      "column": 0,
+      "row": 53,
+      "needsReview": true,
+      "ocrConfidence": 61.8
+    },
+    {
+      "word": "バターンファイル",
+      "pages": "465",
+      "indexPage": 802,
+      "column": 0,
+      "row": 54,
+      "needsReview": false,
+      "ocrConfidence": 79.1
+    },
+    {
+      "word": "バターンマッチング",
+      "pages": "468",
+      "indexPage": 802,
+      "column": 0,
+      "row": 55,
+      "needsReview": false,
+      "ocrConfidence": 84.6
+    },
+    {
+      "word": "バックアップサイト ]",
+      "pages": "182",
+      "indexPage": 802,
+      "column": 0,
+      "row": 56,
+      "needsReview": false,
+      "ocrConfidence": 89.3
+    },
+    {
+      "word": "バックアップファイル",
+      "pages": "344",
+      "indexPage": 802,
+      "column": 0,
+      "row": 57,
+      "needsReview": false,
+      "ocrConfidence": 84.4
+    },
+    {
+      "word": "バックキャスティング",
+      "pages": "603",
+      "indexPage": 802,
+      "column": 0,
+      "row": 58,
+      "needsReview": false,
+      "ocrConfidence": 85.2
+    },
+    {
+      "word": "バックドア",
+      "pages": "464",
+      "indexPage": 802,
+      "column": 0,
+      "row": 59,
+      "needsReview": false,
+      "ocrConfidence": 81.4
+    }
+  ]
+}

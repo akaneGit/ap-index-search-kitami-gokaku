@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>応用情報 索引検索</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; color: #203044; background: #f4f7fb; }
+    main { width: min(800px, 100%); margin: 0 auto; padding: 26px 16px 80px; }
+    h1 { font-size: clamp(1.45rem, 4vw, 2rem); margin: 0 0 6px; }
+    .hint { color: #566578; margin: 0 0 20px; line-height: 1.6; }
+    .controls { background: white; border: 1px solid #dce4ed; border-radius: 16px; padding: 16px; box-shadow: 0 5px 20px #2030440b; }
+    label { display: block; font-weight: 700; margin: 0 0 7px; }
+    input, select { font: inherit; width: 100%; padding: 12px 14px; color: #203044; border: 1px solid #a9b8c8; border-radius: 10px; background: white; }
+    input:focus-visible, select:focus-visible { outline: 3px solid #bad7ff; border-color: #2168b6; }
+    input { font-size: 1.1rem; }
+    .row { display: grid; grid-template-columns: 1fr 150px; gap: 12px; margin-bottom: 14px; }
+    .options { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-top: 13px; font-size: .9rem; color: #566578; }
+    .options label { display: inline-flex; align-items: center; gap: 6px; font-weight: 400; margin: 0; }
+    .options input { width: auto; }
+    #summary { margin: 21px 2px 12px; color: #516277; font-size: .92rem; }
+    .item { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 14px; align-items: baseline; background: white; border: 1px solid #e1e8f0; border-radius: 11px; padding: 13px 15px; margin: 7px 0; }
+    .term { overflow-wrap: anywhere; font-weight: 600; }
+    .pages { font-variant-numeric: tabular-nums; color: #1558a3; font-weight: 700; text-align: right; white-space: nowrap; }
+    .note { font-size: .75rem; color: #795b19; margin-top: 4px; }
+    .empty { text-align: center; padding: 45px 10px; color: #637185; }
+    @media (max-width: 540px) { .row { grid-template-columns: 1fr; } .item { gap: 8px; } main { padding-top: 20px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>応用情報 索引検索</h1>
+    <p class="hint">索引語を入力すると、教本の掲載ページを検索できます。</p>
+    <section class="controls" aria-label="検索条件">
+      <div class="row">
+        <div><label for="book">教本</label><select id="book"><option value="kitami">キタミ式 令和08年</option><option value="gokaku">応用情報 合格教本 令和08年</option></select></div>
+        <div><label for="order">並び順</label><select id="order"><option value="index">索引順</option><option value="page">掲載ページ順</option></select></div>
+      </div>
+      <label for="query">検索する言葉</label>
+      <input id="query" type="search" autocomplete="off" placeholder="例：公開鍵、正規化、DNS" autofocus>
+      <div class="options"><label><input type="checkbox" id="review"> 要確認だけ表示</label><span>「要確認」は画像から読み取った際に文字・数字が不鮮明だった項目です。</span></div>
+    </section>
+    <p id="summary" role="status" aria-live="polite"></p>
+    <div id="results"></div>
+  </main>
+  <script src="index-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

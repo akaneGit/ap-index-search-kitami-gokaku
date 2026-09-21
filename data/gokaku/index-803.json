@@ -1,0 +1,1049 @@
+{
+  "indexPage": 803,
+  "entries": [
+    {
+      "word": "バッシブ方式",
+      "pages": "685",
+      "indexPage": 803,
+      "column": 1,
+      "row": 1,
+      "needsReview": true,
+      "ocrConfidence": 61.1
+    },
+    {
+      "word": "ハッシュインデックス",
+      "pages": "346",
+      "indexPage": 803,
+      "column": 1,
+      "row": 2,
+      "needsReview": false,
+      "ocrConfidence": 84.5
+    },
+    {
+      "word": "バッシュ結合",
+      "pages": "351",
+      "indexPage": 803,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "ocrConfidence": 55.6
+    },
+    {
+      "word": "ハッシュセミジョイン法",
+      "pages": "351",
+      "indexPage": 803,
+      "column": 1,
+      "row": 4,
+      "needsReview": false,
+      "ocrConfidence": 82.0
+    },
+    {
+      "word": "ハッシュ貧",
+      "pages": "90.447",
+      "indexPage": 803,
+      "column": 1,
+      "row": 5,
+      "needsReview": true,
+      "ocrConfidence": 67.4
+    },
+    {
+      "word": "ハッシュダ害方",
+      "pages": "348",
+      "indexPage": 803,
+      "column": 1,
+      "row": 6,
+      "needsReview": true,
+      "ocrConfidence": 64.3
+    },
+    {
+      "word": "FESR",
+      "pages": "464",
+      "indexPage": 803,
+      "column": 1,
+      "row": 7,
+      "needsReview": true,
+      "ocrConfidence": 59.6
+    },
+    {
+      "word": "バッファオーバフロ",
+      "pages": "469",
+      "indexPage": 803,
+      "column": 1,
+      "row": 8,
+      "needsReview": false,
+      "ocrConfidence": 84.1
+    },
+    {
+      "word": "ハニーポット",
+      "pages": "481",
+      "indexPage": 803,
+      "column": 1,
+      "row": 9,
+      "needsReview": true,
+      "ocrConfidence": 69.9
+    },
+    {
+      "word": "BRIER:",
+      "pages": "81.84",
+      "indexPage": 803,
+      "column": 1,
+      "row": 10,
+      "needsReview": true,
+      "ocrConfidence": 43.0
+    },
+    {
+      "word": "ハブ",
+      "pages": "378",
+      "indexPage": 803,
+      "column": 1,
+      "row": 11,
+      "needsReview": false,
+      "ocrConfidence": 80.1
+    },
+    {
+      "word": "ハフマン本",
+      "pages": "85",
+      "indexPage": 803,
+      "column": 1,
+      "row": 12,
+      "needsReview": true,
+      "ocrConfidence": 52.2
+    },
+    {
+      "word": "NIP BBG",
+      "pages": "24.25",
+      "indexPage": 803,
+      "column": 1,
+      "row": 13,
+      "needsReview": true,
+      "ocrConfidence": 22.9
+    },
+    {
+      "word": "バブリッククラウド",
+      "pages": "609",
+      "indexPage": 803,
+      "column": 1,
+      "row": 14,
+      "needsReview": false,
+      "ocrConfidence": 81.0
+    },
+    {
+      "word": "MDa bere",
+      "pages": "94",
+      "indexPage": 803,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "ocrConfidence": 20.4
+    },
+    {
+      "word": "ハミルトングラフ",
+      "pages": "42",
+      "indexPage": 803,
+      "column": 1,
+      "row": 16,
+      "needsReview": false,
+      "ocrConfidence": 87.4
+    },
+    {
+      "word": "ASIDE:",
+      "pages": "42",
+      "indexPage": 803,
+      "column": 1,
+      "row": 17,
+      "needsReview": true,
+      "ocrConfidence": 45.3
+    },
+    {
+      "word": "ハミング符号",
+      "pages": "27,189",
+      "indexPage": 803,
+      "column": 1,
+      "row": 18,
+      "needsReview": true,
+      "ocrConfidence": 63.8
+    },
+    {
+      "word": "バラメトリック見積り",
+      "pages": "565",
+      "indexPage": 803,
+      "column": 1,
+      "row": 19,
+      "needsReview": false,
+      "ocrConfidence": 82.2
+    },
+    {
+      "word": "バラレル ATA",
+      "pages": "168",
+      "indexPage": 803,
+      "column": 1,
+      "row": 20,
+      "needsReview": true,
+      "ocrConfidence": 61.1
+    },
+    {
+      "word": "バラレル SCSI",
+      "pages": "162",
+      "indexPage": 803,
+      "column": 1,
+      "row": 21,
+      "needsReview": false,
+      "ocrConfidence": 86.6
+    },
+    {
+      "word": "バラレルインタフェース",
+      "pages": "161",
+      "indexPage": 803,
+      "column": 1,
+      "row": 22,
+      "needsReview": false,
+      "ocrConfidence": 88.5
+    },
+    {
+      "word": "バランス本",
+      "pages": "87",
+      "indexPage": 803,
+      "column": 1,
+      "row": 23,
+      "needsReview": true,
+      "ocrConfidence": 64.5
+    },
+    {
+      "word": "バランスシート",
+      "pages": "645",
+      "indexPage": 803,
+      "column": 1,
+      "row": 24,
+      "needsReview": false,
+      "ocrConfidence": 77.6
+    },
+    {
+      "word": "バランススコアカード",
+      "pages": "619",
+      "indexPage": 803,
+      "column": 1,
+      "row": 25,
+      "needsReview": false,
+      "ocrConfidence": 84.5
+    },
+    {
+      "word": "バリティチェック",
+      "pages": "26",
+      "indexPage": 803,
+      "column": 1,
+      "row": 26,
+      "needsReview": false,
+      "ocrConfidence": 89.4
+    },
+    {
+      "word": "バリューストリームマップ",
+      "pages": "508",
+      "indexPage": 803,
+      "column": 1,
+      "row": 27,
+      "needsReview": false,
+      "ocrConfidence": 86.9
+    },
+    {
+      "word": "バリューチェーン分新",
+      "pages": "615",
+      "indexPage": 803,
+      "column": 1,
+      "row": 28,
+      "needsReview": true,
+      "ocrConfidence": 71.7
+    },
+    {
+      "word": "バリューブライシング",
+      "pages": "617",
+      "indexPage": 803,
+      "column": 1,
+      "row": 29,
+      "needsReview": false,
+      "ocrConfidence": 78.2
+    },
+    {
+      "word": "7 ルクストリーム転送",
+      "pages": "161",
+      "indexPage": 803,
+      "column": 1,
+      "row": 30,
+      "needsReview": true,
+      "ocrConfidence": 65.0
+    },
+    {
+      "word": "JO",
+      "pages": "161",
+      "indexPage": 803,
+      "column": 1,
+      "row": 31,
+      "needsReview": true,
+      "ocrConfidence": 56.6
+    },
+    {
+      "word": "7 シネーション",
+      "pages": "70",
+      "indexPage": 803,
+      "column": 1,
+      "row": 32,
+      "needsReview": true,
+      "ocrConfidence": 62.5
+    },
+    {
+      "word": "J OLA SER",
+      "pages": "28",
+      "indexPage": 803,
+      "column": 1,
+      "row": 33,
+      "needsReview": true,
+      "ocrConfidence": 29.0
+    },
+    {
+      "word": "バレート時",
+      "pages": "695",
+      "indexPage": 803,
+      "column": 1,
+      "row": 34,
+      "needsReview": true,
+      "ocrConfidence": 74.4
+    },
+    {
+      "word": "バレート図",
+      "pages": "640",
+      "indexPage": 803,
+      "column": 1,
+      "row": 35,
+      "needsReview": false,
+      "ocrConfidence": 81.0
+    },
+    {
+      "word": "ワーゲーティング",
+      "pages": "127",
+      "indexPage": 803,
+      "column": 1,
+      "row": 36,
+      "needsReview": true,
+      "ocrConfidence": 54.8
+    },
+    {
+      "word": "REO",
+      "pages": "615",
+      "indexPage": 803,
+      "column": 1,
+      "row": 37,
+      "needsReview": true,
+      "ocrConfidence": 39.0
+    },
+    {
+      "word": "Mt",
+      "pages": "516518",
+      "indexPage": 803,
+      "column": 1,
+      "row": 38,
+      "needsReview": true,
+      "ocrConfidence": 74.3
+    },
+    {
+      "word": "en,",
+      "pages": "128.183",
+      "indexPage": 803,
+      "column": 1,
+      "row": 39,
+      "needsReview": true,
+      "ocrConfidence": 10.4
+    },
+    {
+      "word": "st: sees",
+      "pages": "74",
+      "indexPage": 803,
+      "column": 1,
+      "row": 40,
+      "needsReview": true,
+      "ocrConfidence": 25.0
+    },
+    {
+      "word": "SM — ERR",
+      "pages": "516",
+      "indexPage": 803,
+      "column": 1,
+      "row": 41,
+      "needsReview": true,
+      "ocrConfidence": 46.8
+    },
+    {
+      "word": "バンくずリスト",
+      "pages": "659",
+      "indexPage": 803,
+      "column": 1,
+      "row": 42,
+      "needsReview": false,
+      "ocrConfidence": 84.1
+    },
+    {
+      "word": "SORE: seers",
+      "pages": "87",
+      "indexPage": 803,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "ocrConfidence": 39.0
+    },
+    {
+      "word": "a om",
+      "pages": "386",
+      "indexPage": 803,
+      "column": 0,
+      "row": 44,
+      "needsReview": true,
+      "ocrConfidence": 42.7
+    },
+    {
+      "word": "‘WIR ABRE:",
+      "pages": "527530.531",
+      "indexPage": 803,
+      "column": 0,
+      "row": 45,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "as pos",
+      "pages": "8",
+      "indexPage": 803,
+      "column": 0,
+      "row": 46,
+      "needsReview": true,
+      "ocrConfidence": 43.0
+    },
+    {
+      "word": "外因レジスタ",
+      "pages": "184",
+      "indexPage": 803,
+      "column": 0,
+      "row": 47,
+      "needsReview": true,
+      "ocrConfidence": 36.5
+    },
+    {
+      "word": "ENULLSIS",
+      "pages": "290,326",
+      "indexPage": 803,
+      "column": 0,
+      "row": 48,
+      "needsReview": true,
+      "ocrConfidence": 31.6
+    },
+    {
+      "word": "ピアレビュ",
+      "pages": "540",
+      "indexPage": 803,
+      "column": 0,
+      "row": 49,
+      "needsReview": true,
+      "ocrConfidence": 65.1
+    },
+    {
+      "word": "ヒープ :",
+      "pages": "97,98,103",
+      "indexPage": 803,
+      "column": 0,
+      "row": 50,
+      "needsReview": false,
+      "ocrConfidence": 75.5
+    },
+    {
+      "word": "ヒーフソート",
+      "pages": "95,97",
+      "indexPage": 803,
+      "column": 0,
+      "row": 51,
+      "needsReview": false,
+      "ocrConfidence": 76.2
+    },
+    {
+      "word": "ae",
+      "pages": "77",
+      "indexPage": 803,
+      "column": 0,
+      "row": 52,
+      "needsReview": true,
+      "ocrConfidence": 36.8
+    },
+    {
+      "word": "te",
+      "pages": "486",
+      "indexPage": 803,
+      "column": 0,
+      "row": 53,
+      "needsReview": true,
+      "ocrConfidence": 62.5
+    },
+    {
+      "word": "ee",
+      "pages": "298",
+      "indexPage": 803,
+      "column": 0,
+      "row": 54,
+      "needsReview": true,
+      "ocrConfidence": 60.5
+    },
+    {
+      "word": "ビジネスプロセス",
+      "pages": "601",
+      "indexPage": 803,
+      "column": 0,
+      "row": 55,
+      "needsReview": false,
+      "ocrConfidence": 80.9
+    },
+    {
+      "word": "ビジネスメール証散",
+      "pages": "470",
+      "indexPage": 803,
+      "column": 0,
+      "row": 56,
+      "needsReview": true,
+      "ocrConfidence": 55.6
+    },
+    {
+      "word": "ヒストクラム 、",
+      "pages": "642",
+      "indexPage": 803,
+      "column": 0,
+      "row": 57,
+      "needsReview": false,
+      "ocrConfidence": 77.1
+    },
+    {
+      "word": "ひずみゲージ",
+      "pages": "131",
+      "indexPage": 803,
+      "column": 0,
+      "row": 58,
+      "needsReview": false,
+      "ocrConfidence": 80.3
+    },
+    {
+      "word": "BRIER Gere",
+      "pages": "305",
+      "indexPage": 803,
+      "column": 0,
+      "row": 59,
+      "needsReview": true,
+      "ocrConfidence": 15.7
+    },
+    {
+      "word": "PETEIRIE eee eeeeeee",
+      "pages": "302",
+      "indexPage": 803,
+      "column": 0,
+      "row": 60,
+      "needsReview": true,
+      "ocrConfidence": 8.7
+    },
+    {
+      "word": "pM TZ bY",
+      "pages": "535",
+      "indexPage": 803,
+      "column": 0,
+      "row": 61,
+      "needsReview": true,
+      "ocrConfidence": 25.3
+    },
+    {
+      "word": "me po",
+      "pages": "87",
+      "indexPage": 803,
+      "column": 0,
+      "row": 62,
+      "needsReview": true,
+      "ocrConfidence": 49.3
+    },
+    {
+      "word": "EAE",
+      "pages": "317",
+      "indexPage": 803,
+      "column": 0,
+      "row": 63,
+      "needsReview": true,
+      "ocrConfidence": 53.7
+    },
+    {
+      "word": "ピックエンディアン",
+      "pages": "138",
+      "indexPage": 803,
+      "column": 0,
+      "row": 64,
+      "needsReview": true,
+      "ocrConfidence": 68.2
+    },
+    {
+      "word": "ビックデータ",
+      "pages": "387",
+      "indexPage": 803,
+      "column": 0,
+      "row": 65,
+      "needsReview": false,
+      "ocrConfidence": 83.1
+    },
+    {
+      "word": "ピックリンテスト",
+      "pages": "535",
+      "indexPage": 803,
+      "column": 0,
+      "row": 66,
+      "needsReview": false,
+      "ocrConfidence": 76.8
+    },
+    {
+      "word": "ey MaDe:",
+      "pages": "745",
+      "indexPage": 803,
+      "column": 0,
+      "row": 67,
+      "needsReview": true,
+      "ocrConfidence": 56.0
+    },
+    {
+      "word": "ビットの反転",
+      "pages": "20",
+      "indexPage": 803,
+      "column": 0,
+      "row": 68,
+      "needsReview": true,
+      "ocrConfidence": 70.9
+    },
+    {
+      "word": "ey hey past",
+      "pages": "256",
+      "indexPage": 803,
+      "column": 0,
+      "row": 69,
+      "needsReview": true,
+      "ocrConfidence": 49.7
+    },
+    {
+      "word": "ey he,",
+      "pages": "153",
+      "indexPage": 803,
+      "column": 0,
+      "row": 70,
+      "needsReview": true,
+      "ocrConfidence": 67.9
+    },
+    {
+      "word": "BERMWRF",
+      "pages": "120,123",
+      "indexPage": 803,
+      "column": 0,
+      "row": 71,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "ers",
+      "pages": "452",
+      "indexPage": 803,
+      "column": 0,
+      "row": 72,
+      "needsReview": true,
+      "ocrConfidence": 47.8
+    },
+    {
+      "word": "EMEP:",
+      "pages": "466",
+      "indexPage": 803,
+      "column": 0,
+      "row": 73,
+      "needsReview": true,
+      "ocrConfidence": 62.9
+    },
+    {
+      "word": "表喜コード",
+      "pages": "526",
+      "indexPage": 803,
+      "column": 1,
+      "row": 74,
+      "needsReview": true,
+      "ocrConfidence": 65.3
+    },
+    {
+      "word": "RE se",
+      "pages": "311",
+      "indexPage": 803,
+      "column": 1,
+      "row": 75,
+      "needsReview": true,
+      "ocrConfidence": 44.9
+    },
+    {
+      "word": "EER",
+      "pages": "53",
+      "indexPage": 803,
+      "column": 1,
+      "row": 76,
+      "needsReview": true,
+      "ocrConfidence": 53.9
+    },
+    {
+      "word": "標準タスク法",
+      "pages": "565",
+      "indexPage": 803,
+      "column": 1,
+      "row": 77,
+      "needsReview": false,
+      "ocrConfidence": 78.7
+    },
+    {
+      "word": "a a",
+      "pages": "51.52",
+      "indexPage": 803,
+      "column": 1,
+      "row": 78,
+      "needsReview": true,
+      "ocrConfidence": 36.3
+    },
+    {
+      "word": "mone:",
+      "pages": "470",
+      "indexPage": 803,
+      "column": 1,
+      "row": 79,
+      "needsReview": true,
+      "ocrConfidence": 57.8
+    },
+    {
+      "word": "RONEN x—L",
+      "pages": "468",
+      "indexPage": 803,
+      "column": 1,
+      "row": 80,
+      "needsReview": true,
+      "ocrConfidence": 41.6
+    },
+    {
+      "word": "me",
+      "pages": "52",
+      "indexPage": 803,
+      "column": 1,
+      "row": 81,
+      "needsReview": true,
+      "ocrConfidence": 42.9
+    },
+    {
+      "word": "MER Gee",
+      "pages": "28",
+      "indexPage": 803,
+      "column": 1,
+      "row": 82,
+      "needsReview": true,
+      "ocrConfidence": 27.3
+    },
+    {
+      "word": "ERIE",
+      "pages": "28,128",
+      "indexPage": 803,
+      "column": 1,
+      "row": 83,
+      "needsReview": true,
+      "ocrConfidence": 47.5
+    },
+    {
+      "word": "mxett:",
+      "pages": "54",
+      "indexPage": 803,
+      "column": 1,
+      "row": 84,
+      "needsReview": true,
+      "ocrConfidence": 44.5
+    },
+    {
+      "word": "林本平約",
+      "pages": "54",
+      "indexPage": 803,
+      "column": 1,
+      "row": 85,
+      "needsReview": true,
+      "ocrConfidence": 29.1
+    },
+    {
+      "word": "人特性",
+      "pages": "658",
+      "indexPage": 803,
+      "column": 1,
+      "row": 86,
+      "needsReview": true,
+      "ocrConfidence": 17.3
+    },
+    {
+      "word": "art:",
+      "pages": "654",
+      "indexPage": 803,
+      "column": 1,
+      "row": 87,
+      "needsReview": true,
+      "ocrConfidence": 43.9
+    },
+    {
+      "word": "ファーストフィット",
+      "pages": "257",
+      "indexPage": 803,
+      "column": 1,
+      "row": 88,
+      "needsReview": false,
+      "ocrConfidence": 83.6
+    },
+    {
+      "word": "ファイアウォール",
+      "pages": "458",
+      "indexPage": 803,
+      "column": 1,
+      "row": 89,
+      "needsReview": false,
+      "ocrConfidence": 84.0
+    },
+    {
+      "word": "ファイバチャネル",
+      "pages": "131",
+      "indexPage": 803,
+      "column": 1,
+      "row": 90,
+      "needsReview": false,
+      "ocrConfidence": 80.8
+    },
+    {
+      "word": "DPAF24",
+      "pages": "29611",
+      "indexPage": 803,
+      "column": 1,
+      "row": 91,
+      "needsReview": true,
+      "ocrConfidence": 0.0
+    },
+    {
+      "word": "ファイルシステム",
+      "pages": "238.278",
+      "indexPage": 803,
+      "column": 1,
+      "row": 92,
+      "needsReview": false,
+      "ocrConfidence": 76.1
+    },
+    {
+      "word": "ファイルストレージ",
+      "pages": "190",
+      "indexPage": 803,
+      "column": 1,
+      "row": 93,
+      "needsReview": false,
+      "ocrConfidence": 88.1
+    },
+    {
+      "word": "ファイルレス衝軸",
+      "pages": "471",
+      "indexPage": 803,
+      "column": 1,
+      "row": 94,
+      "needsReview": true,
+      "ocrConfidence": 51.2
+    },
+    {
+      "word": "ファインチューニング",
+      "pages": "70",
+      "indexPage": 803,
+      "column": 1,
+      "row": 95,
+      "needsReview": false,
+      "ocrConfidence": 88.9
+    },
+    {
+      "word": "ファウンドリ",
+      "pages": "626",
+      "indexPage": 803,
+      "column": 1,
+      "row": 96,
+      "needsReview": false,
+      "ocrConfidence": 81.9
+    },
+    {
+      "word": "ファウンドリ企業",
+      "pages": "626",
+      "indexPage": 803,
+      "column": 1,
+      "row": 97,
+      "needsReview": false,
+      "ocrConfidence": 79.5
+    },
+    {
+      "word": "ファシリテータ",
+      "pages": "548",
+      "indexPage": 803,
+      "column": 1,
+      "row": 98,
+      "needsReview": false,
+      "ocrConfidence": 91.4
+    },
+    {
+      "word": "ファジング",
+      "pages": "535,629",
+      "indexPage": 803,
+      "column": 1,
+      "row": 99,
+      "needsReview": false,
+      "ocrConfidence": 78.0
+    },
+    {
+      "word": "ファズ mm",
+      "pages": "535",
+      "indexPage": 803,
+      "column": 1,
+      "row": 100,
+      "needsReview": true,
+      "ocrConfidence": 55.2
+    },
+    {
+      "word": "ファストトラッキング",
+      "pages": "568",
+      "indexPage": 803,
+      "column": 1,
+      "row": 101,
+      "needsReview": false,
+      "ocrConfidence": 83.8
+    },
+    {
+      "word": "ファブレス",
+      "pages": "626",
+      "indexPage": 803,
+      "column": 1,
+      "row": 102,
+      "needsReview": false,
+      "ocrConfidence": 88.6
+    },
+    {
+      "word": "ファブレス企業",
+      "pages": "686.754",
+      "indexPage": 803,
+      "column": 1,
+      "row": 103,
+      "needsReview": false,
+      "ocrConfidence": 75.2
+    },
+    {
+      "word": "ファンクション押",
+      "pages": "176",
+      "indexPage": 803,
+      "column": 1,
+      "row": 104,
+      "needsReview": true,
+      "ocrConfidence": 68.1
+    },
+    {
+      "word": "ファンクションポイント法",
+      "pages": "568",
+      "indexPage": 803,
+      "column": 1,
+      "row": 105,
+      "needsReview": false,
+      "ocrConfidence": 77.6
+    },
+    {
+      "word": "フィージビリティスタディ",
+      "pages": "619",
+      "indexPage": 803,
+      "column": 1,
+      "row": 106,
+      "needsReview": false,
+      "ocrConfidence": 83.6
+    },
+    {
+      "word": "フィーディングバッファ",
+      "pages": "563",
+      "indexPage": 803,
+      "column": 1,
+      "row": 107,
+      "needsReview": false,
+      "ocrConfidence": 83.1
+    },
+    {
+      "word": "フィードリック抽人",
+      "pages": "130",
+      "indexPage": 803,
+      "column": 1,
+      "row": 108,
+      "needsReview": true,
+      "ocrConfidence": 60.5
+    },
+    {
+      "word": "24-8249— KBB",
+      "pages": "130",
+      "indexPage": 803,
+      "column": 1,
+      "row": 109,
+      "needsReview": true,
+      "ocrConfidence": 8.1
+    },
+    {
+      "word": "フィッシング",
+      "pages": "469",
+      "indexPage": 803,
+      "column": 1,
+      "row": 110,
+      "needsReview": false,
+      "ocrConfidence": 90.9
+    },
+    {
+      "word": "フィット 8 ギャップ分析",
+      "pages": "601",
+      "indexPage": 803,
+      "column": 1,
+      "row": 111,
+      "needsReview": true,
+      "ocrConfidence": 69.4
+    },
+    {
+      "word": "Ne",
+      "pages": "458.459",
+      "indexPage": 803,
+      "column": 1,
+      "row": 112,
+      "needsReview": true,
+      "ocrConfidence": 25.4
+    },
+    {
+      "word": "フィンテック",
+      "pages": "624",
+      "indexPage": 803,
+      "column": 1,
+      "row": 113,
+      "needsReview": false,
+      "ocrConfidence": 91.5
+    },
+    {
+      "word": "プール化",
+      "pages": "193",
+      "indexPage": 803,
+      "column": 1,
+      "row": 114,
+      "needsReview": true,
+      "ocrConfidence": 71.9
+    },
+    {
+      "word": "フールプルーフ",
+      "pages": "183.184",
+      "indexPage": 803,
+      "column": 1,
+      "row": 115,
+      "needsReview": false,
+      "ocrConfidence": 79.1
+    },
+    {
+      "word": "フェールオーバ",
+      "pages": "183.184",
+      "indexPage": 803,
+      "column": 1,
+      "row": 116,
+      "needsReview": false,
+      "ocrConfidence": 80.6
+    }
+  ]
+}

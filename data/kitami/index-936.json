@@ -1,0 +1,1061 @@
+{
+  "indexPage": 936,
+  "entries": [
+    {
+      "word": "CPI",
+      "pages": "187,190",
+      "indexPage": 936,
+      "column": 0,
+      "row": 1,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CPI",
+        "tesseract": "CPIvance:"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "cps",
+      "pages": "275",
+      "indexPage": 936,
+      "column": 0,
+      "row": 2,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "cps",
+        "tesseract": "cpser"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "CPU",
+      "pages": "164,167",
+      "indexPage": 936,
+      "column": 0,
+      "row": 3,
+      "needsReview": false
+    },
+    {
+      "word": "CPUの高速化技術",
+      "pages": "195",
+      "indexPage": 936,
+      "column": 0,
+      "row": 4,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CPUの高速化技",
+        "tesseract": "CPUの高速化技術"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "olin",
+      "pages": "187",
+      "indexPage": 936,
+      "column": 0,
+      "row": 5,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "olin"
+      },
+      "reviewReason": "補完した行を要確認 / 英字の用語が不鮮明"
+    },
+    {
+      "word": "CRC",
+      "pages": "535,539",
+      "indexPage": 936,
+      "column": 0,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "CREATETABLE文",
+      "pages": "478",
+      "indexPage": 936,
+      "column": 0,
+      "row": 7,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CREATETABLE文",
+        "tesseract": "CREATETABLE文"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "CREATEVIEW文",
+      "pages": "481",
+      "indexPage": 936,
+      "column": 0,
+      "row": 8,
+      "needsReview": false
+    },
+    {
+      "word": "CRL",
+      "pages": "659",
+      "indexPage": 936,
+      "column": 0,
+      "row": 9,
+      "needsReview": false
+    },
+    {
+      "word": "CRM",
+      "pages": "880",
+      "indexPage": 936,
+      "column": 0,
+      "row": 10,
+      "needsReview": false
+    },
+    {
+      "word": "CRTディスプレイ",
+      "pages": "271",
+      "indexPage": 936,
+      "column": 0,
+      "row": 11,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CRT",
+        "tesseract": "CRTディスプレイ"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CSIRTマテリアル",
+      "pages": "615",
+      "indexPage": 936,
+      "column": 0,
+      "row": 12,
+      "needsReview": false
+    },
+    {
+      "word": "CSMA/CD方式",
+      "pages": "509",
+      "indexPage": 936,
+      "column": 0,
+      "row": 13,
+      "needsReview": false
+    },
+    {
+      "word": "CUI",
+      "pages": "707",
+      "indexPage": 936,
+      "column": 0,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CUI",
+        "tesseract": "CUIoooeoeoeaeeaeeaeo"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CustomerRelationshipManagement",
+      "pages": "80",
+      "indexPage": 936,
+      "column": 0,
+      "row": 15,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CustomerRelationshipManagement",
+        "tesseract": "CustomerRelationshipManageme"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "CyclicRedundancyCheck",
+      "pages": "539",
+      "indexPage": 936,
+      "column": 0,
+      "row": 16,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "CyclicRedundancyCheck",
+        "tesseract": "CyclicRedundancyCheckcna"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "C营語",
+      "pages": "353",
+      "indexPage": 936,
+      "column": 0,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "DA変換",
+      "pages": "160",
+      "indexPage": 936,
+      "column": 0,
+      "row": 18,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "D/A变换",
+        "tesseract": "DA変換"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DAT",
+      "pages": "332",
+      "indexPage": 936,
+      "column": 0,
+      "row": 19,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DAT",
+        "tesseract": "DATconcovcccacsenscunacsccacccccsansea"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Data Definition Language",
+      "pages": "457",
+      "indexPage": 936,
+      "column": 0,
+      "row": 20,
+      "needsReview": false
+    },
+    {
+      "word": "Data Manipulation Language",
+      "pages": "457",
+      "indexPage": 936,
+      "column": 0,
+      "row": 21,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Data Manipulation Language",
+        "tesseract": "DataManipulationLanguag"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DBMS",
+      "pages": "432",
+      "indexPage": 936,
+      "column": 0,
+      "row": 22,
+      "needsReview": false
+    },
+    {
+      "word": "DDL",
+      "pages": "457",
+      "indexPage": 936,
+      "column": 0,
+      "row": 23,
+      "needsReview": false
+    },
+    {
+      "word": "DDoS攻撃",
+      "pages": "625",
+      "indexPage": 936,
+      "column": 0,
+      "row": 24,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DDoS攻擎",
+        "tesseract": "DDoS攻撃"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DELETE文",
+      "pages": "479",
+      "indexPage": 936,
+      "column": 0,
+      "row": 25,
+      "needsReview": false
+    },
+    {
+      "word": "DeMilitarizedZone",
+      "pages": "646",
+      "indexPage": 936,
+      "column": 0,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "DenialofService攻撃",
+      "pages": "625",
+      "indexPage": 936,
+      "column": 0,
+      "row": 27,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DenialofService玫擎",
+        "tesseract": "DenialofService攻撃"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DES",
+      "pages": "660",
+      "indexPage": 936,
+      "column": 0,
+      "row": 28,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DES",
+        "tesseract": "DESTTYT"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DESC",
+      "pages": "465",
+      "indexPage": 936,
+      "column": 0,
+      "row": 29,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DESC",
+        "tesseract": "DOESCee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DFD",
+      "pages": "699,700",
+      "indexPage": 936,
+      "column": 0,
+      "row": 30,
+      "needsReview": false
+    },
+    {
+      "word": "DHCP",
+      "pages": "562",
+      "indexPage": 936,
+      "column": 0,
+      "row": 31,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DHCP",
+        "tesseract": "DHCPee"
+      },
+      "reviewReason": "ページ認識の確度 / 用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DHCPACK",
+      "pages": "563",
+      "indexPage": 936,
+      "column": 0,
+      "row": 32,
+      "needsReview": false
+    },
+    {
+      "word": "DHCPDISCOVER",
+      "pages": "563",
+      "indexPage": 936,
+      "column": 0,
+      "row": 33,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DHCPDISCOVER",
+        "tesseract": "OHCPDISCOVER"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DHCPOFFER",
+      "pages": "563",
+      "indexPage": 936,
+      "column": 0,
+      "row": 34,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DHCPOFFER",
+        "tesseract": "DHCPOFFERaasasasamee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DHCPREQUEST",
+      "pages": "563",
+      "indexPage": 936,
+      "column": 0,
+      "row": 35,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DHCPREQUEST",
+        "tesseract": "OHCPREQUEST"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DirectMemoryAccess制御方式",
+      "pages": "254",
+      "indexPage": 936,
+      "column": 0,
+      "row": 36,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DirectMemoryAccess制御方式",
+        "tesseract": "DirectMemoryAccessMBAR"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DISTINCT",
+      "pages": "463",
+      "indexPage": 936,
+      "column": 0,
+      "row": 37,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DISTINCT",
+        "tesseract": "OISTINCTS)seeO"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DistributedDenialofService攻",
+      "pages": "625",
+      "indexPage": 936,
+      "column": 0,
+      "row": 38,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Distributed DenialofService攻攀",
+        "tesseract": "DistributedDenialofService攻"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DMAコントローラ",
+      "pages": "255",
+      "indexPage": 936,
+      "column": 0,
+      "row": 39,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DMA",
+        "tesseract": "DMAコントローラ"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DMA制御方式",
+      "pages": "254",
+      "indexPage": 936,
+      "column": 0,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "DMZ",
+      "pages": "646",
+      "indexPage": 936,
+      "column": 0,
+      "row": 41,
+      "needsReview": false
+    },
+    {
+      "word": "DNS",
+      "pages": "565",
+      "indexPage": 936,
+      "column": 0,
+      "row": 42,
+      "needsReview": false
+    },
+    {
+      "word": "DNSSEC",
+      "pages": "625",
+      "indexPage": 936,
+      "column": 0,
+      "row": 43,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DNSSEC",
+        "tesseract": "DNSSECee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DNSキャッシュポイズニング",
+      "pages": "625",
+      "indexPage": 936,
+      "column": 0,
+      "row": 44,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DNS",
+        "tesseract": "DNSキャッシュポイズニング"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DNSサーバ",
+      "pages": "565",
+      "indexPage": 936,
+      "column": 0,
+      "row": 45,
+      "needsReview": false
+    },
+    {
+      "word": "Domain Name System",
+      "pages": "565",
+      "indexPage": 936,
+      "column": 0,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Domain Name System",
+        "tesseract": "DomainNameSystemences:"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DoS攻撃",
+      "pages": "625",
+      "indexPage": 936,
+      "column": 0,
+      "row": 47,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DoS攻",
+        "tesseract": "DoS攻撃"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "dotperinch",
+      "pages": "275",
+      "indexPage": 936,
+      "column": 0,
+      "row": 48,
+      "needsReview": false
+    },
+    {
+      "word": "dpi",
+      "pages": "275",
+      "indexPage": 936,
+      "column": 0,
+      "row": 49,
+      "needsReview": false
+    },
+    {
+      "word": "DVD",
+      "pages": "245",
+      "indexPage": 936,
+      "column": 0,
+      "row": 50,
+      "needsReview": false
+    },
+    {
+      "word": "DynamicAddress Translator",
+      "pages": "332",
+      "indexPage": 936,
+      "column": 0,
+      "row": 51,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DynamicAddress Translator",
+        "tesseract": "DynamicAddressTranslatoree"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "DynamicHost ConfigurationProtocol",
+      "pages": "562",
+      "indexPage": 936,
+      "column": 0,
+      "row": 52,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "DynamicHost ConfigurationProtocol",
+        "tesseract": "DynamicHostConfigurationProto"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "EA",
+      "pages": "865",
+      "indexPage": 936,
+      "column": 0,
+      "row": 53,
+      "needsReview": false
+    },
+    {
+      "word": "EBCDIC",
+      "pages": "127",
+      "indexPage": 936,
+      "column": 1,
+      "row": 1,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "EBCDIC",
+        "tesseract": "EBCDIC"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "EC",
+      "pages": "868",
+      "indexPage": 936,
+      "column": 1,
+      "row": 2,
+      "needsReview": false
+    },
+    {
+      "word": "ECCメモ!",
+      "pages": "541",
+      "indexPage": 936,
+      "column": 1,
+      "row": 3,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ECCXEU",
+        "tesseract": "ECCメモ!"
+      },
+      "reviewReason": "用語に記号が混入"
+    },
+    {
+      "word": "EO!",
+      "pages": "869,870",
+      "indexPage": 936,
+      "column": 1,
+      "row": 4,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "EO!",
+        "tesseract": "EO!asnensacansqnensy"
+      },
+      "reviewReason": "用語の読み取り候補が不一致 / 用語に記号が混入"
+    },
+    {
+      "word": "EEPROM",
+      "pages": "212",
+      "indexPage": 936,
+      "column": 1,
+      "row": 5,
+      "needsReview": false
+    },
+    {
+      "word": "EIDE",
+      "pages": "260",
+      "indexPage": 936,
+      "column": 1,
+      "row": 6,
+      "needsReview": false
+    },
+    {
+      "word": "ElectricallyEPROM",
+      "pages": "212",
+      "indexPage": 936,
+      "column": 1,
+      "row": 7,
+      "needsReview": false
+    },
+    {
+      "word": "Electronic Commerce",
+      "pages": "868",
+      "indexPage": 936,
+      "column": 1,
+      "row": 8,
+      "needsReview": false
+    },
+    {
+      "word": "ElectronicDataInterchange",
+      "pages": "869,870",
+      "indexPage": 936,
+      "column": 1,
+      "row": 9,
+      "needsReview": false
+    },
+    {
+      "word": "EncapsulatingSecurityPayload",
+      "pages": "663",
+      "indexPage": 936,
+      "column": 1,
+      "row": 10,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "EncapsulatingSecurityPayload",
+        "tesseract": "EncapsulatingSecurityPayload"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "EnterpriseArchitecture",
+      "pages": "865",
+      "indexPage": 936,
+      "column": 1,
+      "row": 11,
+      "needsReview": false
+    },
+    {
+      "word": "ErasablePROM",
+      "pages": "212",
+      "indexPage": 936,
+      "column": 1,
+      "row": 12,
+      "needsReview": false
+    },
+    {
+      "word": "E-R図",
+      "pages": "699,702",
+      "indexPage": 936,
+      "column": 1,
+      "row": 13,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "E-R",
+        "tesseract": "E-R図"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "ESP",
+      "pages": "663",
+      "indexPage": 936,
+      "column": 1,
+      "row": 14,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ESP",
+        "tesseract": "ESP"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ESSID",
+      "pages": "513",
+      "indexPage": 936,
+      "column": 1,
+      "row": 15,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "ESSID"
+      },
+      "reviewReason": "英字の用語が不鮮明"
+    },
+    {
+      "word": "Ethernet",
+      "pages": "508",
+      "indexPage": 936,
+      "column": 1,
+      "row": 16,
+      "needsReview": false
+    },
+    {
+      "word": "EUC",
+      "pages": "127",
+      "indexPage": 936,
+      "column": 1,
+      "row": 17,
+      "needsReview": false
+    },
+    {
+      "word": "EXISTS",
+      "pages": "473",
+      "indexPage": 936,
+      "column": 1,
+      "row": 18,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "EXISTS",
+        "tesseract": "EXISTSee"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Extreme Programming",
+      "pages": "695",
+      "indexPage": 936,
+      "column": 1,
+      "row": 19,
+      "needsReview": false
+    },
+    {
+      "word": "eかんばん方式",
+      "pages": "924,918",
+      "indexPage": 936,
+      "column": 1,
+      "row": 20,
+      "needsReview": false
+    },
+    {
+      "word": "FDM方式",
+      "pages": "276",
+      "indexPage": 936,
+      "column": 1,
+      "row": 21,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "FDM方式",
+        "tesseract": "FOMAX"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "Field ProgrammableGateArray",
+      "pages": "158",
+      "indexPage": 936,
+      "column": 1,
+      "row": 22,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "Field ProgrammableGateArray",
+        "tesseract": "FieldProgrammableGateArray"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "FIFO方式",
+      "pages": "339",
+      "indexPage": 936,
+      "column": 1,
+      "row": 23,
+      "needsReview": false
+    },
+    {
+      "word": "File TransferProtocol",
+      "pages": "573",
+      "indexPage": 936,
+      "column": 1,
+      "row": 24,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "File TransferProtocol",
+        "tesseract": "FileTransferProtocoler"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "FirstInFirst Out",
+      "pages": "339",
+      "indexPage": 936,
+      "column": 1,
+      "row": 25,
+      "needsReview": false
+    },
+    {
+      "word": "FPGA",
+      "pages": "158",
+      "indexPage": 936,
+      "column": 1,
+      "row": 26,
+      "needsReview": false
+    },
+    {
+      "word": "FTP",
+      "pages": "573",
+      "indexPage": 936,
+      "column": 1,
+      "row": 27,
+      "needsReview": false
+    },
+    {
+      "word": "FusedDepositionModeling方式",
+      "pages": "276",
+      "indexPage": 936,
+      "column": 1,
+      "row": 28,
+      "needsReview": false
+    },
+    {
+      "word": "G(キガ)",
+      "pages": "124",
+      "indexPage": 936,
+      "column": 1,
+      "row": 29,
+      "needsReview": false
+    },
+    {
+      "word": "GPSセンサ",
+      "pages": "161",
+      "indexPage": 936,
+      "column": 1,
+      "row": 30,
+      "needsReview": false
+    },
+    {
+      "word": "GPU",
+      "pages": "203",
+      "indexPage": 936,
+      "column": 1,
+      "row": 31,
+      "needsReview": false
+    },
+    {
+      "word": "Graphical User Interface",
+      "pages": "707",
+      "indexPage": 936,
+      "column": 1,
+      "row": 32,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "",
+        "tesseract": "Graphical User Interface"
+      },
+      "reviewReason": "補完した行を要確認"
+    },
+    {
+      "word": "GROUPBY句",
+      "pages": "467",
+      "indexPage": 936,
+      "column": 1,
+      "row": 33,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "GROUPBY句",
+        "tesseract": "GROUPBY®)"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "GUI",
+      "pages": "707",
+      "indexPage": 936,
+      "column": 1,
+      "row": 34,
+      "needsReview": false
+    },
+    {
+      "word": "HAVING句",
+      "pages": "468",
+      "indexPage": 936,
+      "column": 1,
+      "row": 35,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "HAVING句",
+        "tesseract": "HAVING®)"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "HighAvailabilityクラスタ",
+      "pages": "763",
+      "indexPage": 936,
+      "column": 1,
+      "row": 36,
+      "needsReview": false
+    },
+    {
+      "word": "HighPerformanceComputingクラフ",
+      "pages": "763",
+      "indexPage": 936,
+      "column": 1,
+      "row": 37,
+      "needsReview": false
+    },
+    {
+      "word": "Honeypot",
+      "pages": "627",
+      "indexPage": 936,
+      "column": 1,
+      "row": 38,
+      "needsReview": false
+    },
+    {
+      "word": "HPCクラスタ",
+      "pages": "763",
+      "indexPage": 936,
+      "column": 1,
+      "row": 39,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "HP",
+        "tesseract": "HPCクラスタ"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "HTML",
+      "pages": "579",
+      "indexPage": 936,
+      "column": 1,
+      "row": 40,
+      "needsReview": false
+    },
+    {
+      "word": "HTML形式",
+      "pages": "594",
+      "indexPage": 936,
+      "column": 1,
+      "row": 41,
+      "needsReview": false
+    },
+    {
+      "word": "HTTP",
+      "pages": "573",
+      "indexPage": 936,
+      "column": 1,
+      "row": 42,
+      "needsReview": false
+    },
+    {
+      "word": "HTTPS",
+      "pages": "661",
+      "indexPage": 936,
+      "column": 1,
+      "row": 43,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "HTTPS",
+        "tesseract": "HTTPS:seensneu"
+      },
+      "reviewReason": "用語の読み取り候補が不一致"
+    },
+    {
+      "word": "HyperTextMarkup Language",
+      "pages": "579",
+      "indexPage": 936,
+      "column": 1,
+      "row": 44,
+      "needsReview": false
+    },
+    {
+      "word": "HyperTextTransferProtocol",
+      "pages": "573",
+      "indexPage": 936,
+      "column": 1,
+      "row": 45,
+      "needsReview": false
+    },
+    {
+      "word": "ICMP",
+      "pages": "566",
+      "indexPage": 936,
+      "column": 1,
+      "row": 46,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "ICMP",
+        "tesseract": "ICMP"
+      },
+      "reviewReason": "ページ認識の確度"
+    },
+    {
+      "word": "ICT",
+      "pages": "599",
+      "indexPage": 936,
+      "column": 1,
+      "row": 47,
+      "needsReview": false
+    },
+    {
+      "word": "ICタグ",
+      "pages": "270",
+      "indexPage": 936,
+      "column": 1,
+      "row": 48,
+      "needsReview": false
+    },
+    {
+      "word": "I",
+      "pages": "261,263",
+      "indexPage": 936,
+      "column": 1,
+      "row": 49,
+      "needsReview": true,
+      "alternatives": {
+        "rapidOCR": "I",
+        "tesseract": "I"
+      },
+      "reviewReason": "用語が欠落または短い"
+    }
+  ]
+}
